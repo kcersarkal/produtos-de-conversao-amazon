@@ -21,8 +21,8 @@ const PRODUCTS = [
       "Cor": "branco"
     },
     "affiliate_url": "https://www.amazon.com.br/Frigobar-Litros-Compact-Branco-Efb80/dp/B0GQC5GM8M/ref=zg_bs_g_16745429011_d_sccl_1/147-0222178-8072733?psc=1&tag=mixdm22-20",
-    "last_checked_at": "2026-07-16T21:24:52.000Z",
-    "spotlight": false
+    "last_checked_at": "2026-07-16T21:33:45.000Z",
+    "spotlight": true
   },
   {
     "asin": "index-1",
@@ -46,8 +46,8 @@ const PRODUCTS = [
       "Número de portas": "1"
     },
     "affiliate_url": "https://www.amazon.com.br/Frigobar-Litros-Inverter-Bivolt-Branco/dp/B0GJG36MCZ/ref=zg_bs_g_16745429011_d_sccl_2/147-0222178-8072733?psc=1&tag=mixdm22-20",
-    "last_checked_at": "2026-07-16T21:24:52.000Z",
-    "spotlight": false
+    "last_checked_at": "2026-07-16T21:33:45.000Z",
+    "spotlight": true
   },
   {
     "asin": "index-11",
@@ -71,8 +71,8 @@ const PRODUCTS = [
       "Número de portas": "1"
     },
     "affiliate_url": "https://www.amazon.com.br/Frigobar-Brastemp-Retr%C3%B4-Litros-Classic/dp/B0GQZFF9VC/ref=zg_bs_g_16745429011_d_sccl_12/147-0222178-8072733?psc=1&tag=mixdm22-20",
-    "last_checked_at": "2026-07-16T21:24:52.000Z",
-    "spotlight": false
+    "last_checked_at": "2026-07-16T21:33:45.000Z",
+    "spotlight": true
   },
   {
     "asin": "index-12",
@@ -96,7 +96,7 @@ const PRODUCTS = [
       "Número de portas": "1"
     },
     "affiliate_url": "https://www.amazon.com.br/Frigobar-Brastemp-Retr%C3%B4-Litros-Classic/dp/B0GR18BSVR/ref=zg_bs_g_16745429011_d_sccl_13/147-0222178-8072733?psc=1&tag=mixdm22-20",
-    "last_checked_at": "2026-07-16T21:24:52.000Z",
+    "last_checked_at": "2026-07-16T21:33:45.000Z",
     "spotlight": false
   },
   {
@@ -121,7 +121,7 @@ const PRODUCTS = [
       "Cor": "Branco"
     },
     "affiliate_url": "https://www.amazon.com.br/Frigobar-Midea-127V-MRC06B1-Branco/dp/B0778TZGBJ/ref=zg_bs_g_16745429011_d_sccl_18/147-0222178-8072733?psc=1&tag=mixdm22-20",
-    "last_checked_at": "2026-07-16T21:24:52.000Z",
+    "last_checked_at": "2026-07-16T21:33:45.000Z",
     "spotlight": false
   },
   {
@@ -146,7 +146,7 @@ const PRODUCTS = [
       "Cor": "Preto"
     },
     "affiliate_url": "https://www.amazon.com.br/Frigobar-Compact-124l-Efb131p-Preto/dp/B0C9VQ3R6V/ref=zg_bs_g_16745429011_d_sccl_23/147-0222178-8072733?psc=1&tag=mixdm22-20",
-    "last_checked_at": "2026-07-16T21:24:52.000Z",
+    "last_checked_at": "2026-07-16T21:33:45.000Z",
     "spotlight": false
   },
   {
@@ -171,7 +171,7 @@ const PRODUCTS = [
       "Cor": "preto"
     },
     "affiliate_url": "https://www.amazon.com.br/Geladeira-Port%C3%A1til-Quadrivolt-Caminh%C3%A3o-Bluetooth/dp/B0GRX2LDYW/ref=zg_bs_g_16745429011_d_sccl_25/147-0222178-8072733?psc=1&tag=mixdm22-20",
-    "last_checked_at": "2026-07-16T21:24:52.000Z",
+    "last_checked_at": "2026-07-16T21:33:45.000Z",
     "spotlight": false
   },
   {
@@ -190,7 +190,7 @@ const PRODUCTS = [
     "description": "<ul><li>[Compartimento Gela Rápido] Espaço que acelera o resfriamento de seus alimentos e bebidas</li><li>[Compartimentos Adequados] Supercompacto com espaço otimizado, com espaço para garrafa 2L</li><li>[Considerar Design] 45L de capacidade, dimensões de 45,0 x 47,2 x 49,2 cm. É perfeito para dormitórios universitários, escritórios, garagens e pequenos apartamentos</li><li>[Termostato ajustável] O controle da temperatura pode ser ajustado para melhor atender as condições de conservação dos alimentos, conforme o grau de utilização do aparelho</li><li>[Economia de Energia] Selo Procel e classificação “A” no Programa Brasileiro de Etiquetagem(PBE), mais economia para o seu bolso</li><li>[Componentes Incluídos] Frigobar e manual do usuário e garantia de 1 ano</li></ul>",
     "informacoes_produto": {},
     "affiliate_url": "https://www.amazon.com.br/Frigobar-45L-INOX-127V-Midea/dp/B0937J2WBG/ref=zg_bs_g_16745429011_d_sccl_41/147-0222178-8072733?psc=1&tag=mixdm22-20",
-    "last_checked_at": "2026-07-16T21:24:52.000Z",
+    "last_checked_at": "2026-07-16T21:33:45.000Z",
     "spotlight": false
   },
   {
@@ -215,7 +215,7 @@ const PRODUCTS = [
       "Cor": "branco"
     },
     "affiliate_url": "https://www.amazon.com.br/Frigobar-70L-Elgin-Revers%C3%ADvel-Compartimento/dp/B0FNY36KPD/ref=zg_bs_g_16745429011_d_sccl_49/147-0222178-8072733?psc=1&tag=mixdm22-20",
-    "last_checked_at": "2026-07-16T21:24:52.000Z",
+    "last_checked_at": "2026-07-16T21:33:45.000Z",
     "spotlight": false
   },
   {
@@ -240,7 +240,7 @@ const PRODUCTS = [
       "Número de portas": "1"
     },
     "affiliate_url": "https://www.amazon.com.br/Frigobar-Litros-Inverter-Bivolt-Preto/dp/B0GJFGN88Z/ref=zg_bs_g_16745429011_d_sccl_50/147-0222178-8072733?psc=1&tag=mixdm22-20",
-    "last_checked_at": "2026-07-16T21:24:52.000Z",
+    "last_checked_at": "2026-07-16T21:33:45.000Z",
     "spotlight": false
   }
 ];
