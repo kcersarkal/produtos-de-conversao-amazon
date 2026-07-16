@@ -16,7 +16,7 @@ const PRODUCTS = [
     "informacoes_produto": {},
     "affiliate_url": "https://www.amazon.com.br/Frigobar-45L-INOX-127V-Midea/dp/B0937J2WBG/ref=zg_bs_g_16745429011_d_sccl_41/142-9472246-4263704?psc=1&tag=mixdm22-20",
     "last_checked_at": "2026-07-16T20:00:31.670Z",
-    "spotlight": true
+    "spotlight": false
   },
   {
     "asin": "B0H5F83BGH",
@@ -40,7 +40,7 @@ const PRODUCTS = [
     },
     "affiliate_url": "https://www.amazon.com.br/Panelas-Cer%C3%A2mica-Antiaderente-Vanilla-El%C3%A9trico/dp/B0H5F83BGH?ref=dlx_deals_dg_dcl_B0H5F83BGH_dt_sl14_88_pi&pf_rd_r=9BCK2EGT9YJJTWDHHMPH&pf_rd_p=a43a02c5-fe2d-4a34-af71-7d62fff70488&tag=mixdm22-20",
     "last_checked_at": "2026-07-16T20:00:31.670Z",
-    "spotlight": true
+    "spotlight": false
   },
   {
     "asin": "B08657FW96",
@@ -65,7 +65,7 @@ const PRODUCTS = [
     },
     "affiliate_url": "https://www.amazon.com.br/Microondas-30L-Ms3091Bc-Branco-127V/dp/B08657FW96?ref=dlx_deals_dg_dcl_B08657FW96_dt_sl14_88_pi&pf_rd_r=9BCK2EGT9YJJTWDHHMPH&pf_rd_p=a43a02c5-fe2d-4a34-af71-7d62fff70488&tag=mixdm22-20",
     "last_checked_at": "2026-07-16T20:00:31.670Z",
-    "spotlight": true
+    "spotlight": false
   },
   {
     "asin": "B0GH6YHQ87",
@@ -90,7 +90,7 @@ const PRODUCTS = [
     },
     "affiliate_url": "https://www.amazon.com.br/El%C3%A9trico-Profissional-Inoxid%C3%A1vel-Dom%C3%A9sticas-Restaurantes/dp/B0GH6YHQ87?ref=dlx_deals_dg_dcl_B0GH6YHQ87_dt_sl14_88_pi&pf_rd_r=9BCK2EGT9YJJTWDHHMPH&pf_rd_p=a43a02c5-fe2d-4a34-af71-7d62fff70488&tag=mixdm22-20",
     "last_checked_at": "2026-07-16T20:00:31.670Z",
-    "spotlight": true
+    "spotlight": false
   },
   {
     "asin": "B099ZBTCQ3",
@@ -115,7 +115,7 @@ const PRODUCTS = [
     },
     "affiliate_url": "https://www.amazon.com.br/Nespresso-Cafeteira-Espresso-compacta-autom%C3%A1tica/dp/B099ZBTCQ3?ref=dlx_deals_dg_dcl_B099ZBTCQ3_dt_sl14_88_pi&pf_rd_r=9BCK2EGT9YJJTWDHHMPH&pf_rd_p=a43a02c5-fe2d-4a34-af71-7d62fff70488&sbo=RZvfv%2F%2FHxDF%2BO5021pAnSA%3D%3D&tag=mixdm22-20",
     "last_checked_at": "2026-07-16T20:00:31.670Z",
-    "spotlight": true
+    "spotlight": false
   },
   {
     "asin": "B0GQDTX1TC",
@@ -139,7 +139,7 @@ const PRODUCTS = [
     },
     "affiliate_url": "https://www.amazon.com.br/Garrafa-T%C3%A9rmica-Grande-Capacidade-Quente/dp/B0GQDTX1TC?ref=dlx_deals_dg_dcl_B0GQDTX1TC_dt_sl14_88_pi&pf_rd_r=9BCK2EGT9YJJTWDHHMPH&pf_rd_p=a43a02c5-fe2d-4a34-af71-7d62fff70488&sbo=RZvfv%2F%2FHxDF%2BO5021pAnSA%3D%3D&tag=mixdm22-20",
     "last_checked_at": "2026-07-16T20:00:31.670Z",
-    "spotlight": true
+    "spotlight": false
   },
   {
     "asin": "B0FRGNYP69",
@@ -164,7 +164,7 @@ const PRODUCTS = [
     },
     "affiliate_url": "https://www.amazon.com.br/Avant-Neo-Colorida-Dimeriz%C3%A1vel-Compat%C3%ADvel/dp/B0FRGNYP69?ref=dlx_deals_dg_dcl_B0FRGNYP69_dt_sl14_88_pi&pf_rd_r=W7GQN5XA53AKDPB1E46N&pf_rd_p=a43a02c5-fe2d-4a34-af71-7d62fff70488&tag=mixdm22-20",
     "last_checked_at": "2026-07-16T20:00:31.670Z",
-    "spotlight": true
+    "spotlight": false
   },
   {
     "asin": "B0DJ1N5995",
@@ -189,7 +189,7 @@ const PRODUCTS = [
     },
     "affiliate_url": "https://www.amazon.com.br/Cabeceira-Dit%C3%A1lia-Verde-Oliva-DM-125/dp/B0DJ1N5995?ref=dlx_deals_dg_dcl_B0DJ1N5995_dt_sl14_88_pi&pf_rd_r=W7GQN5XA53AKDPB1E46N&pf_rd_p=a43a02c5-fe2d-4a34-af71-7d62fff70488&tag=mixdm22-20",
     "last_checked_at": "2026-07-16T20:00:31.670Z",
-    "spotlight": true
+    "spotlight": false
   },
   {
     "asin": "B0FX3SW5CG",
@@ -214,7 +214,7 @@ const PRODUCTS = [
     },
     "affiliate_url": "https://www.amazon.com.br/Organizador-Multiuso-Retangulares-Pl%C3%A1stico-Acess%C3%B3rios/dp/B0FX3SW5CG?ref=dlx_deals_dg_dcl_B0FX3SW5CG_dt_sl14_88_pi&pf_rd_r=W7GQN5XA53AKDPB1E46N&pf_rd_p=a43a02c5-fe2d-4a34-af71-7d62fff70488&tag=mixdm22-20",
     "last_checked_at": "2026-07-16T20:00:31.670Z",
-    "spotlight": true
+    "spotlight": false
   },
   {
     "asin": "B0H27HY5J2",
@@ -238,7 +238,7 @@ const PRODUCTS = [
     },
     "affiliate_url": "https://www.amazon.com.br/Esponjas-Melamina-Multiuso-Produtos-Qu%C3%ADmicos/dp/B0H27HY5J2?ref=dlx_deals_dg_dcl_B0H27HY5J2_dt_sl14_88_pi&pf_rd_r=W7GQN5XA53AKDPB1E46N&pf_rd_p=a43a02c5-fe2d-4a34-af71-7d62fff70488&tag=mixdm22-20",
     "last_checked_at": "2026-07-16T20:00:31.670Z",
-    "spotlight": true
+    "spotlight": false
   },
   {
     "asin": "B072DTQDPM",
@@ -262,7 +262,7 @@ const PRODUCTS = [
     },
     "affiliate_url": "https://www.amazon.com.br/VASAGLE-industrial-utilit%C3%A1rio-armazenamento-ULRC78X/dp/B072DTQDPM?ref=dlx_deals_dg_dcl_B072DTQDPM_dt_sl14_88_pi&pf_rd_r=W7GQN5XA53AKDPB1E46N&pf_rd_p=a43a02c5-fe2d-4a34-af71-7d62fff70488&tag=mixdm22-20",
     "last_checked_at": "2026-07-16T20:00:31.670Z",
-    "spotlight": true
+    "spotlight": false
   },
   {
     "asin": "B08KTLB9LG",
@@ -281,7 +281,7 @@ const PRODUCTS = [
     "informacoes_produto": {},
     "affiliate_url": "https://www.amazon.com.br/Refil-para-RMOP6088-Flash-Limp/dp/B08KTLB9LG?ref=dlx_deals_dg_dcl_B08KTLB9LG_dt_sl14_88_pi&pf_rd_r=W7GQN5XA53AKDPB1E46N&pf_rd_p=a43a02c5-fe2d-4a34-af71-7d62fff70488&tag=mixdm22-20",
     "last_checked_at": "2026-07-16T20:00:31.670Z",
-    "spotlight": true
+    "spotlight": false
   },
   {
     "asin": "B0FHKZ6CCZ",
@@ -306,7 +306,7 @@ const PRODUCTS = [
     },
     "affiliate_url": "https://www.amazon.com.br/Pano-Descart%C3%A1vel-Multiuso-Perfex-Unidades/dp/B0FHKZ6CCZ?ref=dlx_deals_dg_dcl_B0FHKZ6CCZ_dt_sl14_88_pi&pf_rd_r=W7GQN5XA53AKDPB1E46N&pf_rd_p=a43a02c5-fe2d-4a34-af71-7d62fff70488&tag=mixdm22-20",
     "last_checked_at": "2026-07-16T20:00:31.670Z",
-    "spotlight": true
+    "spotlight": false
   },
   {
     "asin": "B0CHBJJKBZ",
@@ -331,7 +331,7 @@ const PRODUCTS = [
     },
     "affiliate_url": "https://www.amazon.com.br/Lumin%C3%A1ria-sobrepor-quadrada-Bivolt-central/dp/B0CHBJJKBZ?ref=dlx_deals_dg_dcl_B0CHBJJKBZ_dt_sl14_88_pi&pf_rd_r=W7GQN5XA53AKDPB1E46N&pf_rd_p=a43a02c5-fe2d-4a34-af71-7d62fff70488&tag=mixdm22-20",
     "last_checked_at": "2026-07-16T20:00:31.670Z",
-    "spotlight": true
+    "spotlight": false
   },
   {
     "asin": "B077J8S6MT",
@@ -356,7 +356,7 @@ const PRODUCTS = [
     },
     "affiliate_url": "https://www.amazon.com.br/Protetor-Flex%C3%AD%C2%ADvel-Transparente-120cm-Kapazi/dp/B077J8S6MT?ref=dlx_deals_dg_dcl_B077J8S6MT_dt_sl14_88_pi&pf_rd_r=W7GQN5XA53AKDPB1E46N&pf_rd_p=a43a02c5-fe2d-4a34-af71-7d62fff70488&tag=mixdm22-20",
     "last_checked_at": "2026-07-16T20:00:31.670Z",
-    "spotlight": true
+    "spotlight": false
   },
   {
     "asin": "B08MW7FNVL",
@@ -381,7 +381,7 @@ const PRODUCTS = [
     },
     "affiliate_url": "https://www.amazon.com.br/Limpador-Perfumado-Casa-Perfume-Agradable/dp/B08MW7FNVL?ref=dlx_deals_dg_dcl_B08MW7FNVL_dt_sl14_88_pi&pf_rd_r=W7GQN5XA53AKDPB1E46N&pf_rd_p=a43a02c5-fe2d-4a34-af71-7d62fff70488&tag=mixdm22-20",
     "last_checked_at": "2026-07-16T20:00:31.669Z",
-    "spotlight": true
+    "spotlight": false
   },
   {
     "asin": "B0DXFLJY5K",
@@ -406,7 +406,7 @@ const PRODUCTS = [
     },
     "affiliate_url": "https://www.amazon.com.br/Unid-Evita-Mofo-Desumidificador-Floral/dp/B0DXFLJY5K?ref=dlx_deals_dg_dcl_B0DXFLJY5K_dt_sl14_88_pi&pf_rd_r=W7GQN5XA53AKDPB1E46N&pf_rd_p=a43a02c5-fe2d-4a34-af71-7d62fff70488&tag=mixdm22-20",
     "last_checked_at": "2026-07-16T20:00:31.669Z",
-    "spotlight": true
+    "spotlight": false
   },
   {
     "asin": "B0CB1XXPBV",
@@ -431,7 +431,7 @@ const PRODUCTS = [
     },
     "affiliate_url": "https://www.amazon.com.br/Banqueta-regulagem-Altura-Adulto-Hidrolight/dp/B0CB1XXPBV?ref=dlx_deals_dg_dcl_B0CB1XXPBV_dt_sl14_88_pi&pf_rd_r=W7GQN5XA53AKDPB1E46N&pf_rd_p=a43a02c5-fe2d-4a34-af71-7d62fff70488&tag=mixdm22-20",
     "last_checked_at": "2026-07-16T20:00:31.669Z",
-    "spotlight": true
+    "spotlight": false
   },
   {
     "asin": "B0G3CCV8QY",
@@ -456,7 +456,7 @@ const PRODUCTS = [
     },
     "affiliate_url": "https://www.amazon.com.br/Americano-Colch%C3%A3o-Caramelo-Multim%C3%B3veis-madeirado/dp/B0G3CCV8QY?ref=dlx_deals_dg_dcl_B0G3CCV8QY_dt_sl14_88_pi&pf_rd_r=W7GQN5XA53AKDPB1E46N&pf_rd_p=a43a02c5-fe2d-4a34-af71-7d62fff70488&tag=mixdm22-20",
     "last_checked_at": "2026-07-16T20:00:31.669Z",
-    "spotlight": true
+    "spotlight": false
   },
   {
     "asin": "B0GQJHNG16",
@@ -481,7 +481,7 @@ const PRODUCTS = [
     },
     "affiliate_url": "https://www.amazon.com.br/Lumin%C3%A1ria-Abajur-Atl%C3%A2ntica-C%C3%BApula-Estrutura/dp/B0GQJHNG16?ref=dlx_deals_dg_dcl_B0GQJHNG16_dt_sl14_88_pi&pf_rd_r=W7GQN5XA53AKDPB1E46N&pf_rd_p=a43a02c5-fe2d-4a34-af71-7d62fff70488&tag=mixdm22-20",
     "last_checked_at": "2026-07-16T20:00:31.669Z",
-    "spotlight": true
+    "spotlight": false
   },
   {
     "asin": "B0G68XH699",
@@ -511,7 +511,7 @@ const PRODUCTS = [
     },
     "affiliate_url": "https://www.amazon.com.br/el%C3%A9trica-Escrit%C3%B3rio-Trabalho-Ajust%C3%A1vel-Ajustavel/dp/B0G68XH699?ref=dlx_deals_dg_dcl_B0G68XH699_dt_sl14_88_pi&pf_rd_r=W7GQN5XA53AKDPB1E46N&pf_rd_p=a43a02c5-fe2d-4a34-af71-7d62fff70488&tag=mixdm22-20",
     "last_checked_at": "2026-07-16T20:00:31.669Z",
-    "spotlight": true
+    "spotlight": false
   },
   {
     "asin": "B0CVCC95M2",
@@ -536,7 +536,7 @@ const PRODUCTS = [
     },
     "affiliate_url": "https://www.amazon.com.br/Banquinho-Madeira-lojistas-Manicure-Crian%C3%A7as/dp/B0CVCC95M2?ref=dlx_deals_dg_dcl_B0CVCC95M2_dt_sl14_88_pi&pf_rd_r=W7GQN5XA53AKDPB1E46N&pf_rd_p=a43a02c5-fe2d-4a34-af71-7d62fff70488&tag=mixdm22-20",
     "last_checked_at": "2026-07-16T20:00:31.669Z",
-    "spotlight": true
+    "spotlight": false
   },
   {
     "asin": "B0FR7JJFT3",
@@ -561,7 +561,7 @@ const PRODUCTS = [
     },
     "affiliate_url": "https://www.amazon.com.br/Cadeira-Jantar-Encosto-Estofada-Madeira/dp/B0FR7JJFT3?ref=dlx_deals_dg_dcl_B0FR7JJFT3_dt_sl14_88_pi&pf_rd_r=W7GQN5XA53AKDPB1E46N&pf_rd_p=a43a02c5-fe2d-4a34-af71-7d62fff70488&tag=mixdm22-20",
     "last_checked_at": "2026-07-16T20:00:31.669Z",
-    "spotlight": true
+    "spotlight": false
   },
   {
     "asin": "B0DNZLWDD1",
@@ -586,7 +586,7 @@ const PRODUCTS = [
     },
     "affiliate_url": "https://www.amazon.com.br/Solteiro-Madeira-Auxiliar-Woodstore-Castanho/dp/B0DNZLWDD1?ref=dlx_deals_dg_dcl_B0DNZLWDD1_dt_sl14_88_pi&pf_rd_r=W7GQN5XA53AKDPB1E46N&pf_rd_p=a43a02c5-fe2d-4a34-af71-7d62fff70488&tag=mixdm22-20",
     "last_checked_at": "2026-07-16T20:00:31.669Z",
-    "spotlight": true
+    "spotlight": false
   },
   {
     "asin": "B0DDRQ8NM7",
@@ -611,7 +611,7 @@ const PRODUCTS = [
     },
     "affiliate_url": "https://www.amazon.com.br/LYOR-Porta-Retrato-Bege-10cm-15cm/dp/B0DDRQ8NM7?ref=dlx_deals_dg_dcl_B0DDRQ8NM7_dt_sl14_88_pi&pf_rd_r=W7GQN5XA53AKDPB1E46N&pf_rd_p=a43a02c5-fe2d-4a34-af71-7d62fff70488&tag=mixdm22-20",
     "last_checked_at": "2026-07-16T20:00:31.669Z",
-    "spotlight": true
+    "spotlight": false
   },
   {
     "asin": "B0DQ9Q2GKS",
@@ -636,7 +636,7 @@ const PRODUCTS = [
     },
     "affiliate_url": "https://www.amazon.com.br/Lumin%C3%A1ria-Lustre-Pendente-Fundamentum-R%C3%BAstico/dp/B0DQ9Q2GKS?ref=dlx_deals_dg_dcl_B0DQ9Q2GKS_dt_sl14_88_pi&pf_rd_r=W7GQN5XA53AKDPB1E46N&pf_rd_p=a43a02c5-fe2d-4a34-af71-7d62fff70488&sbo=RZvfv%2F%2FHxDF%2BO5021pAnSA%3D%3D&tag=mixdm22-20",
     "last_checked_at": "2026-07-16T20:00:31.669Z",
-    "spotlight": true
+    "spotlight": false
   },
   {
     "asin": "B0H34S94SF",
@@ -661,7 +661,7 @@ const PRODUCTS = [
     },
     "affiliate_url": "https://www.amazon.com.br/Conjunto-Eames-Redonda-Cadeiras-Pretas/dp/B0H34S94SF?ref=dlx_deals_dg_dcl_B0H34S94SF_dt_sl14_88_pi&pf_rd_r=W7GQN5XA53AKDPB1E46N&pf_rd_p=a43a02c5-fe2d-4a34-af71-7d62fff70488&sbo=RZvfv%2F%2FHxDF%2BO5021pAnSA%3D%3D&tag=mixdm22-20",
     "last_checked_at": "2026-07-16T20:00:31.669Z",
-    "spotlight": true
+    "spotlight": false
   },
   {
     "asin": "B0F3QPRN9M",
@@ -686,7 +686,7 @@ const PRODUCTS = [
     },
     "affiliate_url": "https://www.amazon.com.br/Condicionado-Split-TCL-Inverter-12-000/dp/B0F3QPRN9M?ref=dlx_deals_dg_dcl_B0F3QPRN9M_dt_sl14_88_pi&pf_rd_r=W7GQN5XA53AKDPB1E46N&pf_rd_p=a43a02c5-fe2d-4a34-af71-7d62fff70488&sbo=RZvfv%2F%2FHxDF%2BO5021pAnSA%3D%3D&tag=mixdm22-20",
     "last_checked_at": "2026-07-16T20:00:31.669Z",
-    "spotlight": true
+    "spotlight": false
   },
   {
     "asin": "B0GTVR8RKV",
@@ -716,7 +716,7 @@ const PRODUCTS = [
     },
     "affiliate_url": "https://www.amazon.com.br/Ventilador-Instala%C3%A7%C3%A3o-Revers%C3%ADvel-Velocidades-Controle/dp/B0GTVR8RKV?ref=dlx_deals_dg_dcl_B0GTVR8RKV_dt_sl14_88_pi&pf_rd_r=W7GQN5XA53AKDPB1E46N&pf_rd_p=a43a02c5-fe2d-4a34-af71-7d62fff70488&sbo=RZvfv%2F%2FHxDF%2BO5021pAnSA%3D%3D&tag=mixdm22-20",
     "last_checked_at": "2026-07-16T20:00:31.669Z",
-    "spotlight": true
+    "spotlight": false
   },
   {
     "asin": "B0B61WJRY5",
@@ -741,7 +741,7 @@ const PRODUCTS = [
     },
     "affiliate_url": "https://www.amazon.com.br/Lava-Seca-Samsung-Programas-Lavagem/dp/B0B61WJRY5?ref=dlx_deals_dg_dcl_B0B61WJRY5_dt_sl14_88_pi&pf_rd_r=ZVB7DPFPPXKS2YRKMPVQ&pf_rd_p=a43a02c5-fe2d-4a34-af71-7d62fff70488&sbo=RZvfv%2F%2FHxDF%2BO5021pAnSA%3D%3D&tag=mixdm22-20",
     "last_checked_at": "2026-07-16T20:00:31.669Z",
-    "spotlight": true
+    "spotlight": false
   },
   {
     "asin": "B0CZ4LQVNL",
@@ -766,7 +766,7 @@ const PRODUCTS = [
     },
     "affiliate_url": "https://www.amazon.com.br/Ar-condicionado-Gree-Connection-Gwh12atc-d6dna1a-gwh12atc-d6dna1a/dp/B0CZ4LQVNL?ref=dlx_deals_dg_dcl_B0CZ4LQVNL_dt_sl14_88_pi&pf_rd_r=ZVB7DPFPPXKS2YRKMPVQ&pf_rd_p=a43a02c5-fe2d-4a34-af71-7d62fff70488&sbo=RZvfv%2F%2FHxDF%2BO5021pAnSA%3D%3D&tag=mixdm22-20",
     "last_checked_at": "2026-07-16T20:00:31.669Z",
-    "spotlight": true
+    "spotlight": false
   },
   {
     "asin": "B0FPRK5P9H",
@@ -796,7 +796,7 @@ const PRODUCTS = [
     },
     "affiliate_url": "https://www.amazon.com.br/SEMP-SMART-55S62-UHD-GOOGLE/dp/B0FPRK5P9H?ref=dlx_deals_dg_dcl_B0FPRK5P9H_dt_sl14_88_pi&pf_rd_r=ZVB7DPFPPXKS2YRKMPVQ&pf_rd_p=a43a02c5-fe2d-4a34-af71-7d62fff70488&sbo=9ZOMT9Jm0JH%2Ft%2BWi68iDSA%3D%3D&tag=mixdm22-20",
     "last_checked_at": "2026-07-16T20:00:31.669Z",
-    "spotlight": true
+    "spotlight": false
   },
   {
     "asin": "B0G3CY35DN",
@@ -826,7 +826,7 @@ const PRODUCTS = [
     },
     "affiliate_url": "https://www.amazon.com.br/Notebook-Lenovo-IdeaPad-15IRU10-Windows/dp/B0G3CY35DN?ref=dlx_deals_dg_dcl_B0G3CY35DN_dt_sl14_88_pi&pf_rd_r=ZVB7DPFPPXKS2YRKMPVQ&pf_rd_p=a43a02c5-fe2d-4a34-af71-7d62fff70488&sbo=RZvfv%2F%2FHxDF%2BO5021pAnSA%3D%3D&tag=mixdm22-20",
     "last_checked_at": "2026-07-16T20:00:31.669Z",
-    "spotlight": true
+    "spotlight": false
   },
   {
     "asin": "B0GL3YFDQ9",
@@ -850,7 +850,7 @@ const PRODUCTS = [
     },
     "affiliate_url": "https://www.amazon.com.br/Samsung-Condicionado-Inverter-WindFree-AR60F24D1AWNAZ/dp/B0GL3YFDQ9?ref=dlx_deals_dg_dcl_B0GL3YFDQ9_dt_sl14_88_pi&pf_rd_r=ZVB7DPFPPXKS2YRKMPVQ&pf_rd_p=a43a02c5-fe2d-4a34-af71-7d62fff70488&sbo=RZvfv%2F%2FHxDF%2BO5021pAnSA%3D%3D&tag=mixdm22-20",
     "last_checked_at": "2026-07-16T20:00:31.669Z",
-    "spotlight": true
+    "spotlight": false
   },
   {
     "asin": "index-48",
@@ -875,7 +875,7 @@ const PRODUCTS = [
     },
     "affiliate_url": "https://www.amazon.com.br/Smartphone-Samsung-Galaxy-C%C3%A2mera-Recursos/dp/B0DYVPCX34/ref=zg_bs_g_16243890011_d_sccl_49/141-5781716-6392541?psc=1&tag=mixdm22-20",
     "last_checked_at": "2026-07-16T20:00:31.669Z",
-    "spotlight": true
+    "spotlight": false
   },
   {
     "asin": "index-28",
@@ -900,7 +900,7 @@ const PRODUCTS = [
     },
     "affiliate_url": "https://www.amazon.com.br/Apple-iPhone-Pro-Max-256/dp/B0FQJ2KJ9X/ref=zg_bs_g_16243890011_d_sccl_29/141-5781716-6392541?psc=1&tag=mixdm22-20",
     "last_checked_at": "2026-07-16T20:00:31.669Z",
-    "spotlight": true
+    "spotlight": false
   },
   {
     "asin": "B0H71B5VFK",
@@ -925,7 +925,7 @@ const PRODUCTS = [
     },
     "affiliate_url": "https://www.amazon.com.br/Pentes-para-OneBlade-Estojo-Corporal/dp/B0H71B5VFK?ref=dlx_deals_dg_dcl_B0H71B5VFK_dt_sl14_88_pi_dealz_cp_mdl&pf_rd_r=3QAPQYZ28GXN96MMP2Z2&pf_rd_p=a43a02c5-fe2d-4a34-af71-7d62fff70488&tag=mixdm22-20",
     "last_checked_at": "2026-07-16T20:00:31.669Z",
-    "spotlight": true
+    "spotlight": false
   },
   {
     "asin": "6555375663",
@@ -944,7 +944,7 @@ const PRODUCTS = [
     "informacoes_produto": {},
     "affiliate_url": "https://www.amazon.com.br/All-Way-Division-Projetos-Paralelos/dp/6555375663?ref=dlx_deals_dg_dcl_6555375663_dt_sl14_88_pi&pf_rd_r=MVBTKCFYFMWA47X80S61&pf_rd_p=a43a02c5-fe2d-4a34-af71-7d62fff70488&tag=mixdm22-20",
     "last_checked_at": "2026-07-16T20:00:31.669Z",
-    "spotlight": true
+    "spotlight": false
   },
   {
     "asin": "B0GTWN7TQP",
@@ -969,7 +969,7 @@ const PRODUCTS = [
     },
     "affiliate_url": "https://www.amazon.com.br/Port%C3%A1til-Herm%C3%A9tica-Recipiente-Compacto-Multiuso/dp/B0GTWN7TQP?ref=dlx_deals_dg_dcl_B0GTWN7TQP_dt_sl14_88_pi&pf_rd_r=3NQPV7741D83G7VJG8JW&pf_rd_p=a43a02c5-fe2d-4a34-af71-7d62fff70488&tag=mixdm22-20",
     "last_checked_at": "2026-07-16T20:00:31.669Z",
-    "spotlight": true
+    "spotlight": false
   },
   {
     "asin": "B0FW1Y3NHQ",
@@ -994,7 +994,7 @@ const PRODUCTS = [
     },
     "affiliate_url": "https://www.amazon.com.br/Espremedor-Tamanho-Grande-Resistente-Refor%C3%A7ado/dp/B0FW1Y3NHQ?ref=dlx_deals_dg_dcl_B0FW1Y3NHQ_dt_sl14_88_pi&pf_rd_r=3NQPV7741D83G7VJG8JW&pf_rd_p=a43a02c5-fe2d-4a34-af71-7d62fff70488&tag=mixdm22-20",
     "last_checked_at": "2026-07-16T20:00:31.669Z",
-    "spotlight": true
+    "spotlight": false
   },
   {
     "asin": "B0FTMNDS5B",
@@ -1019,7 +1019,7 @@ const PRODUCTS = [
     },
     "affiliate_url": "https://www.amazon.com.br/Acr%C3%ADlico-Colher-Design-Decorativa-Transparente/dp/B0FTMNDS5B?ref=dlx_deals_dg_dcl_B0FTMNDS5B_dt_sl14_88_pi&pf_rd_r=3NQPV7741D83G7VJG8JW&pf_rd_p=a43a02c5-fe2d-4a34-af71-7d62fff70488&tag=mixdm22-20",
     "last_checked_at": "2026-07-16T20:00:31.669Z",
-    "spotlight": true
+    "spotlight": false
   },
   {
     "asin": "B0H3NTKV23",
@@ -1044,7 +1044,7 @@ const PRODUCTS = [
     },
     "affiliate_url": "https://www.amazon.com.br/Pilao-Inox-com-Socador-Antiderrapante/dp/B0H3NTKV23?ref=dlx_deals_dg_dcl_B0H3NTKV23_dt_sl14_88_pi&pf_rd_r=3NQPV7741D83G7VJG8JW&pf_rd_p=a43a02c5-fe2d-4a34-af71-7d62fff70488&tag=mixdm22-20",
     "last_checked_at": "2026-07-16T20:00:31.668Z",
-    "spotlight": true
+    "spotlight": false
   },
   {
     "asin": "B0FSS41WVB",
@@ -1069,7 +1069,7 @@ const PRODUCTS = [
     },
     "affiliate_url": "https://www.amazon.com.br/Di%C3%A2metros-Polvilhar-Resistente-Utens%C3%ADlio-Multitamanho/dp/B0FSS41WVB?ref=dlx_deals_dg_dcl_B0FSS41WVB_dt_sl14_88_pi&pf_rd_r=3NQPV7741D83G7VJG8JW&pf_rd_p=a43a02c5-fe2d-4a34-af71-7d62fff70488&tag=mixdm22-20",
     "last_checked_at": "2026-07-16T20:00:31.668Z",
-    "spotlight": true
+    "spotlight": false
   },
   {
     "asin": "B0G52D528B",
@@ -1094,7 +1094,7 @@ const PRODUCTS = [
     },
     "affiliate_url": "https://www.amazon.com.br/Inoxid%C3%A1veis-Mandoline-Profissional-Dom%C3%A9stico-Multifuncional/dp/B0G52D528B?ref=dlx_deals_dg_dcl_B0G52D528B_dt_sl14_88_pi&pf_rd_r=3NQPV7741D83G7VJG8JW&pf_rd_p=a43a02c5-fe2d-4a34-af71-7d62fff70488&tag=mixdm22-20",
     "last_checked_at": "2026-07-16T20:00:31.668Z",
-    "spotlight": true
+    "spotlight": false
   },
   {
     "asin": "B0FGD665MT",
@@ -1119,7 +1119,7 @@ const PRODUCTS = [
     },
     "affiliate_url": "https://www.amazon.com.br/Chaleira-Ganso-Litro-Term%C3%B4metro-Integrado/dp/B0FGD665MT?ref=dlx_deals_dg_dcl_B0FGD665MT_dt_sl14_88_pi&pf_rd_r=3NQPV7741D83G7VJG8JW&pf_rd_p=a43a02c5-fe2d-4a34-af71-7d62fff70488&sbo=Tc8eqSFhUl4VwMzbE4fw%2Fw%3D%3D&tag=mixdm22-20",
     "last_checked_at": "2026-07-16T20:00:31.668Z",
-    "spotlight": true
+    "spotlight": false
   },
   {
     "asin": "B0DDQV2Y6F",
@@ -1144,7 +1144,7 @@ const PRODUCTS = [
     },
     "affiliate_url": "https://www.amazon.com.br/LYOR-Porta-Retrato-Branco-10cm-15cm/dp/B0DDQV2Y6F?ref=dlx_deals_dg_dcl_B0DDQV2Y6F_dt_sl14_88_pi&pf_rd_r=MPEXF1QBF6B7ES6ZXZC5&pf_rd_p=a43a02c5-fe2d-4a34-af71-7d62fff70488&tag=mixdm22-20",
     "last_checked_at": "2026-07-16T20:00:31.668Z",
-    "spotlight": true
+    "spotlight": false
   },
   {
     "asin": "B0FMYYM87S",
@@ -1169,7 +1169,7 @@ const PRODUCTS = [
     },
     "affiliate_url": "https://www.amazon.com.br/Toalhas-Profiline-Hotelaria-Gramatura-Absor%C3%A7%C3%A3o/dp/B0FMYYM87S?ref=dlx_deals_dg_dcl_B0FMYYM87S_dt_sl14_88_pi&pf_rd_r=MPEXF1QBF6B7ES6ZXZC5&pf_rd_p=a43a02c5-fe2d-4a34-af71-7d62fff70488&tag=mixdm22-20",
     "last_checked_at": "2026-07-16T20:00:31.668Z",
-    "spotlight": true
+    "spotlight": false
   },
   {
     "asin": "B0H4NBGCBQ",
@@ -1194,7 +1194,7 @@ const PRODUCTS = [
     },
     "affiliate_url": "https://www.amazon.com.br/Banheiro-Sabonete-Antiferrugem-Parafusos-Pliar/dp/B0H4NBGCBQ?ref=dlx_deals_dg_dcl_B0H4NBGCBQ_dt_sl14_88_pi&pf_rd_r=MPEXF1QBF6B7ES6ZXZC5&pf_rd_p=a43a02c5-fe2d-4a34-af71-7d62fff70488&tag=mixdm22-20",
     "last_checked_at": "2026-07-16T20:00:31.668Z",
-    "spotlight": true
+    "spotlight": false
   },
   {
     "asin": "B0F66L4BLY",
@@ -1219,7 +1219,7 @@ const PRODUCTS = [
     },
     "affiliate_url": "https://www.amazon.com.br/BEMMY-Acess%C3%B3rios-Acabamento-Inoxid%C3%A1vel-Instala%C3%A7%C3%A3o/dp/B0F66L4BLY?ref=dlx_deals_dg_dcl_B0F66L4BLY_dt_sl14_88_pi&pf_rd_r=MPEXF1QBF6B7ES6ZXZC5&pf_rd_p=a43a02c5-fe2d-4a34-af71-7d62fff70488&tag=mixdm22-20",
     "last_checked_at": "2026-07-16T20:00:31.668Z",
-    "spotlight": true
+    "spotlight": false
   },
   {
     "asin": "B0FVMNQPNB",
@@ -1244,7 +1244,7 @@ const PRODUCTS = [
     },
     "affiliate_url": "https://www.amazon.com.br/Samsung-Ar-condicionado-Digital-Inverter-AR50F24D1AHNAZ/dp/B0FVMNQPNB?ref=dlx_deals_dg_dcl_B0FVMNQPNB_dt_sl14_88_pi&pf_rd_r=MPEXF1QBF6B7ES6ZXZC5&pf_rd_p=a43a02c5-fe2d-4a34-af71-7d62fff70488&tag=mixdm22-20",
     "last_checked_at": "2026-07-16T20:00:31.668Z",
-    "spotlight": true
+    "spotlight": false
   },
   {
     "asin": "B0C5J2HFJL",
@@ -1269,7 +1269,7 @@ const PRODUCTS = [
     },
     "affiliate_url": "https://www.amazon.com.br/MSI-7D46-075-PRO-H610M-G/dp/B0C5J2HFJL?ref=dlx_deals_dg_dcl_B0C5J2HFJL_dt_sl14_88_pi_dealz_cp_mdl&pf_rd_r=6JPPNZRM46846JCYJRE5&pf_rd_p=a43a02c5-fe2d-4a34-af71-7d62fff70488&tag=mixdm22-20",
     "last_checked_at": "2026-07-16T20:00:31.668Z",
-    "spotlight": true
+    "spotlight": false
   },
   {
     "asin": "B07NDL6B12",
@@ -1288,7 +1288,7 @@ const PRODUCTS = [
     "informacoes_produto": {},
     "affiliate_url": "https://www.amazon.com.br/Lennas-Pasta-LennaS-Carteiro-Caramelo/dp/B07NDL6B12?ref=dlx_deals_dg_dcl_B07NDL6B12_dt_sl14_88_pi_dealz_cp_mdl&pf_rd_r=6JPPNZRM46846JCYJRE5&pf_rd_p=a43a02c5-fe2d-4a34-af71-7d62fff70488&tag=mixdm22-20",
     "last_checked_at": "2026-07-16T20:00:31.668Z",
-    "spotlight": true
+    "spotlight": false
   },
   {
     "asin": "B0G49HSCNK",
@@ -1313,7 +1313,7 @@ const PRODUCTS = [
     },
     "affiliate_url": "https://www.amazon.com.br/Mon-Bijou-Amaciante-Regular-Perfume/dp/B0G49HSCNK?ref=dlx_deals_dg_dcl_B0G49HSCNK_dt_sl14_88_pi_dealz_cp_mdl&pf_rd_r=6JPPNZRM46846JCYJRE5&pf_rd_p=a43a02c5-fe2d-4a34-af71-7d62fff70488&tag=mixdm22-20",
     "last_checked_at": "2026-07-16T20:00:31.668Z",
-    "spotlight": true
+    "spotlight": false
   },
   {
     "asin": "B0GL2W79V5",
@@ -1332,7 +1332,7 @@ const PRODUCTS = [
     "informacoes_produto": {},
     "affiliate_url": "https://www.amazon.com.br/Viagem-pe%C3%A7as-Adventure-Action-MAB01-CZ/dp/B0GL2W79V5?ref=dlx_deals_dg_dcl_B0GL2W79V5_dt_sl14_88_pi_dealz_cp_mdl&pf_rd_r=6JPPNZRM46846JCYJRE5&pf_rd_p=a43a02c5-fe2d-4a34-af71-7d62fff70488&tag=mixdm22-20",
     "last_checked_at": "2026-07-16T20:00:31.668Z",
-    "spotlight": true
+    "spotlight": false
   },
   {
     "asin": "B0DFMYQD2M",
@@ -1357,7 +1357,7 @@ const PRODUCTS = [
     },
     "affiliate_url": "https://www.amazon.com.br/Coletor-Materno-Silicone-Armazenar-Branco/dp/B0DFMYQD2M?ref=dlx_deals_dg_dcl_B0DFMYQD2M_dt_sl14_88_pi_dealz_cp_mdl&pf_rd_r=6JPPNZRM46846JCYJRE5&pf_rd_p=a43a02c5-fe2d-4a34-af71-7d62fff70488&tag=mixdm22-20",
     "last_checked_at": "2026-07-16T20:00:31.668Z",
-    "spotlight": true
+    "spotlight": false
   },
   {
     "asin": "B0F8PB15HZ",
@@ -1387,7 +1387,7 @@ const PRODUCTS = [
     },
     "affiliate_url": "https://www.amazon.com.br/Regulagem-DT3-anticolis%C3%A3o-invertida-Eleva%C3%A7%C3%A3o/dp/B0F8PB15HZ?ref=dlx_deals_dg_dcl_B0F8PB15HZ_dt_sl14_88_pi_dealz_cp_mdl&pf_rd_r=6JPPNZRM46846JCYJRE5&pf_rd_p=a43a02c5-fe2d-4a34-af71-7d62fff70488&tag=mixdm22-20",
     "last_checked_at": "2026-07-16T20:00:31.668Z",
-    "spotlight": true
+    "spotlight": false
   },
   {
     "asin": "B0DWXXHSCS",
@@ -1412,7 +1412,7 @@ const PRODUCTS = [
     },
     "affiliate_url": "https://www.amazon.com.br/Lumin%C3%A1ria-Madeira-Pendente-Redonda-Freij%C3%B3/dp/B0DWXXHSCS?ref=dlx_deals_dg_dcl_B0DWXXHSCS_dt_sl14_88_pi_dealz_cp_mdl&pf_rd_r=6JPPNZRM46846JCYJRE5&pf_rd_p=a43a02c5-fe2d-4a34-af71-7d62fff70488&tag=mixdm22-20",
     "last_checked_at": "2026-07-16T20:00:31.668Z",
-    "spotlight": true
+    "spotlight": false
   },
   {
     "asin": "B0GTC9GHYT",
@@ -1437,7 +1437,7 @@ const PRODUCTS = [
     },
     "affiliate_url": "https://www.amazon.com.br/Kalkan-Temperado-Perfurads-Conectores-Traseiros/dp/B0GTC9GHYT?ref=dlx_deals_dg_dcl_B0GTC9GHYT_dt_sl14_88_pi_dealz_cp_mdl&pf_rd_r=6JPPNZRM46846JCYJRE5&pf_rd_p=a43a02c5-fe2d-4a34-af71-7d62fff70488&tag=mixdm22-20",
     "last_checked_at": "2026-07-16T20:00:31.668Z",
-    "spotlight": true
+    "spotlight": false
   },
   {
     "asin": "B0C5JVT1CY",
@@ -1456,7 +1456,7 @@ const PRODUCTS = [
     "informacoes_produto": {},
     "affiliate_url": "https://www.amazon.com.br/Bordo-Rodas-Adventure-Fortt-Preto/dp/B0C5JVT1CY?ref=dlx_deals_dg_dcl_B0C5JVT1CY_dt_sl14_88_pi_dealz_cp_mdl&pf_rd_r=6JPPNZRM46846JCYJRE5&pf_rd_p=a43a02c5-fe2d-4a34-af71-7d62fff70488&tag=mixdm22-20",
     "last_checked_at": "2026-07-16T20:00:31.668Z",
-    "spotlight": true
+    "spotlight": false
   },
   {
     "asin": "B07M6Y7D79",
@@ -1481,7 +1481,7 @@ const PRODUCTS = [
     },
     "affiliate_url": "https://www.amazon.com.br/Detergente-Neutro-Antiodor-5L-Limpol/dp/B07M6Y7D79?ref=dlx_deals_dg_dcl_B07M6Y7D79_dt_sl14_88_pi_dealz_cp_mdl&pf_rd_r=6JPPNZRM46846JCYJRE5&pf_rd_p=a43a02c5-fe2d-4a34-af71-7d62fff70488&sbo=RZvfv%2F%2FHxDF%2BO5021pAnSA%3D%3D&tag=mixdm22-20",
     "last_checked_at": "2026-07-16T20:00:31.668Z",
-    "spotlight": true
+    "spotlight": false
   },
   {
     "asin": "B097K2MRS3",
@@ -1506,7 +1506,7 @@ const PRODUCTS = [
     },
     "affiliate_url": "https://www.amazon.com.br/KF432C16BB1-16-Mem%C3%B3ria-3200Mhz-desktop/dp/B097K2MRS3?ref=dlx_deals_dg_dcl_B097K2MRS3_dt_sl14_88_pi_dealz_cp_mdl&pf_rd_r=6JPPNZRM46846JCYJRE5&pf_rd_p=a43a02c5-fe2d-4a34-af71-7d62fff70488&sbo=RZvfv%2F%2FHxDF%2BO5021pAnSA%3D%3D&tag=mixdm22-20",
     "last_checked_at": "2026-07-16T20:00:31.668Z",
-    "spotlight": true
+    "spotlight": false
   },
   {
     "asin": "655808094X",
@@ -1525,7 +1525,7 @@ const PRODUCTS = [
     "informacoes_produto": {},
     "affiliate_url": "https://www.amazon.com.br/Caligrafia-dona-Sofia-Andr%C3%A9-Neves/dp/655808094X?ref=dlx_deals_dg_dcl_655808094X_dt_sl14_88_pi&pf_rd_r=X9B35YHR2FYRSWWQ3XGD&pf_rd_p=a43a02c5-fe2d-4a34-af71-7d62fff70488&tag=mixdm22-20",
     "last_checked_at": "2026-07-16T20:00:31.668Z",
-    "spotlight": true
+    "spotlight": false
   },
   {
     "asin": "B0F1WG2F9Z",
@@ -1550,7 +1550,7 @@ const PRODUCTS = [
     },
     "affiliate_url": "https://www.amazon.com.br/Pais-Filhos-Quebra-Cabe%C3%A7a-Coliseu-Outono/dp/B0F1WG2F9Z?ref=dlx_deals_dg_dcl_B0F1WG2F9Z_dt_sl14_88_pi&pf_rd_r=X9B35YHR2FYRSWWQ3XGD&pf_rd_p=a43a02c5-fe2d-4a34-af71-7d62fff70488&tag=mixdm22-20",
     "last_checked_at": "2026-07-16T20:00:31.668Z",
-    "spotlight": true
+    "spotlight": false
   },
   {
     "asin": "B084D9986J",
@@ -1575,7 +1575,7 @@ const PRODUCTS = [
     },
     "affiliate_url": "https://www.amazon.com.br/Nutricon-Ra%C3%A7%C3%A3o-para-Jabuti-Baby/dp/B084D9986J?ref=dlx_deals_dg_dcl_B084D9986J_dt_sl14_88_pi&pf_rd_r=X9B35YHR2FYRSWWQ3XGD&pf_rd_p=a43a02c5-fe2d-4a34-af71-7d62fff70488&tag=mixdm22-20",
     "last_checked_at": "2026-07-16T20:00:31.668Z",
-    "spotlight": true
+    "spotlight": false
   },
   {
     "asin": "B08X6R75K7",
@@ -1600,7 +1600,7 @@ const PRODUCTS = [
     },
     "affiliate_url": "https://www.amazon.com.br/Curativos-Transparentes-Slow-LS7014-Transparente/dp/B08X6R75K7?ref=dlx_deals_dg_dcl_B08X6R75K7_dt_sl14_88_pi&pf_rd_r=X9B35YHR2FYRSWWQ3XGD&pf_rd_p=a43a02c5-fe2d-4a34-af71-7d62fff70488&tag=mixdm22-20",
     "last_checked_at": "2026-07-16T20:00:31.668Z",
-    "spotlight": true
+    "spotlight": false
   },
   {
     "asin": "B08ZNMXQ9Q",
@@ -1625,7 +1625,7 @@ const PRODUCTS = [
     },
     "affiliate_url": "https://www.amazon.com.br/Pote-Vidro-Retangular-840ML-Frase/dp/B08ZNMXQ9Q?ref=dlx_deals_dg_dcl_B08ZNMXQ9Q_dt_sl14_88_pi&pf_rd_r=X9B35YHR2FYRSWWQ3XGD&pf_rd_p=a43a02c5-fe2d-4a34-af71-7d62fff70488&tag=mixdm22-20",
     "last_checked_at": "2026-07-16T20:00:31.668Z",
-    "spotlight": true
+    "spotlight": false
   },
   {
     "asin": "8574483303",
@@ -1644,7 +1644,7 @@ const PRODUCTS = [
     "informacoes_produto": {},
     "affiliate_url": "https://www.amazon.com.br/Noite-Baba-Yaga-Akira-Otani/dp/8574483303?ref=dlx_deals_dg_dcl_8574483303_dt_sl14_88_pi&pf_rd_r=X9B35YHR2FYRSWWQ3XGD&pf_rd_p=a43a02c5-fe2d-4a34-af71-7d62fff70488&tag=mixdm22-20",
     "last_checked_at": "2026-07-16T20:00:31.668Z",
-    "spotlight": true
+    "spotlight": false
   },
   {
     "asin": "B0FVXB3282",
@@ -1673,7 +1673,7 @@ const PRODUCTS = [
     },
     "affiliate_url": "https://www.amazon.com.br/Basike-Ventilador-Recarregavel-Resfriamento-Escrit%C3%B3rio/dp/B0FVXB3282?ref=dlx_deals_dg_dcl_B0FVXB3282_dt_sl14_88_pi&pf_rd_r=X9B35YHR2FYRSWWQ3XGD&pf_rd_p=a43a02c5-fe2d-4a34-af71-7d62fff70488&tag=mixdm22-20",
     "last_checked_at": "2026-07-16T20:00:31.668Z",
-    "spotlight": true
+    "spotlight": false
   },
   {
     "asin": "B00J60XTC6",
@@ -1698,7 +1698,7 @@ const PRODUCTS = [
     },
     "affiliate_url": "https://www.amazon.com.br/Melba-Mini-Tostas-100g-Torradinhas/dp/B00J60XTC6?ref=dlx_deals_dg_dcl_B00J60XTC6_dt_sl14_88_pi&pf_rd_r=X9B35YHR2FYRSWWQ3XGD&pf_rd_p=a43a02c5-fe2d-4a34-af71-7d62fff70488&tag=mixdm22-20",
     "last_checked_at": "2026-07-16T20:00:31.668Z",
-    "spotlight": true
+    "spotlight": false
   },
   {
     "asin": "B07K6L14TL",
@@ -1723,7 +1723,7 @@ const PRODUCTS = [
     },
     "affiliate_url": "https://www.amazon.com.br/Cordao-Prolongador-3X2-80CM-Branco/dp/B07K6L14TL?ref=dlx_deals_dg_dcl_B07K6L14TL_dt_sl14_88_pi&pf_rd_r=X9B35YHR2FYRSWWQ3XGD&pf_rd_p=a43a02c5-fe2d-4a34-af71-7d62fff70488&tag=mixdm22-20",
     "last_checked_at": "2026-07-16T20:00:31.668Z",
-    "spotlight": true
+    "spotlight": false
   },
   {
     "asin": "B0CB4Q8PZF",
@@ -1748,7 +1748,7 @@ const PRODUCTS = [
     },
     "affiliate_url": "https://www.amazon.com.br/Asmodee-Dobble-Princess-jogadores-Partidas/dp/B0CB4Q8PZF?ref=dlx_deals_dg_dcl_B0CB4Q8PZF_dt_sl14_88_pi&pf_rd_r=X9B35YHR2FYRSWWQ3XGD&pf_rd_p=a43a02c5-fe2d-4a34-af71-7d62fff70488&tag=mixdm22-20",
     "last_checked_at": "2026-07-16T20:00:31.668Z",
-    "spotlight": true
+    "spotlight": false
   },
   {
     "asin": "B0DP95GJ6M",
@@ -1767,7 +1767,7 @@ const PRODUCTS = [
     "informacoes_produto": {},
     "affiliate_url": "https://www.amazon.com.br/Conjunto-Amigos-Contos-Fadas-Fant%C3%A1sticos/dp/B0DP95GJ6M?ref=dlx_deals_dg_dcl_B0DP95GJ6M_dt_sl14_88_pi&pf_rd_r=X9B35YHR2FYRSWWQ3XGD&pf_rd_p=a43a02c5-fe2d-4a34-af71-7d62fff70488&tag=mixdm22-20",
     "last_checked_at": "2026-07-16T20:00:31.668Z",
-    "spotlight": true
+    "spotlight": false
   },
   {
     "asin": "B0FJ7XHJ25",
@@ -1792,7 +1792,7 @@ const PRODUCTS = [
     },
     "affiliate_url": "https://www.amazon.com.br/M-VAVE-Sistema-Transmiss%C3%A3o-Profissional-Lat%C3%AAncia/dp/B0FJ7XHJ25?ref=dlx_deals_dg_dcl_B0FJ7XHJ25_dt_sl14_88_pi&pf_rd_r=P02MGB6YN5HTGZYR3NJ7&pf_rd_p=a43a02c5-fe2d-4a34-af71-7d62fff70488&tag=mixdm22-20",
     "last_checked_at": "2026-07-16T20:00:31.668Z",
-    "spotlight": true
+    "spotlight": false
   },
   {
     "asin": "B0FVSQJDHG",
@@ -1817,7 +1817,7 @@ const PRODUCTS = [
     },
     "affiliate_url": "https://www.amazon.com.br/AURAFIT-AM13-Smartwatch-Inteligente-Masculino/dp/B0FVSQJDHG?ref=dlx_deals_dg_dcl_B0FVSQJDHG_dt_sl14_88_pi&pf_rd_r=P02MGB6YN5HTGZYR3NJ7&pf_rd_p=a43a02c5-fe2d-4a34-af71-7d62fff70488&tag=mixdm22-20",
     "last_checked_at": "2026-07-16T20:00:31.668Z",
-    "spotlight": true
+    "spotlight": false
   },
   {
     "asin": "B08FCRBCY6",
@@ -1842,7 +1842,7 @@ const PRODUCTS = [
     },
     "affiliate_url": "https://www.amazon.com.br/Ou-Martiplast-Organizador-Hermetico-Natural/dp/B08FCRBCY6?ref=dlx_deals_dg_dcl_B08FCRBCY6_dt_sl14_88_pi&pf_rd_r=WT563KY8CZWBGMR50KDG&pf_rd_p=a43a02c5-fe2d-4a34-af71-7d62fff70488&tag=mixdm22-20",
     "last_checked_at": "2026-07-16T20:00:31.668Z",
-    "spotlight": true
+    "spotlight": false
   },
   {
     "asin": "B0G3ND14J7",
@@ -1867,7 +1867,7 @@ const PRODUCTS = [
     },
     "affiliate_url": "https://www.amazon.com.br/Resfriamento-Resfriar-Biscoitos-Est%C3%A1veis-Resistente/dp/B0G3ND14J7?ref=dlx_deals_dg_dcl_B0G3ND14J7_dt_sl14_88_pi&pf_rd_r=WT563KY8CZWBGMR50KDG&pf_rd_p=a43a02c5-fe2d-4a34-af71-7d62fff70488&tag=mixdm22-20",
     "last_checked_at": "2026-07-16T20:00:31.668Z",
-    "spotlight": true
+    "spotlight": false
   },
   {
     "asin": "B0GRVR56CC",
@@ -1892,7 +1892,7 @@ const PRODUCTS = [
     },
     "affiliate_url": "https://www.amazon.com.br/Organizador-Girat%C3%B3rio-Temperos-Compartimentos-Remov%C3%ADveis/dp/B0GRVR56CC?ref=dlx_deals_dg_dcl_B0GRVR56CC_dt_sl14_88_pi&pf_rd_r=WT563KY8CZWBGMR50KDG&pf_rd_p=a43a02c5-fe2d-4a34-af71-7d62fff70488&tag=mixdm22-20",
     "last_checked_at": "2026-07-16T20:00:31.667Z",
-    "spotlight": true
+    "spotlight": false
   },
   {
     "asin": "B0BDT9ZG3G",
@@ -1917,7 +1917,7 @@ const PRODUCTS = [
     },
     "affiliate_url": "https://www.amazon.com.br/REFIL-FILTRO-PURIFICADOR-AGUA-PLANETA/dp/B0BDT9ZG3G?ref=dlx_deals_dg_dcl_B0BDT9ZG3G_dt_sl14_88_pi&pf_rd_r=WT563KY8CZWBGMR50KDG&pf_rd_p=a43a02c5-fe2d-4a34-af71-7d62fff70488&tag=mixdm22-20",
     "last_checked_at": "2026-07-16T20:00:31.667Z",
-    "spotlight": true
+    "spotlight": false
   },
   {
     "asin": "B086BRZB92",
@@ -1946,7 +1946,7 @@ const PRODUCTS = [
     },
     "affiliate_url": "https://www.amazon.com.br/Kit-Organizador-Arm%C3%A1rio-para-Cozinha/dp/B086BRZB92?ref=dlx_deals_dg_dcl_B086BRZB92_dt_sl14_88_pi&pf_rd_r=WT563KY8CZWBGMR50KDG&pf_rd_p=a43a02c5-fe2d-4a34-af71-7d62fff70488&tag=mixdm22-20",
     "last_checked_at": "2026-07-16T20:00:31.667Z",
-    "spotlight": true
+    "spotlight": false
   },
   {
     "asin": "B07WQ63ZWB",
@@ -1971,7 +1971,7 @@ const PRODUCTS = [
     },
     "affiliate_url": "https://www.amazon.com.br/Porta-Mantimento-Lyor-Transparente-Voltagev/dp/B07WQ63ZWB?ref=dlx_deals_dg_dcl_B07WQ63ZWB_dt_sl14_88_pi&pf_rd_r=WT563KY8CZWBGMR50KDG&pf_rd_p=a43a02c5-fe2d-4a34-af71-7d62fff70488&tag=mixdm22-20",
     "last_checked_at": "2026-07-16T20:00:31.667Z",
-    "spotlight": true
+    "spotlight": false
   },
   {
     "asin": "B0FKGTKKGS",
@@ -1996,7 +1996,7 @@ const PRODUCTS = [
     },
     "affiliate_url": "https://www.amazon.com.br/Higienico-Adesivo-Suporte-Organiza%C3%A7%C3%A3o-Banheiro/dp/B0FKGTKKGS?ref=dlx_deals_dg_dcl_B0FKGTKKGS_dt_sl14_88_pi&pf_rd_r=WT563KY8CZWBGMR50KDG&pf_rd_p=a43a02c5-fe2d-4a34-af71-7d62fff70488&tag=mixdm22-20",
     "last_checked_at": "2026-07-16T20:00:31.667Z",
-    "spotlight": true
+    "spotlight": false
   },
   {
     "asin": "B0CZPQGKBD",
@@ -2021,7 +2021,7 @@ const PRODUCTS = [
     },
     "affiliate_url": "https://www.amazon.com.br/Tumbler-Happy-Stanley-Azure-384ml/dp/B0CZPQGKBD?ref=dlx_deals_dg_dcl_B0CZPQGKBD_dt_sl14_88_pi&pf_rd_r=WT563KY8CZWBGMR50KDG&pf_rd_p=a43a02c5-fe2d-4a34-af71-7d62fff70488&tag=mixdm22-20",
     "last_checked_at": "2026-07-16T20:00:31.667Z",
-    "spotlight": true
+    "spotlight": false
   },
   {
     "asin": "B0G45FNJ93",
@@ -2046,7 +2046,7 @@ const PRODUCTS = [
     },
     "affiliate_url": "https://www.amazon.com.br/Capacho-Retangular-Apartamento-Escrit%C3%B3rio-Antiderrapante/dp/B0G45FNJ93?ref=dlx_deals_dg_dcl_B0G45FNJ93_dt_sl14_88_pi&pf_rd_r=06TMJBVNEEH0TSQQ1083&pf_rd_p=a43a02c5-fe2d-4a34-af71-7d62fff70488&tag=mixdm22-20",
     "last_checked_at": "2026-07-16T20:00:31.667Z",
-    "spotlight": true
+    "spotlight": false
   },
   {
     "asin": "B0GYPPL76N",
@@ -2071,7 +2071,7 @@ const PRODUCTS = [
     },
     "affiliate_url": "https://www.amazon.com.br/Banquetas-Madeira-Balc%C3%A3o-Cozinha-Gourmet/dp/B0GYPPL76N?ref=dlx_deals_dg_dcl_B0GYPPL76N_dt_sl14_88_pi&pf_rd_r=06TMJBVNEEH0TSQQ1083&pf_rd_p=a43a02c5-fe2d-4a34-af71-7d62fff70488&tag=mixdm22-20",
     "last_checked_at": "2026-07-16T20:00:31.667Z",
-    "spotlight": true
+    "spotlight": false
   },
   {
     "asin": "B0D5BYNKHL",
@@ -2096,7 +2096,7 @@ const PRODUCTS = [
     },
     "affiliate_url": "https://www.amazon.com.br/Placas-Adesiva-M%C3%A1rmore-Colante-60x30cm/dp/B0D5BYNKHL?ref=dlx_deals_dg_dcl_B0D5BYNKHL_dt_sl14_88_pi&pf_rd_r=06TMJBVNEEH0TSQQ1083&pf_rd_p=a43a02c5-fe2d-4a34-af71-7d62fff70488&tag=mixdm22-20",
     "last_checked_at": "2026-07-16T20:00:31.667Z",
-    "spotlight": true
+    "spotlight": false
   },
   {
     "asin": "B0CQM8JQCP",
@@ -2121,7 +2121,7 @@ const PRODUCTS = [
     },
     "affiliate_url": "https://www.amazon.com.br/Limpador-Bactericida-Pl%C3%A1sticos-Restaurax-Renovador/dp/B0CQM8JQCP?ref=dlx_deals_dg_dcl_B0CQM8JQCP_dt_sl14_88_pi&pf_rd_r=06TMJBVNEEH0TSQQ1083&pf_rd_p=a43a02c5-fe2d-4a34-af71-7d62fff70488&tag=mixdm22-20",
     "last_checked_at": "2026-07-16T20:00:31.667Z",
-    "spotlight": true
+    "spotlight": false
   },
   {
     "asin": "B0F49JQGR8",
@@ -2146,7 +2146,7 @@ const PRODUCTS = [
     },
     "affiliate_url": "https://www.amazon.com.br/Conjunto-Jantar-Cadeiras-Rustic-Madesa/dp/B0F49JQGR8?ref=dlx_deals_dg_dcl_B0F49JQGR8_dt_sl14_88_pi&pf_rd_r=06TMJBVNEEH0TSQQ1083&pf_rd_p=a43a02c5-fe2d-4a34-af71-7d62fff70488&tag=mixdm22-20",
     "last_checked_at": "2026-07-16T20:00:31.667Z",
-    "spotlight": true
+    "spotlight": false
   },
   {
     "asin": "B0DLNWGBYM",
@@ -2170,7 +2170,7 @@ const PRODUCTS = [
     },
     "affiliate_url": "https://www.amazon.com.br/FBXGT-30PCS-Cabides-Roupas-Inoxid%C3%A1vel/dp/B0DLNWGBYM?ref=dlx_deals_dg_dcl_B0DLNWGBYM_dt_sl14_88_pi&pf_rd_r=06TMJBVNEEH0TSQQ1083&pf_rd_p=a43a02c5-fe2d-4a34-af71-7d62fff70488&tag=mixdm22-20",
     "last_checked_at": "2026-07-16T20:00:31.667Z",
-    "spotlight": true
+    "spotlight": false
   },
   {
     "asin": "B0FVHVQ7VQ",
@@ -2195,7 +2195,7 @@ const PRODUCTS = [
     },
     "affiliate_url": "https://www.amazon.com.br/Travesseiro-Cervical-Viscoelastico-Suporte-Alinhamento/dp/B0FVHVQ7VQ?ref=dlx_deals_dg_dcl_B0FVHVQ7VQ_dt_sl14_88_pi&pf_rd_r=06TMJBVNEEH0TSQQ1083&pf_rd_p=a43a02c5-fe2d-4a34-af71-7d62fff70488&tag=mixdm22-20",
     "last_checked_at": "2026-07-16T20:00:31.667Z",
-    "spotlight": true
+    "spotlight": false
   },
   {
     "asin": "B0C1P7RYYQ",
@@ -2220,7 +2220,7 @@ const PRODUCTS = [
     },
     "affiliate_url": "https://www.amazon.com.br/Vonixx-Liquida-Carnauba-Vitrificadora-Silica/dp/B0C1P7RYYQ?ref=dlx_deals_dg_dcl_B0C1P7RYYQ_dt_sl14_88_pi&pf_rd_r=06TMJBVNEEH0TSQQ1083&pf_rd_p=a43a02c5-fe2d-4a34-af71-7d62fff70488&tag=mixdm22-20",
     "last_checked_at": "2026-07-16T20:00:31.667Z",
-    "spotlight": true
+    "spotlight": false
   },
   {
     "asin": "B07QNZJ9V8",
@@ -2245,7 +2245,7 @@ const PRODUCTS = [
     },
     "affiliate_url": "https://www.amazon.com.br/WOLFF-Vaso-Cristal-Angel-14cm/dp/B07QNZJ9V8?ref=dlx_deals_dg_dcl_B07QNZJ9V8_dt_sl14_88_pi&pf_rd_r=06TMJBVNEEH0TSQQ1083&pf_rd_p=a43a02c5-fe2d-4a34-af71-7d62fff70488&tag=mixdm22-20",
     "last_checked_at": "2026-07-16T20:00:31.667Z",
-    "spotlight": true
+    "spotlight": false
   },
   {
     "asin": "B015MSY08W",
@@ -2270,7 +2270,7 @@ const PRODUCTS = [
     },
     "affiliate_url": "https://www.amazon.com.br/SONGMICS-Antideslizantes-Econ%C3%B4micos-Girat%C3%B3rios-Comprimento/dp/B015MSY08W?ref=dlx_deals_dg_dcl_B015MSY08W_dt_sl14_88_pi&pf_rd_r=06TMJBVNEEH0TSQQ1083&pf_rd_p=a43a02c5-fe2d-4a34-af71-7d62fff70488&tag=mixdm22-20",
     "last_checked_at": "2026-07-16T20:00:31.667Z",
-    "spotlight": true
+    "spotlight": false
   },
   {
     "asin": "B07XS7RZRP",
@@ -2295,7 +2295,7 @@ const PRODUCTS = [
     },
     "affiliate_url": "https://www.amazon.com.br/Conhaque-Sao-Joao-Barra-900ml/dp/B07XS7RZRP?ref=dlx_deals_dg_dcl_B07XS7RZRP_dt_sl14_88_pi&pf_rd_r=E5YGYG8R1W6N5X38D6Q2&pf_rd_p=a43a02c5-fe2d-4a34-af71-7d62fff70488&tag=mixdm22-20",
     "last_checked_at": "2026-07-16T20:00:31.667Z",
-    "spotlight": true
+    "spotlight": false
   },
   {
     "asin": "B07FK31F74",
@@ -2314,7 +2314,7 @@ const PRODUCTS = [
     "informacoes_produto": {},
     "affiliate_url": "https://www.amazon.com.br/Brinquedo-Montagem-Pais-Filhos-Multicor/dp/B07FK31F74?ref=dlx_deals_dg_dcl_B07FK31F74_dt_sl14_88_pi&pf_rd_r=E5YGYG8R1W6N5X38D6Q2&pf_rd_p=a43a02c5-fe2d-4a34-af71-7d62fff70488&tag=mixdm22-20",
     "last_checked_at": "2026-07-16T20:00:31.667Z",
-    "spotlight": true
+    "spotlight": false
   },
   {
     "asin": "B0BYTNLLBX",
@@ -2339,7 +2339,7 @@ const PRODUCTS = [
     },
     "affiliate_url": "https://www.amazon.com.br/FDP-Foi-de-Prop%C3%B3sito-5/dp/B0BYTNLLBX?ref=dlx_deals_dg_dcl_B0BYTNLLBX_dt_sl14_88_pi&pf_rd_r=E5YGYG8R1W6N5X38D6Q2&pf_rd_p=a43a02c5-fe2d-4a34-af71-7d62fff70488&tag=mixdm22-20",
     "last_checked_at": "2026-07-16T20:00:31.667Z",
-    "spotlight": true
+    "spotlight": false
   },
   {
     "asin": "6585885910",
@@ -2358,7 +2358,7 @@ const PRODUCTS = [
     "informacoes_produto": {},
     "affiliate_url": "https://www.amazon.com.br/Cheering-beside-you-Capa-Dura/dp/6585885910?ref=dlx_deals_dg_dcl_6585885910_dt_sl14_88_pi&pf_rd_r=E5YGYG8R1W6N5X38D6Q2&pf_rd_p=a43a02c5-fe2d-4a34-af71-7d62fff70488&tag=mixdm22-20",
     "last_checked_at": "2026-07-16T20:00:31.667Z",
-    "spotlight": true
+    "spotlight": false
   },
   {
     "asin": "B0DCZSLMRG",
@@ -2383,7 +2383,7 @@ const PRODUCTS = [
     },
     "affiliate_url": "https://www.amazon.com.br/GoPro-Pacote-Baterias-Recarreg%C3%A1veis-Enduro/dp/B0DCZSLMRG?ref=dlx_deals_dg_dcl_B0DCZSLMRG_dt_sl14_88_pi&pf_rd_r=E5YGYG8R1W6N5X38D6Q2&pf_rd_p=a43a02c5-fe2d-4a34-af71-7d62fff70488&tag=mixdm22-20",
     "last_checked_at": "2026-07-16T20:00:31.667Z",
-    "spotlight": true
+    "spotlight": false
   },
   {
     "asin": "B089B5TJZ2",
@@ -2408,7 +2408,7 @@ const PRODUCTS = [
     },
     "affiliate_url": "https://www.amazon.com.br/Mec%C3%A2nico-Redragon-Ilumina%C3%A7%C3%A3o-Vermelho-K568R/dp/B089B5TJZ2?ref=dlx_deals_dg_dcl_B089B5TJZ2_dt_sl14_88_pi&pf_rd_r=E5YGYG8R1W6N5X38D6Q2&pf_rd_p=a43a02c5-fe2d-4a34-af71-7d62fff70488&tag=mixdm22-20",
     "last_checked_at": "2026-07-16T20:00:31.667Z",
-    "spotlight": true
+    "spotlight": false
   },
   {
     "asin": "B07HGKBB2C",
@@ -2427,7 +2427,7 @@ const PRODUCTS = [
     "informacoes_produto": {},
     "affiliate_url": "https://www.amazon.com.br/Caminh%C3%A3o-Mercotruck-Guincho-Chassis-Articul%C3%A1vel/dp/B07HGKBB2C?ref=dlx_deals_dg_dcl_B07HGKBB2C_dt_sl14_88_pi&pf_rd_r=E5YGYG8R1W6N5X38D6Q2&pf_rd_p=a43a02c5-fe2d-4a34-af71-7d62fff70488&tag=mixdm22-20",
     "last_checked_at": "2026-07-16T20:00:31.667Z",
-    "spotlight": true
+    "spotlight": false
   },
   {
     "asin": "B000GPI5S8",
@@ -2452,7 +2452,7 @@ const PRODUCTS = [
     },
     "affiliate_url": "https://www.amazon.com.br/Caneta-Nankin-Pigment-Descart%C3%A1vel-Staedtler/dp/B000GPI5S8?ref=dlx_deals_dg_dcl_B000GPI5S8_dt_sl14_88_pi&pf_rd_r=E5YGYG8R1W6N5X38D6Q2&pf_rd_p=a43a02c5-fe2d-4a34-af71-7d62fff70488&tag=mixdm22-20",
     "last_checked_at": "2026-07-16T20:00:31.667Z",
-    "spotlight": true
+    "spotlight": false
   },
   {
     "asin": "B088MHHKNZ",
@@ -2477,7 +2477,7 @@ const PRODUCTS = [
     },
     "affiliate_url": "https://www.amazon.com.br/Jogo-Verdade-Desafio-Pais-Filhos/dp/B088MHHKNZ?ref=dlx_deals_dg_dcl_B088MHHKNZ_dt_sl14_88_pi&pf_rd_r=E5YGYG8R1W6N5X38D6Q2&pf_rd_p=a43a02c5-fe2d-4a34-af71-7d62fff70488&tag=mixdm22-20",
     "last_checked_at": "2026-07-16T20:00:31.667Z",
-    "spotlight": true
+    "spotlight": false
   },
   {
     "asin": "B07MFWRMHG",
@@ -2496,7 +2496,7 @@ const PRODUCTS = [
     "informacoes_produto": {},
     "affiliate_url": "https://www.amazon.com.br/Quebra-Cabeca-Premium-Pais-Filhos/dp/B07MFWRMHG?ref=dlx_deals_dg_dcl_B07MFWRMHG_dt_sl14_88_pi&pf_rd_r=E5YGYG8R1W6N5X38D6Q2&pf_rd_p=a43a02c5-fe2d-4a34-af71-7d62fff70488&tag=mixdm22-20",
     "last_checked_at": "2026-07-16T20:00:31.667Z",
-    "spotlight": true
+    "spotlight": false
   },
   {
     "asin": "B0F1M2DQ8V",
@@ -2515,7 +2515,7 @@ const PRODUCTS = [
     "informacoes_produto": {},
     "affiliate_url": "https://www.amazon.com.br/Automotivo-Cobreado-Transporte-transfer%C3%AAncia-Caminh%C3%A3o/dp/B0F1M2DQ8V?ref=dlx_deals_dg_dcl_B0F1M2DQ8V_dt_sl14_88_pi&pf_rd_r=E5YGYG8R1W6N5X38D6Q2&pf_rd_p=a43a02c5-fe2d-4a34-af71-7d62fff70488&tag=mixdm22-20",
     "last_checked_at": "2026-07-16T20:00:31.667Z",
-    "spotlight": true
+    "spotlight": false
   },
   {
     "asin": "B00UWRKSNK",
@@ -2539,7 +2539,7 @@ const PRODUCTS = [
     },
     "affiliate_url": "https://www.amazon.com.br/Hawaiian-Tropic-Sheer-Protetor-Radiance/dp/B00UWRKSNK?ref=dlx_deals_dg_dcl_B00UWRKSNK_dt_sl14_88_pi&pf_rd_r=E5YGYG8R1W6N5X38D6Q2&pf_rd_p=a43a02c5-fe2d-4a34-af71-7d62fff70488&tag=mixdm22-20",
     "last_checked_at": "2026-07-16T20:00:31.667Z",
-    "spotlight": true
+    "spotlight": false
   },
   {
     "asin": "6586490294",
@@ -2558,7 +2558,7 @@ const PRODUCTS = [
     "informacoes_produto": {},
     "affiliate_url": "https://www.amazon.com.br/Morro-Dos-Ventos-Uivantes-Exclusiva/dp/6586490294?ref=dlx_deals_dg_dcl_6586490294_dt_sl14_88_pi&pf_rd_r=E5YGYG8R1W6N5X38D6Q2&pf_rd_p=a43a02c5-fe2d-4a34-af71-7d62fff70488&tag=mixdm22-20",
     "last_checked_at": "2026-07-16T20:00:31.667Z",
-    "spotlight": true
+    "spotlight": false
   },
   {
     "asin": "B0GP7DFS9Y",
@@ -2583,7 +2583,7 @@ const PRODUCTS = [
     },
     "affiliate_url": "https://www.amazon.com.br/MeepleBR-Unmatched-Fundas-Flechas-jogadores/dp/B0GP7DFS9Y?ref=dlx_deals_dg_dcl_B0GP7DFS9Y_dt_sl14_88_pi&pf_rd_r=E5YGYG8R1W6N5X38D6Q2&pf_rd_p=a43a02c5-fe2d-4a34-af71-7d62fff70488&tag=mixdm22-20",
     "last_checked_at": "2026-07-16T20:00:31.667Z",
-    "spotlight": true
+    "spotlight": false
   },
   {
     "asin": "B0FDX19FDT",
@@ -2608,7 +2608,7 @@ const PRODUCTS = [
     },
     "affiliate_url": "https://www.amazon.com.br/Metalizada-Decorativo-Quadrado-Anivers%C3%A1rio-Casamento/dp/B0FDX19FDT?ref=dlx_deals_dg_dcl_B0FDX19FDT_dt_sl14_88_pi&pf_rd_r=G3GYBBW3D2R7093205ZH&pf_rd_p=a43a02c5-fe2d-4a34-af71-7d62fff70488&tag=mixdm22-20",
     "last_checked_at": "2026-07-16T20:00:31.667Z",
-    "spotlight": true
+    "spotlight": false
   },
   {
     "asin": "B0FDDRF13G",
@@ -2633,7 +2633,7 @@ const PRODUCTS = [
     },
     "affiliate_url": "https://www.amazon.com.br/Cortinas-Metalizadas-Decorativo-Casamento-Anivers%C3%A1rio/dp/B0FDDRF13G?ref=dlx_deals_dg_dcl_B0FDDRF13G_dt_sl14_88_pi&pf_rd_r=G3GYBBW3D2R7093205ZH&pf_rd_p=a43a02c5-fe2d-4a34-af71-7d62fff70488&tag=mixdm22-20",
     "last_checked_at": "2026-07-16T20:00:31.667Z",
-    "spotlight": true
+    "spotlight": false
   },
   {
     "asin": "B0GXBFWLGB",
@@ -2658,7 +2658,7 @@ const PRODUCTS = [
     },
     "affiliate_url": "https://www.amazon.com.br/YARUIKE-Flutuante-Sens%C3%ADvel-Mergulho-Preto-cinza/dp/B0GXBFWLGB?ref=dlx_deals_dg_dcl_B0GXBFWLGB_dt_sl14_88_pi&pf_rd_r=G3GYBBW3D2R7093205ZH&pf_rd_p=a43a02c5-fe2d-4a34-af71-7d62fff70488&tag=mixdm22-20",
     "last_checked_at": "2026-07-16T20:00:31.667Z",
-    "spotlight": true
+    "spotlight": false
   },
   {
     "asin": "B0H1C1SR2Y",
@@ -2683,7 +2683,7 @@ const PRODUCTS = [
     },
     "affiliate_url": "https://www.amazon.com.br/Panquequeira-Antiaderente-Panquecas-Animais-Frigideira/dp/B0H1C1SR2Y?ref=dlx_deals_dg_dcl_B0H1C1SR2Y_dt_sl14_88_pi&pf_rd_r=H8BQZZGWRWBF5CZFKTFF&pf_rd_p=a43a02c5-fe2d-4a34-af71-7d62fff70488&tag=mixdm22-20",
     "last_checked_at": "2026-07-16T20:00:31.666Z",
-    "spotlight": true
+    "spotlight": false
   },
   {
     "asin": "B086543G49",
@@ -2708,7 +2708,7 @@ const PRODUCTS = [
     },
     "affiliate_url": "https://www.amazon.com.br/Organizador-Arm%C3%A1rio-Pequeno-Preto-Elegance/dp/B086543G49?ref=dlx_deals_dg_dcl_B086543G49_dt_sl14_88_pi&pf_rd_r=H8BQZZGWRWBF5CZFKTFF&pf_rd_p=a43a02c5-fe2d-4a34-af71-7d62fff70488&tag=mixdm22-20",
     "last_checked_at": "2026-07-16T20:00:31.666Z",
-    "spotlight": true
+    "spotlight": false
   },
   {
     "asin": "B0DP5VJ88K",
@@ -2732,7 +2732,7 @@ const PRODUCTS = [
     },
     "affiliate_url": "https://www.amazon.com.br/Zona-Criativa-Inoxid%C3%A1vel-Temperatura-Praticidade/dp/B0DP5VJ88K?ref=dlx_deals_dg_dcl_B0DP5VJ88K_dt_sl14_88_pi&pf_rd_r=H8BQZZGWRWBF5CZFKTFF&pf_rd_p=a43a02c5-fe2d-4a34-af71-7d62fff70488&tag=mixdm22-20",
     "last_checked_at": "2026-07-16T20:00:31.666Z",
-    "spotlight": true
+    "spotlight": false
   },
   {
     "asin": "B0DCX61TTG",
@@ -2757,7 +2757,7 @@ const PRODUCTS = [
     },
     "affiliate_url": "https://www.amazon.com.br/Garrafa-T%C3%A9rmica-Kouda-500ml-Azul/dp/B0DCX61TTG?ref=dlx_deals_dg_dcl_B0DCX61TTG_dt_sl14_88_pi&pf_rd_r=H8BQZZGWRWBF5CZFKTFF&pf_rd_p=a43a02c5-fe2d-4a34-af71-7d62fff70488&tag=mixdm22-20",
     "last_checked_at": "2026-07-16T20:00:31.666Z",
-    "spotlight": true
+    "spotlight": false
   },
   {
     "asin": "B07CWX765B",
@@ -2782,7 +2782,7 @@ const PRODUCTS = [
     },
     "affiliate_url": "https://www.amazon.com.br/BEBEDOURO-VIDA-MANSA-AL-BRANCO/dp/B07CWX765B?ref=dlx_deals_dg_dcl_B07CWX765B_dt_sl14_88_pi&pf_rd_r=H8BQZZGWRWBF5CZFKTFF&pf_rd_p=a43a02c5-fe2d-4a34-af71-7d62fff70488&tag=mixdm22-20",
     "last_checked_at": "2026-07-16T20:00:31.666Z",
-    "spotlight": true
+    "spotlight": false
   },
   {
     "asin": "B0GH4TDQMC",
@@ -2807,7 +2807,7 @@ const PRODUCTS = [
     },
     "affiliate_url": "https://www.amazon.com.br/Marmiteira-Talheres-Marrom-Delicious-Wonderful/dp/B0GH4TDQMC?ref=dlx_deals_dg_dcl_B0GH4TDQMC_dt_sl14_88_pi&pf_rd_r=H8BQZZGWRWBF5CZFKTFF&pf_rd_p=a43a02c5-fe2d-4a34-af71-7d62fff70488&tag=mixdm22-20",
     "last_checked_at": "2026-07-16T20:00:31.666Z",
-    "spotlight": true
+    "spotlight": false
   },
   {
     "asin": "B084D2HX7B",
@@ -2832,7 +2832,7 @@ const PRODUCTS = [
     },
     "affiliate_url": "https://www.amazon.com.br/Pote-Mantimentos-Tampa-Bambu-OIKOS/dp/B084D2HX7B?ref=dlx_deals_dg_dcl_B084D2HX7B_dt_sl14_88_pi&pf_rd_r=H8BQZZGWRWBF5CZFKTFF&pf_rd_p=a43a02c5-fe2d-4a34-af71-7d62fff70488&tag=mixdm22-20",
     "last_checked_at": "2026-07-16T20:00:31.666Z",
-    "spotlight": true
+    "spotlight": false
   },
   {
     "asin": "B0GGR9XKVS",
@@ -2857,7 +2857,7 @@ const PRODUCTS = [
     },
     "affiliate_url": "https://www.amazon.com.br/TOKE-DIN-DON-Travesseiro-Viscoel%C3%A1stica/dp/B0GGR9XKVS?ref=dlx_deals_dg_dcl_B0GGR9XKVS_dt_sl14_88_pi&pf_rd_r=5V752BC3E16D6YYXWH1Z&pf_rd_p=a43a02c5-fe2d-4a34-af71-7d62fff70488&tag=mixdm22-20",
     "last_checked_at": "2026-07-16T20:00:31.666Z",
-    "spotlight": true
+    "spotlight": false
   },
   {
     "asin": "B0FZD8RZ7Q",
@@ -2882,7 +2882,7 @@ const PRODUCTS = [
     },
     "affiliate_url": "https://www.amazon.com.br/Sanit%C3%A1ria-Sanit%C3%A1rio-Higi%C3%AAnico-Banheiro-Resistente/dp/B0FZD8RZ7Q?ref=dlx_deals_dg_dcl_B0FZD8RZ7Q_dt_sl14_88_pi&pf_rd_r=5V752BC3E16D6YYXWH1Z&pf_rd_p=a43a02c5-fe2d-4a34-af71-7d62fff70488&tag=mixdm22-20",
     "last_checked_at": "2026-07-16T20:00:31.666Z",
-    "spotlight": true
+    "spotlight": false
   },
   {
     "asin": "B097XJW28C",
@@ -2907,7 +2907,7 @@ const PRODUCTS = [
     },
     "affiliate_url": "https://www.amazon.com.br/VASAGLE-Mesa-Apoio-Lateral-para/dp/B097XJW28C?ref=dlx_deals_dg_dcl_B097XJW28C_dt_sl14_88_pi&pf_rd_r=5V752BC3E16D6YYXWH1Z&pf_rd_p=a43a02c5-fe2d-4a34-af71-7d62fff70488&tag=mixdm22-20",
     "last_checked_at": "2026-07-16T20:00:31.666Z",
-    "spotlight": true
+    "spotlight": false
   },
   {
     "asin": "B0G6YBG655",
@@ -2930,7 +2930,7 @@ const PRODUCTS = [
     },
     "affiliate_url": "https://www.amazon.com.br/Adaptador-Automotivo-CarPlay-sem-fio/dp/B0G6YBG655?ref=dlx_deals_dg_dcl_B0G6YBG655_dt_sl14_88_pi&pf_rd_r=49P43TTW0029CQ3C0PAM&pf_rd_p=a43a02c5-fe2d-4a34-af71-7d62fff70488&tag=mixdm22-20",
     "last_checked_at": "2026-07-16T20:00:31.666Z",
-    "spotlight": true
+    "spotlight": false
   },
   {
     "asin": "B0G4HWTTHN",
@@ -2955,7 +2955,7 @@ const PRODUCTS = [
     },
     "affiliate_url": "https://www.amazon.com.br/Premium-Headphone-Universal-Port%C3%A1til-Interno/dp/B0G4HWTTHN?ref=dlx_deals_dg_dcl_B0G4HWTTHN_dt_sl14_88_pi&pf_rd_r=49P43TTW0029CQ3C0PAM&pf_rd_p=a43a02c5-fe2d-4a34-af71-7d62fff70488&sbo=RZvfv%2F%2FHxDF%2BO5021pAnSA%3D%3D&tag=mixdm22-20",
     "last_checked_at": "2026-07-16T20:00:31.666Z",
-    "spotlight": true
+    "spotlight": false
   },
   {
     "asin": "B0G92MZ5F5",
@@ -2979,7 +2979,7 @@ const PRODUCTS = [
     },
     "affiliate_url": "https://www.amazon.com.br/Basike-Carregador-Universal-Integrado-Carregamento/dp/B0G92MZ5F5?ref=dlx_deals_dg_dcl_B0G92MZ5F5_dt_sl14_88_pi&pf_rd_r=49P43TTW0029CQ3C0PAM&pf_rd_p=a43a02c5-fe2d-4a34-af71-7d62fff70488&sbo=RZvfv%2F%2FHxDF%2BO5021pAnSA%3D%3D&tag=mixdm22-20",
     "last_checked_at": "2026-07-16T20:00:31.666Z",
-    "spotlight": true
+    "spotlight": false
   },
   {
     "asin": "B0G6XB1GCC",
@@ -3004,7 +3004,7 @@ const PRODUCTS = [
     },
     "affiliate_url": "https://www.amazon.com.br/Colheres-Medidoras-Capacidade-Profissional-Suplementos/dp/B0G6XB1GCC?ref=dlx_deals_dg_dcl_B0G6XB1GCC_dt_sl14_88_pi&pf_rd_r=VTG900QQDGB8QB24AWJ7&pf_rd_p=a43a02c5-fe2d-4a34-af71-7d62fff70488&tag=mixdm22-20",
     "last_checked_at": "2026-07-16T20:00:31.666Z",
-    "spotlight": true
+    "spotlight": false
   },
   {
     "asin": "B09MJKDTT1",
@@ -3029,7 +3029,7 @@ const PRODUCTS = [
     },
     "affiliate_url": "https://www.amazon.com.br/Caneca-Ayrton-Capacete-F%C3%B3rmula-Corrida/dp/B09MJKDTT1?ref=dlx_deals_dg_dcl_B09MJKDTT1_dt_sl14_88_pi&pf_rd_r=VTG900QQDGB8QB24AWJ7&pf_rd_p=a43a02c5-fe2d-4a34-af71-7d62fff70488&tag=mixdm22-20",
     "last_checked_at": "2026-07-16T20:00:31.666Z",
-    "spotlight": true
+    "spotlight": false
   },
   {
     "asin": "B0F626TS4V",
@@ -3054,7 +3054,7 @@ const PRODUCTS = [
     },
     "affiliate_url": "https://www.amazon.com.br/Stanley-Acampamento-T%C3%A9rmico-T%C3%A9rmica-Inoxid%C3%A1ve/dp/B0F626TS4V?ref=dlx_deals_dg_dcl_B0F626TS4V_dt_sl14_88_pi&pf_rd_r=VTG900QQDGB8QB24AWJ7&pf_rd_p=a43a02c5-fe2d-4a34-af71-7d62fff70488&tag=mixdm22-20",
     "last_checked_at": "2026-07-16T20:00:31.666Z",
-    "spotlight": true
+    "spotlight": false
   },
   {
     "asin": "B0FHWYJRJM",
@@ -3079,7 +3079,7 @@ const PRODUCTS = [
     },
     "affiliate_url": "https://www.amazon.com.br/Conjunto-Isolamento-T%C3%A9rmico-Moderno-Premium/dp/B0FHWYJRJM?ref=dlx_deals_dg_dcl_B0FHWYJRJM_dt_sl14_88_pi&pf_rd_r=VTG900QQDGB8QB24AWJ7&pf_rd_p=a43a02c5-fe2d-4a34-af71-7d62fff70488&tag=mixdm22-20",
     "last_checked_at": "2026-07-16T20:00:31.666Z",
-    "spotlight": true
+    "spotlight": false
   },
   {
     "asin": "B09DFF7YH7",
@@ -3104,7 +3104,7 @@ const PRODUCTS = [
     },
     "affiliate_url": "https://www.amazon.com.br/Cantil-Porta-Bebida-Bolso-Inox/dp/B09DFF7YH7?ref=dlx_deals_dg_dcl_B09DFF7YH7_dt_sl14_88_pi&pf_rd_r=VTG900QQDGB8QB24AWJ7&pf_rd_p=a43a02c5-fe2d-4a34-af71-7d62fff70488&tag=mixdm22-20",
     "last_checked_at": "2026-07-16T20:00:31.666Z",
-    "spotlight": true
+    "spotlight": false
   },
   {
     "asin": "B0FJSB2F9X",
@@ -3134,7 +3134,7 @@ const PRODUCTS = [
     },
     "affiliate_url": "https://www.amazon.com.br/Organizador-Extens%C3%ADvel-Divis%C3%B3rias-Utens%C3%ADlios-Resistente/dp/B0FJSB2F9X?ref=dlx_deals_dg_dcl_B0FJSB2F9X_dt_sl14_88_pi&pf_rd_r=VTG900QQDGB8QB24AWJ7&pf_rd_p=a43a02c5-fe2d-4a34-af71-7d62fff70488&tag=mixdm22-20",
     "last_checked_at": "2026-07-16T20:00:31.666Z",
-    "spotlight": true
+    "spotlight": false
   },
   {
     "asin": "B076VTQWPJ",
@@ -3159,7 +3159,7 @@ const PRODUCTS = [
     },
     "affiliate_url": "https://www.amazon.com.br/Cortador-Legumes-Boleador-Descascador-Keita/dp/B076VTQWPJ?ref=dlx_deals_dg_dcl_B076VTQWPJ_dt_sl14_88_pi&pf_rd_r=VTG900QQDGB8QB24AWJ7&pf_rd_p=a43a02c5-fe2d-4a34-af71-7d62fff70488&tag=mixdm22-20",
     "last_checked_at": "2026-07-16T20:00:31.666Z",
-    "spotlight": true
+    "spotlight": false
   },
   {
     "asin": "B08X1C6V65",
@@ -3178,7 +3178,7 @@ const PRODUCTS = [
     "informacoes_produto": {},
     "affiliate_url": "https://www.amazon.com.br/LYOR-Bandeja-Espelho-Barcelona-Prateada/dp/B08X1C6V65?ref=dlx_deals_dg_dcl_B08X1C6V65_dt_sl14_88_pi&pf_rd_r=VTG900QQDGB8QB24AWJ7&pf_rd_p=a43a02c5-fe2d-4a34-af71-7d62fff70488&tag=mixdm22-20",
     "last_checked_at": "2026-07-16T20:00:31.666Z",
-    "spotlight": true
+    "spotlight": false
   },
   {
     "asin": "B0GY7CFVN1",
@@ -3202,7 +3202,7 @@ const PRODUCTS = [
     },
     "affiliate_url": "https://www.amazon.com.br/Garrafa-T%C3%A9rmica-Estampa-Rosa-Choque-Tropical/dp/B0GY7CFVN1?ref=dlx_deals_dg_dcl_B0GY7CFVN1_dt_sl14_88_pi&pf_rd_r=VTG900QQDGB8QB24AWJ7&pf_rd_p=a43a02c5-fe2d-4a34-af71-7d62fff70488&tag=mixdm22-20",
     "last_checked_at": "2026-07-16T20:00:31.666Z",
-    "spotlight": true
+    "spotlight": false
   },
   {
     "asin": "B0FLBD8YN3",
@@ -3227,7 +3227,7 @@ const PRODUCTS = [
     },
     "affiliate_url": "https://www.amazon.com.br/Inoxid%C3%A1vel-Superf%C3%ADcie-Antirrespingo-Antiderrapante-Ergon%C3%B4mica/dp/B0FLBD8YN3?ref=dlx_deals_dg_dcl_B0FLBD8YN3_dt_sl14_88_pi&pf_rd_r=VTG900QQDGB8QB24AWJ7&pf_rd_p=a43a02c5-fe2d-4a34-af71-7d62fff70488&sbo=RZvfv%2F%2FHxDF%2BO5021pAnSA%3D%3D&tag=mixdm22-20",
     "last_checked_at": "2026-07-16T20:00:31.666Z",
-    "spotlight": true
+    "spotlight": false
   },
   {
     "asin": "B0GK25Y3QS",
@@ -3252,7 +3252,7 @@ const PRODUCTS = [
     },
     "affiliate_url": "https://www.amazon.com.br/Filtro-para-V60-02-Gotejamento/dp/B0GK25Y3QS?ref=dlx_deals_dg_dcl_B0GK25Y3QS_dt_sl14_88_pi&pf_rd_r=VTG900QQDGB8QB24AWJ7&pf_rd_p=a43a02c5-fe2d-4a34-af71-7d62fff70488&sbo=RZvfv%2F%2FHxDF%2BO5021pAnSA%3D%3D&tag=mixdm22-20",
     "last_checked_at": "2026-07-16T20:00:31.666Z",
-    "spotlight": true
+    "spotlight": false
   },
   {
     "asin": "B0GQP3CJLM",
@@ -3277,7 +3277,7 @@ const PRODUCTS = [
     },
     "affiliate_url": "https://www.amazon.com.br/Lumin%C3%A1ria-Abajur-Quartos-Moderno-Decora%C3%A7%C3%A3o/dp/B0GQP3CJLM?ref=dlx_deals_dg_dcl_B0GQP3CJLM_dt_sl14_88_pi&pf_rd_r=YZGVCZ1WZD38WC320CR6&pf_rd_p=a43a02c5-fe2d-4a34-af71-7d62fff70488&tag=mixdm22-20",
     "last_checked_at": "2026-07-16T20:00:31.666Z",
-    "spotlight": true
+    "spotlight": false
   },
   {
     "asin": "B0GH2HY2ZP",
@@ -3301,7 +3301,7 @@ const PRODUCTS = [
     },
     "affiliate_url": "https://www.amazon.com.br/Percarbonato-Manchas-Biodegrad%C3%A1vel-Profunda-Coloridas/dp/B0GH2HY2ZP?ref=dlx_deals_dg_dcl_B0GH2HY2ZP_dt_sl14_88_pi&pf_rd_r=YZGVCZ1WZD38WC320CR6&pf_rd_p=a43a02c5-fe2d-4a34-af71-7d62fff70488&tag=mixdm22-20",
     "last_checked_at": "2026-07-16T20:00:31.666Z",
-    "spotlight": true
+    "spotlight": false
   },
   {
     "asin": "index-45",
@@ -3326,7 +3326,7 @@ const PRODUCTS = [
     },
     "affiliate_url": "https://www.amazon.com.br/Smartphone-Xiaomi-X7-Black-2412DPC0AG/dp/B0DRD1SBSD/ref=zg_bs_g_16243890011_d_sccl_46/139-5381255-2470242?psc=1&tag=mixdm22-20",
     "last_checked_at": "2026-07-16T20:00:31.666Z",
-    "spotlight": true
+    "spotlight": false
   },
   {
     "asin": "index-42",
@@ -3351,7 +3351,7 @@ const PRODUCTS = [
     },
     "affiliate_url": "https://www.amazon.com.br/Celular-Samsung-Galaxy-Octa-Core-5000mAh/dp/B0DZPGRMKM/ref=zg_bs_g_16243890011_d_sccl_43/139-5381255-2470242?psc=1&tag=mixdm22-20",
     "last_checked_at": "2026-07-16T20:00:31.666Z",
-    "spotlight": true
+    "spotlight": false
   },
   {
     "asin": "index-26",
@@ -3376,7 +3376,7 @@ const PRODUCTS = [
     },
     "affiliate_url": "https://www.amazon.com.br/Smartphone-Xiaomi-Poco-512GB-Preto/dp/B0GN1TCVYX/ref=zg_bs_g_16243890011_d_sccl_27/139-5381255-2470242?psc=1&tag=mixdm22-20",
     "last_checked_at": "2026-07-16T20:00:31.666Z",
-    "spotlight": true
+    "spotlight": false
   },
   {
     "asin": "index-19",
@@ -3401,7 +3401,7 @@ const PRODUCTS = [
     },
     "affiliate_url": "https://www.amazon.com.br/Celular-Samsung-Galaxy-128GB-Preto/dp/B0FPHYC9FQ/ref=zg_bs_g_16243890011_d_sccl_20/139-5381255-2470242?psc=1&tag=mixdm22-20",
     "last_checked_at": "2026-07-16T20:00:31.666Z",
-    "spotlight": true
+    "spotlight": false
   },
   {
     "asin": "index-17",
@@ -3426,7 +3426,7 @@ const PRODUCTS = [
     },
     "affiliate_url": "https://www.amazon.com.br/Smartphone-Motorola-Moto-g56-Ultrarresistencia/dp/B0F9MNPVKG/ref=zg_bs_g_16243890011_d_sccl_18/139-5381255-2470242?psc=1&tag=mixdm22-20",
     "last_checked_at": "2026-07-16T20:00:31.666Z",
-    "spotlight": true
+    "spotlight": false
   },
   {
     "asin": "index-11",
@@ -3451,7 +3451,7 @@ const PRODUCTS = [
     },
     "affiliate_url": "https://www.amazon.com.br/Smartphone-Xiaomi-Redmi-Preto-2510DRA23L/dp/B0GL9QPQYL/ref=zg_bs_g_16243890011_d_sccl_12/139-5381255-2470242?psc=1&tag=mixdm22-20",
     "last_checked_at": "2026-07-16T20:00:31.666Z",
-    "spotlight": true
+    "spotlight": false
   },
   {
     "asin": "index-6",
@@ -3476,7 +3476,7 @@ const PRODUCTS = [
     },
     "affiliate_url": "https://www.amazon.com.br/Celular-Samsung-Recursos-Atualiza%C3%A7%C3%B5es-Seguran%C3%A7a/dp/B0GVTB7BGQ/ref=zg_bs_g_16243890011_d_sccl_7/139-5381255-2470242?psc=1&tag=mixdm22-20",
     "last_checked_at": "2026-07-16T20:00:31.666Z",
-    "spotlight": true
+    "spotlight": false
   },
   {
     "asin": "index-5",
@@ -3501,7 +3501,7 @@ const PRODUCTS = [
     },
     "affiliate_url": "https://www.amazon.com.br/Celular-Samsung-Galaxy-C%C3%A2mera-Recursos/dp/B0DYVMS335/ref=zg_bs_g_16243890011_d_sccl_6/139-5381255-2470242?psc=1&tag=mixdm22-20",
     "last_checked_at": "2026-07-16T20:00:31.665Z",
-    "spotlight": true
+    "spotlight": false
   },
   {
     "asin": "B0D3TSYQRR",
@@ -3520,7 +3520,7 @@ const PRODUCTS = [
     "informacoes_produto": {},
     "affiliate_url": "https://www.amazon.com.br/LAND-GRANDE-AMOR-Multi-fun%C3%A7%C3%A3o-Maternidade/dp/B0D3TSYQRR?ref=dlx_deals_dg_dcl_B0D3TSYQRR_dt_sl14_88_pi_dealz_cp_mdl&pf_rd_r=GJZS5PP0ET0CYK7QSWHX&pf_rd_p=a43a02c5-fe2d-4a34-af71-7d62fff70488&tag=mixdm22-20",
     "last_checked_at": "2026-07-16T20:00:31.665Z",
-    "spotlight": true
+    "spotlight": false
   },
   {
     "asin": "B0GGZNB4Z4",
@@ -3550,7 +3550,7 @@ const PRODUCTS = [
     },
     "affiliate_url": "https://www.amazon.com.br/Gavzrt-Resfriamento-Carregador-Compat%C3%ADvel-Acess%C3%B3rios/dp/B0GGZNB4Z4?ref=dlx_deals_dg_dcl_B0GGZNB4Z4_dt_sl14_88_pi_dealz_cp_mdl&pf_rd_r=GJZS5PP0ET0CYK7QSWHX&pf_rd_p=a43a02c5-fe2d-4a34-af71-7d62fff70488&tag=mixdm22-20",
     "last_checked_at": "2026-07-16T20:00:31.665Z",
-    "spotlight": true
+    "spotlight": false
   },
   {
     "asin": "B0GL97ZKNK",
@@ -3573,7 +3573,7 @@ const PRODUCTS = [
     },
     "affiliate_url": "https://www.amazon.com.br/Material-Granito-Pilao-Socador-Pil%C3%A3o/dp/B0GL97ZKNK?ref=dlx_deals_dg_dcl_B0GL97ZKNK_dt_sl14_88_pi_dealz_cp_mdl&pf_rd_r=GJZS5PP0ET0CYK7QSWHX&pf_rd_p=a43a02c5-fe2d-4a34-af71-7d62fff70488&tag=mixdm22-20",
     "last_checked_at": "2026-07-16T20:00:31.665Z",
-    "spotlight": true
+    "spotlight": false
   },
   {
     "asin": "B00DLZEIQI",
@@ -3598,7 +3598,7 @@ const PRODUCTS = [
     },
     "affiliate_url": "https://www.amazon.com.br/Andorinha-Azeite-Lata-500ml/dp/B00DLZEIQI?ref=dlx_deals_dg_dcl_B00DLZEIQI_dt_sl14_88_pi_dealz_cp_mdl&pf_rd_r=GJZS5PP0ET0CYK7QSWHX&pf_rd_p=a43a02c5-fe2d-4a34-af71-7d62fff70488&tag=mixdm22-20",
     "last_checked_at": "2026-07-16T20:00:31.665Z",
-    "spotlight": true
+    "spotlight": false
   },
   {
     "asin": "B0G2977PCW",
@@ -3617,7 +3617,7 @@ const PRODUCTS = [
     "informacoes_produto": {},
     "affiliate_url": "https://www.amazon.com.br/Rel%C3%B3gio-Compartimentos-Rel%C3%B3gios-Masculino-Organizador/dp/B0G2977PCW?ref=dlx_deals_dg_dcl_B0G2977PCW_dt_sl14_88_pi_dealz_cp_mdl&pf_rd_r=GJZS5PP0ET0CYK7QSWHX&pf_rd_p=a43a02c5-fe2d-4a34-af71-7d62fff70488&tag=mixdm22-20",
     "last_checked_at": "2026-07-16T20:00:31.665Z",
-    "spotlight": true
+    "spotlight": false
   },
   {
     "asin": "B0GSSPLPRX",
@@ -3642,7 +3642,7 @@ const PRODUCTS = [
     },
     "affiliate_url": "https://www.amazon.com.br/Kit-Filamento-PLA-para-Caneta/dp/B0GSSPLPRX?ref=dlx_deals_dg_dcl_B0GSSPLPRX_dt_sl14_88_pi_dealz_cp_mdl&pf_rd_r=GJZS5PP0ET0CYK7QSWHX&pf_rd_p=a43a02c5-fe2d-4a34-af71-7d62fff70488&tag=mixdm22-20",
     "last_checked_at": "2026-07-16T20:00:31.665Z",
-    "spotlight": true
+    "spotlight": false
   },
   {
     "asin": "B0H4HX242N",
@@ -3667,7 +3667,7 @@ const PRODUCTS = [
     },
     "affiliate_url": "https://www.amazon.com.br/LUMAI-Caneca-T%C3%A9rmica-Antivazamento-Premium/dp/B0H4HX242N?ref=dlx_deals_dg_dcl_B0H4HX242N_dt_sl14_88_pi_dealz_cp_mdl&pf_rd_r=GJZS5PP0ET0CYK7QSWHX&pf_rd_p=a43a02c5-fe2d-4a34-af71-7d62fff70488&tag=mixdm22-20",
     "last_checked_at": "2026-07-16T20:00:31.665Z",
-    "spotlight": true
+    "spotlight": false
   },
   {
     "asin": "B0H2JRHP18",
@@ -3686,7 +3686,7 @@ const PRODUCTS = [
     "informacoes_produto": {},
     "affiliate_url": "https://www.amazon.com.br/Mochila-Casual-Refor%C3%A7ada-Notebook-Resist%C3%AAncia/dp/B0H2JRHP18?ref=dlx_deals_dg_dcl_B0H2JRHP18_dt_sl14_88_pi_dealz_cp_mdl&pf_rd_r=GJZS5PP0ET0CYK7QSWHX&pf_rd_p=a43a02c5-fe2d-4a34-af71-7d62fff70488&tag=mixdm22-20",
     "last_checked_at": "2026-07-16T20:00:31.665Z",
-    "spotlight": true
+    "spotlight": false
   },
   {
     "asin": "B0GYSGR913",
@@ -3711,7 +3711,7 @@ const PRODUCTS = [
     },
     "affiliate_url": "https://www.amazon.com.br/Lixeira-Remov%C3%ADvel-Basculante-Transporte-Banheiro/dp/B0GYSGR913?ref=dlx_deals_dg_dcl_B0GYSGR913_dt_sl14_88_pi_dealz_cp_mdl&pf_rd_r=GJZS5PP0ET0CYK7QSWHX&pf_rd_p=a43a02c5-fe2d-4a34-af71-7d62fff70488&tag=mixdm22-20",
     "last_checked_at": "2026-07-16T20:00:31.665Z",
-    "spotlight": true
+    "spotlight": false
   },
   {
     "asin": "B0GT17ZMZ8",
@@ -3735,7 +3735,7 @@ const PRODUCTS = [
     },
     "affiliate_url": "https://www.amazon.com.br/Superm%C3%A1scara-Acidificante-Matizadora-240g-Cosm%C3%A9ticos/dp/B0GT17ZMZ8?ref=dlx_deals_dg_dcl_B0GT17ZMZ8_dt_sl14_88_pi_dealz_cp_mdl&pf_rd_r=GJZS5PP0ET0CYK7QSWHX&pf_rd_p=a43a02c5-fe2d-4a34-af71-7d62fff70488&tag=mixdm22-20",
     "last_checked_at": "2026-07-16T20:00:31.665Z",
-    "spotlight": true
+    "spotlight": false
   },
   {
     "asin": "B0FPZ6TPNG",
@@ -3760,7 +3760,7 @@ const PRODUCTS = [
     },
     "affiliate_url": "https://www.amazon.com.br/Promun-Defense-Boost-Cat-Nutricional/dp/B0FPZ6TPNG?ref=dlx_deals_dg_dcl_B0FPZ6TPNG_dt_sl14_88_pi_dealz_cp_mdl&pf_rd_r=GJZS5PP0ET0CYK7QSWHX&pf_rd_p=a43a02c5-fe2d-4a34-af71-7d62fff70488&tag=mixdm22-20",
     "last_checked_at": "2026-07-16T20:00:31.665Z",
-    "spotlight": true
+    "spotlight": false
   },
   {
     "asin": "B0GLT7WFH1",
@@ -3783,7 +3783,7 @@ const PRODUCTS = [
     },
     "affiliate_url": "https://www.amazon.com.br/Amortecedor-Hidr%C3%A1ulica-Fechador-Automatico-Regulagem/dp/B0GLT7WFH1?ref=dlx_deals_dg_dcl_B0GLT7WFH1_dt_sl14_88_pi_dealz_cp_mdl&pf_rd_r=GJZS5PP0ET0CYK7QSWHX&pf_rd_p=a43a02c5-fe2d-4a34-af71-7d62fff70488&tag=mixdm22-20",
     "last_checked_at": "2026-07-16T20:00:31.665Z",
-    "spotlight": true
+    "spotlight": false
   },
   {
     "asin": "B0DK48QXBZ",
@@ -3802,7 +3802,7 @@ const PRODUCTS = [
     "informacoes_produto": {},
     "affiliate_url": "https://www.amazon.com.br/Vonder-M%C3%A1quina-Assentar-Bateria-Ventosa/dp/B0DK48QXBZ?ref=dlx_deals_dg_dcl_B0DK48QXBZ_dt_sl14_88_pi_dealz_cp_mdl&pf_rd_r=GJZS5PP0ET0CYK7QSWHX&pf_rd_p=a43a02c5-fe2d-4a34-af71-7d62fff70488&tag=mixdm22-20",
     "last_checked_at": "2026-07-16T20:00:31.665Z",
-    "spotlight": true
+    "spotlight": false
   },
   {
     "asin": "B0GGNFJMQ5",
@@ -3827,7 +3827,7 @@ const PRODUCTS = [
     },
     "affiliate_url": "https://www.amazon.com.br/Cadeira-Escrit%C3%B3rio-Ergon%C3%B4mica-Presidente-Preta/dp/B0GGNFJMQ5?ref=dlx_deals_dg_dcl_B0GGNFJMQ5_dt_sl14_88_pi_dealz_cp_mdl&pf_rd_r=GJZS5PP0ET0CYK7QSWHX&pf_rd_p=a43a02c5-fe2d-4a34-af71-7d62fff70488&tag=mixdm22-20",
     "last_checked_at": "2026-07-16T20:00:31.665Z",
-    "spotlight": true
+    "spotlight": false
   },
   {
     "asin": "B0GCMGG457",
@@ -3857,7 +3857,7 @@ const PRODUCTS = [
     },
     "affiliate_url": "https://www.amazon.com.br/Estante-Organizadora-Organizador-Estantes-Estreitas/dp/B0GCMGG457?ref=dlx_deals_dg_dcl_B0GCMGG457_dt_sl14_88_pi_dealz_cp_mdl&pf_rd_r=GJZS5PP0ET0CYK7QSWHX&pf_rd_p=a43a02c5-fe2d-4a34-af71-7d62fff70488&tag=mixdm22-20",
     "last_checked_at": "2026-07-16T20:00:31.665Z",
-    "spotlight": true
+    "spotlight": false
   },
   {
     "asin": "B0FKN5RDXX",
@@ -3882,7 +3882,7 @@ const PRODUCTS = [
     },
     "affiliate_url": "https://www.amazon.com.br/Microfone-Adaptador-Microphone-Articulado-Montagem/dp/B0FKN5RDXX?ref=dlx_deals_dg_dcl_B0FKN5RDXX_dt_sl14_88_pi_dealz_cp_mdl&pf_rd_r=GJZS5PP0ET0CYK7QSWHX&pf_rd_p=a43a02c5-fe2d-4a34-af71-7d62fff70488&tag=mixdm22-20",
     "last_checked_at": "2026-07-16T20:00:31.665Z",
-    "spotlight": true
+    "spotlight": false
   },
   {
     "asin": "B0GZQFTBD7",
@@ -3901,7 +3901,7 @@ const PRODUCTS = [
     "informacoes_produto": {},
     "affiliate_url": "https://www.amazon.com.br/Kit-Mascavo-Pro-Pincel-Maquiagem/dp/B0GZQFTBD7?ref=dlx_deals_dg_dcl_B0GZQFTBD7_dt_sl14_88_pi_dealz_cp_mdl&pf_rd_r=GJZS5PP0ET0CYK7QSWHX&pf_rd_p=a43a02c5-fe2d-4a34-af71-7d62fff70488&tag=mixdm22-20",
     "last_checked_at": "2026-07-16T20:00:31.665Z",
-    "spotlight": true
+    "spotlight": false
   },
   {
     "asin": "B0H2LSYL9Q",
@@ -3925,7 +3925,7 @@ const PRODUCTS = [
     },
     "affiliate_url": "https://www.amazon.com.br/Teclado-Destac%C3%A1vel-Touchpad-Retroilumina%C3%A7%C3%A3o-Portugu%C3%AAs/dp/B0H2LSYL9Q?ref=dlx_deals_dg_dcl_B0H2LSYL9Q_dt_sl14_88_pi_dealz_cp_mdl&pf_rd_r=GJZS5PP0ET0CYK7QSWHX&pf_rd_p=a43a02c5-fe2d-4a34-af71-7d62fff70488&tag=mixdm22-20",
     "last_checked_at": "2026-07-16T20:00:31.665Z",
-    "spotlight": true
+    "spotlight": false
   },
   {
     "asin": "B0GKS7PWRL",
@@ -3950,7 +3950,7 @@ const PRODUCTS = [
     },
     "affiliate_url": "https://www.amazon.com.br/Poltrona-Inflow-Boucle-Decorativo-Moderno/dp/B0GKS7PWRL?ref=dlx_deals_dg_dcl_B0GKS7PWRL_dt_sl14_88_pi_dealz_cp_mdl&pf_rd_r=GJZS5PP0ET0CYK7QSWHX&pf_rd_p=a43a02c5-fe2d-4a34-af71-7d62fff70488&tag=mixdm22-20",
     "last_checked_at": "2026-07-16T20:00:31.665Z",
-    "spotlight": true
+    "spotlight": false
   },
   {
     "asin": "B0H6FH7N6F",
@@ -3975,7 +3975,7 @@ const PRODUCTS = [
     },
     "affiliate_url": "https://www.amazon.com.br/Monitor-port%C3%A1til-conectividade-integrados-dispositivos-Preto/dp/B0H6FH7N6F?ref=dlx_deals_dg_dcl_B0H6FH7N6F_dt_sl14_88_pi_dealz_cp_mdl&pf_rd_r=GJZS5PP0ET0CYK7QSWHX&pf_rd_p=a43a02c5-fe2d-4a34-af71-7d62fff70488&sbo=RZvfv%2F%2FHxDF%2BO5021pAnSA%3D%3D&tag=mixdm22-20",
     "last_checked_at": "2026-07-16T20:00:31.665Z",
-    "spotlight": true
+    "spotlight": false
   },
   {
     "asin": "B07DYK7Y4F",
@@ -3994,7 +3994,7 @@ const PRODUCTS = [
     "informacoes_produto": {},
     "affiliate_url": "https://www.amazon.com.br/Macaquinho-Treme-Treme-Buba/dp/B07DYK7Y4F?ref=dlx_deals_dg_dcl_B07DYK7Y4F_dt_sl14_88_pi&pf_rd_r=0D6Z03J2V524PBVK09WT&pf_rd_p=a43a02c5-fe2d-4a34-af71-7d62fff70488&tag=mixdm22-20",
     "last_checked_at": "2026-07-16T20:00:31.665Z",
-    "spotlight": true
+    "spotlight": false
   },
   {
     "asin": "8578880951",
@@ -4013,7 +4013,7 @@ const PRODUCTS = [
     "informacoes_produto": {},
     "affiliate_url": "https://www.amazon.com.br/Sherlock-Holmes-Caso-Joia-Azul/dp/8578880951?ref=dlx_deals_dg_dcl_8578880951_dt_sl14_88_pi&pf_rd_r=0D6Z03J2V524PBVK09WT&pf_rd_p=a43a02c5-fe2d-4a34-af71-7d62fff70488&tag=mixdm22-20",
     "last_checked_at": "2026-07-16T20:00:31.665Z",
-    "spotlight": true
+    "spotlight": false
   },
   {
     "asin": "8577899357",
@@ -4032,7 +4032,7 @@ const PRODUCTS = [
     "informacoes_produto": {},
     "affiliate_url": "https://www.amazon.com.br/Licenciamento-ambiental-lei-15-190-2025/dp/8577899357?ref=dlx_deals_dg_dcl_8577899357_dt_sl14_88_pi&pf_rd_r=0D6Z03J2V524PBVK09WT&pf_rd_p=a43a02c5-fe2d-4a34-af71-7d62fff70488&tag=mixdm22-20",
     "last_checked_at": "2026-07-16T20:00:31.665Z",
-    "spotlight": true
+    "spotlight": false
   },
   {
     "asin": "6555320656",
@@ -4051,7 +4051,7 @@ const PRODUCTS = [
     "informacoes_produto": {},
     "affiliate_url": "https://www.amazon.com.br/hamb%C3%BArguer-era-carneiro-Daniela-Chindler/dp/6555320656?ref=dlx_deals_dg_dcl_6555320656_dt_sl14_88_pi&pf_rd_r=0D6Z03J2V524PBVK09WT&pf_rd_p=a43a02c5-fe2d-4a34-af71-7d62fff70488&tag=mixdm22-20",
     "last_checked_at": "2026-07-16T20:00:31.665Z",
-    "spotlight": true
+    "spotlight": false
   },
   {
     "asin": "8574164194",
@@ -4070,7 +4070,7 @@ const PRODUCTS = [
     "informacoes_produto": {},
     "affiliate_url": "https://www.amazon.com.br/Hist%C3%B3rias-que-Eu-Gosto-Contar/dp/8574164194?ref=dlx_deals_dg_dcl_8574164194_dt_sl14_88_pi&pf_rd_r=0D6Z03J2V524PBVK09WT&pf_rd_p=a43a02c5-fe2d-4a34-af71-7d62fff70488&tag=mixdm22-20",
     "last_checked_at": "2026-07-16T20:00:31.665Z",
-    "spotlight": true
+    "spotlight": false
   },
   {
     "asin": "8574922919",
@@ -4089,7 +4089,7 @@ const PRODUCTS = [
     "informacoes_produto": {},
     "affiliate_url": "https://www.amazon.com.br/J%C3%BAlia-Seus-Amigos-Lia-Crespo/dp/8574922919?ref=dlx_deals_dg_dcl_8574922919_dt_sl14_88_pi&pf_rd_r=0D6Z03J2V524PBVK09WT&pf_rd_p=a43a02c5-fe2d-4a34-af71-7d62fff70488&tag=mixdm22-20",
     "last_checked_at": "2026-07-16T20:00:31.665Z",
-    "spotlight": true
+    "spotlight": false
   },
   {
     "asin": "B0DWP8S44Z",
@@ -4113,7 +4113,7 @@ const PRODUCTS = [
     },
     "affiliate_url": "https://www.amazon.com.br/Principia-ANTI-ACNE-QUERATOSE-PILAR/dp/B0DWP8S44Z?ref=dlx_deals_dg_dcl_B0DWP8S44Z_dt_sl14_88_pi&pf_rd_r=0D6Z03J2V524PBVK09WT&pf_rd_p=a43a02c5-fe2d-4a34-af71-7d62fff70488&tag=mixdm22-20",
     "last_checked_at": "2026-07-16T20:00:31.665Z",
-    "spotlight": true
+    "spotlight": false
   },
   {
     "asin": "6585208498",
@@ -4132,7 +4132,7 @@ const PRODUCTS = [
     "informacoes_produto": {},
     "affiliate_url": "https://www.amazon.com.br/Pra-continuar-com-Jos%C3%A9-Godoy/dp/6585208498?ref=dlx_deals_dg_dcl_6585208498_dt_sl14_88_pi&pf_rd_r=0D6Z03J2V524PBVK09WT&pf_rd_p=a43a02c5-fe2d-4a34-af71-7d62fff70488&tag=mixdm22-20",
     "last_checked_at": "2026-07-16T20:00:31.664Z",
-    "spotlight": true
+    "spotlight": false
   },
   {
     "asin": "B07DPPS4TK",
@@ -4157,7 +4157,7 @@ const PRODUCTS = [
     },
     "affiliate_url": "https://www.amazon.com.br/Caneta-Rollerball-Uni-Ball-DELUXE-6-7800/dp/B07DPPS4TK?ref=dlx_deals_dg_dcl_B07DPPS4TK_dt_sl14_88_pi&pf_rd_r=0D6Z03J2V524PBVK09WT&pf_rd_p=a43a02c5-fe2d-4a34-af71-7d62fff70488&tag=mixdm22-20",
     "last_checked_at": "2026-07-16T20:00:31.664Z",
-    "spotlight": true
+    "spotlight": false
   },
   {
     "asin": "B0DJ9S4FGM",
@@ -4182,7 +4182,7 @@ const PRODUCTS = [
     },
     "affiliate_url": "https://www.amazon.com.br/FreeFaro-Tradicional-Resistente-Tecnologia-inTransfer/dp/B0DJ9S4FGM?ref=dlx_deals_dg_dcl_B0DJ9S4FGM_dt_sl14_88_pi&pf_rd_r=0D6Z03J2V524PBVK09WT&pf_rd_p=a43a02c5-fe2d-4a34-af71-7d62fff70488&tag=mixdm22-20",
     "last_checked_at": "2026-07-16T20:00:31.664Z",
-    "spotlight": true
+    "spotlight": false
   },
   {
     "asin": "B0DLCC59LZ",
@@ -4207,7 +4207,7 @@ const PRODUCTS = [
     },
     "affiliate_url": "https://www.amazon.com.br/Cortador-Cabelo-220V-Multi-Care/dp/B0DLCC59LZ?ref=dlx_deals_dg_dcl_B0DLCC59LZ_dt_sl14_88_pi&pf_rd_r=0D6Z03J2V524PBVK09WT&pf_rd_p=a43a02c5-fe2d-4a34-af71-7d62fff70488&tag=mixdm22-20",
     "last_checked_at": "2026-07-16T20:00:31.664Z",
-    "spotlight": true
+    "spotlight": false
   },
   {
     "asin": "6526126502",
@@ -4226,7 +4226,7 @@ const PRODUCTS = [
     "informacoes_produto": {},
     "affiliate_url": "https://www.amazon.com.br/As-capivaras-fofinhas-Ciranda-Cultural/dp/6526126502?ref=dlx_deals_dg_dcl_6526126502_dt_sl14_88_pi&pf_rd_r=0D6Z03J2V524PBVK09WT&pf_rd_p=a43a02c5-fe2d-4a34-af71-7d62fff70488&tag=mixdm22-20",
     "last_checked_at": "2026-07-16T20:00:31.664Z",
-    "spotlight": true
+    "spotlight": false
   },
   {
     "asin": "B0DFMM375B",
@@ -4245,7 +4245,7 @@ const PRODUCTS = [
     "informacoes_produto": {},
     "affiliate_url": "https://www.amazon.com.br/Fandom-Box-Plankton-Colecion%C3%A1vel-Esponja/dp/B0DFMM375B?ref=dlx_deals_dg_dcl_B0DFMM375B_dt_sl14_88_pi&pf_rd_r=0D6Z03J2V524PBVK09WT&pf_rd_p=a43a02c5-fe2d-4a34-af71-7d62fff70488&tag=mixdm22-20",
     "last_checked_at": "2026-07-16T20:00:31.664Z",
-    "spotlight": true
+    "spotlight": false
   },
   {
     "asin": "B0GHP1FNF7",
@@ -4268,7 +4268,7 @@ const PRODUCTS = [
     },
     "affiliate_url": "https://www.amazon.com.br/PRINCIPIA-tensoativos-composi%C3%A7%C3%A3o-hialur%C3%B4nicos-niacinamida/dp/B0GHP1FNF7?ref=dlx_deals_dg_dcl_B0GHP1FNF7_dt_sl14_88_pi&pf_rd_r=0D6Z03J2V524PBVK09WT&pf_rd_p=a43a02c5-fe2d-4a34-af71-7d62fff70488&tag=mixdm22-20",
     "last_checked_at": "2026-07-16T20:00:31.664Z",
-    "spotlight": true
+    "spotlight": false
   },
   {
     "asin": "655584910X",
@@ -4287,7 +4287,7 @@ const PRODUCTS = [
     "informacoes_produto": {},
     "affiliate_url": "https://www.amazon.com.br/Uma-Igreja-com-Propositos-comunidade/dp/655584910X?ref=dlx_deals_dg_dcl_655584910X_dt_sl14_88_pi&pf_rd_r=0D6Z03J2V524PBVK09WT&pf_rd_p=a43a02c5-fe2d-4a34-af71-7d62fff70488&tag=mixdm22-20",
     "last_checked_at": "2026-07-16T20:00:31.664Z",
-    "spotlight": true
+    "spotlight": false
   },
   {
     "asin": "6585940059",
@@ -4306,7 +4306,7 @@ const PRODUCTS = [
     "informacoes_produto": {},
     "affiliate_url": "https://www.amazon.com.br/Conclave-Conto-Devils-Edi%C3%A7%C3%A3o-Especial/dp/6585940059?ref=dlx_deals_dg_dcl_6585940059_dt_sl14_88_pi&pf_rd_r=0D6Z03J2V524PBVK09WT&pf_rd_p=a43a02c5-fe2d-4a34-af71-7d62fff70488&tag=mixdm22-20",
     "last_checked_at": "2026-07-16T20:00:31.664Z",
-    "spotlight": true
+    "spotlight": false
   },
   {
     "asin": "6556790842",
@@ -4325,7 +4325,7 @@ const PRODUCTS = [
     "informacoes_produto": {},
     "affiliate_url": "https://www.amazon.com.br/GERA%C3%87%C3%83O-CONECTADA-TELAS-S%C3%83O-VIL%C3%83S/dp/6556790842?ref=dlx_deals_dg_dcl_6556790842_dt_sl14_88_pi&pf_rd_r=0D6Z03J2V524PBVK09WT&pf_rd_p=a43a02c5-fe2d-4a34-af71-7d62fff70488&tag=mixdm22-20",
     "last_checked_at": "2026-07-16T20:00:31.664Z",
-    "spotlight": true
+    "spotlight": false
   },
   {
     "asin": "B0DNFVB7P7",
@@ -4350,7 +4350,7 @@ const PRODUCTS = [
     },
     "affiliate_url": "https://www.amazon.com.br/Jogo-Cama-Simples-Malha-Algod%C3%A3o/dp/B0DNFVB7P7?ref=dlx_deals_dg_dcl_B0DNFVB7P7_dt_sl14_88_pi&pf_rd_r=0D6Z03J2V524PBVK09WT&pf_rd_p=a43a02c5-fe2d-4a34-af71-7d62fff70488&tag=mixdm22-20",
     "last_checked_at": "2026-07-16T20:00:31.664Z",
-    "spotlight": true
+    "spotlight": false
   },
   {
     "asin": "B07QYWLVVS",
@@ -4375,7 +4375,7 @@ const PRODUCTS = [
     },
     "affiliate_url": "https://www.amazon.com.br/Blanket-Naninha-Cachorra-Lili-Branca/dp/B07QYWLVVS?ref=dlx_deals_dg_dcl_B07QYWLVVS_dt_sl14_88_pi&pf_rd_r=0D6Z03J2V524PBVK09WT&pf_rd_p=a43a02c5-fe2d-4a34-af71-7d62fff70488&tag=mixdm22-20",
     "last_checked_at": "2026-07-16T20:00:31.664Z",
-    "spotlight": true
+    "spotlight": false
   },
   {
     "asin": "6526125697",
@@ -4394,7 +4394,7 @@ const PRODUCTS = [
     "informacoes_produto": {},
     "affiliate_url": "https://www.amazon.com.br/Cute-Fierce-Dinos-Para-Colorir/dp/6526125697?ref=dlx_deals_dg_dcl_6526125697_dt_sl14_88_pi&pf_rd_r=0D6Z03J2V524PBVK09WT&pf_rd_p=a43a02c5-fe2d-4a34-af71-7d62fff70488&tag=mixdm22-20",
     "last_checked_at": "2026-07-16T20:00:31.664Z",
-    "spotlight": true
+    "spotlight": false
   },
   {
     "asin": "B08XPJ2BP4",
@@ -4419,7 +4419,7 @@ const PRODUCTS = [
     },
     "affiliate_url": "https://www.amazon.com.br/My-Health-Repellere-Repelente-100mL/dp/B08XPJ2BP4?ref=dlx_deals_dg_dcl_B08XPJ2BP4_dt_sl14_88_pi&pf_rd_r=0D6Z03J2V524PBVK09WT&pf_rd_p=a43a02c5-fe2d-4a34-af71-7d62fff70488&tag=mixdm22-20",
     "last_checked_at": "2026-07-16T20:00:31.664Z",
-    "spotlight": true
+    "spotlight": false
   },
   {
     "asin": "B0GHPNMM7L",
@@ -4442,7 +4442,7 @@ const PRODUCTS = [
     },
     "affiliate_url": "https://www.amazon.com.br/Principia-Oleosidade-tensoativos-niacinamida-antioleosidade/dp/B0GHPNMM7L?ref=dlx_deals_dg_dcl_B0GHPNMM7L_dt_sl14_88_pi&pf_rd_r=0D6Z03J2V524PBVK09WT&pf_rd_p=a43a02c5-fe2d-4a34-af71-7d62fff70488&tag=mixdm22-20",
     "last_checked_at": "2026-07-16T20:00:31.664Z",
-    "spotlight": true
+    "spotlight": false
   },
   {
     "asin": "B0DB2LP9Z4",
@@ -4467,7 +4467,7 @@ const PRODUCTS = [
     },
     "affiliate_url": "https://www.amazon.com.br/GROK-GRK0130-Dobro-Pixar-Games/dp/B0DB2LP9Z4?ref=dlx_deals_dg_dcl_B0DB2LP9Z4_dt_sl14_88_pi&pf_rd_r=0D6Z03J2V524PBVK09WT&pf_rd_p=a43a02c5-fe2d-4a34-af71-7d62fff70488&tag=mixdm22-20",
     "last_checked_at": "2026-07-16T20:00:31.664Z",
-    "spotlight": true
+    "spotlight": false
   },
   {
     "asin": "B0GQ1B5YRM",
@@ -4492,7 +4492,7 @@ const PRODUCTS = [
     },
     "affiliate_url": "https://www.amazon.com.br/Inteligente-Interruptor-ETW-1011-Intelbras/dp/B0GQ1B5YRM?ref=dlx_deals_dg_dcl_B0GQ1B5YRM_dt_sl14_88_pi&pf_rd_r=0D6Z03J2V524PBVK09WT&pf_rd_p=a43a02c5-fe2d-4a34-af71-7d62fff70488&tag=mixdm22-20",
     "last_checked_at": "2026-07-16T20:00:31.664Z",
-    "spotlight": true
+    "spotlight": false
   },
   {
     "asin": "B0BN2Z4TNK",
@@ -4517,7 +4517,7 @@ const PRODUCTS = [
     },
     "affiliate_url": "https://www.amazon.com.br/Bur%C3%B3-N%C3%B3s-Testamos-Este-Tro%C3%A7o/dp/B0BN2Z4TNK?ref=dlx_deals_dg_dcl_B0BN2Z4TNK_dt_sl14_88_pi&pf_rd_r=0D6Z03J2V524PBVK09WT&pf_rd_p=a43a02c5-fe2d-4a34-af71-7d62fff70488&tag=mixdm22-20",
     "last_checked_at": "2026-07-16T20:00:31.664Z",
-    "spotlight": true
+    "spotlight": false
   },
   {
     "asin": "B0CLB4P2FQ",
@@ -4547,7 +4547,7 @@ const PRODUCTS = [
     },
     "affiliate_url": "https://www.amazon.com.br/%C3%94mega-Peixe-1000mg-Meg-3%C2%AE-C%C3%A1psulas/dp/B0CLB4P2FQ?ref=dlx_deals_dg_dcl_B0CLB4P2FQ_dt_sl14_88_pi&pf_rd_r=0D6Z03J2V524PBVK09WT&pf_rd_p=a43a02c5-fe2d-4a34-af71-7d62fff70488&tag=mixdm22-20",
     "last_checked_at": "2026-07-16T20:00:31.664Z",
-    "spotlight": true
+    "spotlight": false
   },
   {
     "asin": "B0F1WJ2FS7",
@@ -4572,7 +4572,7 @@ const PRODUCTS = [
     },
     "affiliate_url": "https://www.amazon.com.br/Pais-Filhos-Quebra-Cabe%C3%A7a-Pe%C3%A7as-Polvo/dp/B0F1WJ2FS7?ref=dlx_deals_dg_dcl_B0F1WJ2FS7_dt_sl14_88_pi&pf_rd_r=0D6Z03J2V524PBVK09WT&pf_rd_p=a43a02c5-fe2d-4a34-af71-7d62fff70488&tag=mixdm22-20",
     "last_checked_at": "2026-07-16T20:00:31.664Z",
-    "spotlight": true
+    "spotlight": false
   },
   {
     "asin": "B0GPZ88T6S",
@@ -4597,7 +4597,7 @@ const PRODUCTS = [
     },
     "affiliate_url": "https://www.amazon.com.br/Inteligente-Interruptor-ETW-1021-Intelbras/dp/B0GPZ88T6S?ref=dlx_deals_dg_dcl_B0GPZ88T6S_dt_sl14_88_pi&pf_rd_r=0D6Z03J2V524PBVK09WT&pf_rd_p=a43a02c5-fe2d-4a34-af71-7d62fff70488&tag=mixdm22-20",
     "last_checked_at": "2026-07-16T20:00:31.663Z",
-    "spotlight": true
+    "spotlight": false
   },
   {
     "asin": "B0GXZQ1K3W",
@@ -4621,7 +4621,7 @@ const PRODUCTS = [
     },
     "affiliate_url": "https://www.amazon.com.br/Controle-Bluetooth-Recarreg%C3%A1vel-Extens%C3%ADvel-Rota%C3%A7%C3%A3o/dp/B0GXZQ1K3W?ref=dlx_deals_dg_dcl_B0GXZQ1K3W_dt_sl14_88_pi&pf_rd_r=V7TJC0TG953XG0QMCTJP&pf_rd_p=a43a02c5-fe2d-4a34-af71-7d62fff70488&tag=mixdm22-20",
     "last_checked_at": "2026-07-16T20:00:31.663Z",
-    "spotlight": true
+    "spotlight": false
   },
   {
     "asin": "B0G99271Q5",
@@ -4646,7 +4646,7 @@ const PRODUCTS = [
     },
     "affiliate_url": "https://www.amazon.com.br/Pel%C3%ADcula-Vidro-Samsung-Galaxy-A33/dp/B0G99271Q5?ref=dlx_deals_dg_dcl_B0G99271Q5_dt_sl14_88_pi&pf_rd_r=V7TJC0TG953XG0QMCTJP&pf_rd_p=a43a02c5-fe2d-4a34-af71-7d62fff70488&tag=mixdm22-20",
     "last_checked_at": "2026-07-16T20:00:31.663Z",
-    "spotlight": true
+    "spotlight": false
   },
   {
     "asin": "B0GDYJ8W7Z",
@@ -4671,7 +4671,7 @@ const PRODUCTS = [
     },
     "affiliate_url": "https://www.amazon.com.br/Pel%C3%ADcula-Vidro-Cobertural-Redmi-Note/dp/B0GDYJ8W7Z?ref=dlx_deals_dg_dcl_B0GDYJ8W7Z_dt_sl14_88_pi&pf_rd_r=V7TJC0TG953XG0QMCTJP&pf_rd_p=a43a02c5-fe2d-4a34-af71-7d62fff70488&tag=mixdm22-20",
     "last_checked_at": "2026-07-16T20:00:31.663Z",
-    "spotlight": true
+    "spotlight": false
   },
   {
     "asin": "B0GCXWDWX6",
@@ -4696,7 +4696,7 @@ const PRODUCTS = [
     },
     "affiliate_url": "https://www.amazon.com.br/Pel%C3%ADcula-Vidro-Motorola-Moto-G54/dp/B0GCXWDWX6?ref=dlx_deals_dg_dcl_B0GCXWDWX6_dt_sl14_88_pi&pf_rd_r=V7TJC0TG953XG0QMCTJP&pf_rd_p=a43a02c5-fe2d-4a34-af71-7d62fff70488&tag=mixdm22-20",
     "last_checked_at": "2026-07-16T20:00:31.663Z",
-    "spotlight": true
+    "spotlight": false
   },
   {
     "asin": "B0GDMT83MB",
@@ -4721,7 +4721,7 @@ const PRODUCTS = [
     },
     "affiliate_url": "https://www.amazon.com.br/Pel%C3%ADcula-Vidro-Xiaomi-Poco-Pro/dp/B0GDMT83MB?ref=dlx_deals_dg_dcl_B0GDMT83MB_dt_sl14_88_pi&pf_rd_r=V7TJC0TG953XG0QMCTJP&pf_rd_p=a43a02c5-fe2d-4a34-af71-7d62fff70488&tag=mixdm22-20",
     "last_checked_at": "2026-07-16T20:00:31.663Z",
-    "spotlight": true
+    "spotlight": false
   },
   {
     "asin": "B0F2SDDSWW",
@@ -4740,7 +4740,7 @@ const PRODUCTS = [
     "informacoes_produto": {},
     "affiliate_url": "https://www.amazon.com.br/Pulseira-Compat%C3%ADvel-Bracelete-Vivoactive-Forerunner/dp/B0F2SDDSWW?ref=dlx_deals_dg_dcl_B0F2SDDSWW_dt_sl14_88_pi&pf_rd_r=V7TJC0TG953XG0QMCTJP&pf_rd_p=a43a02c5-fe2d-4a34-af71-7d62fff70488&tag=mixdm22-20",
     "last_checked_at": "2026-07-16T20:00:31.663Z",
-    "spotlight": true
+    "spotlight": false
   },
   {
     "asin": "B0FH2RZYVV",
@@ -4765,7 +4765,7 @@ const PRODUCTS = [
     },
     "affiliate_url": "https://www.amazon.com.br/GL-Refor%C3%A7ada-Silicone-Transparente-Flex%C3%ADvel/dp/B0FH2RZYVV?ref=dlx_deals_dg_dcl_B0FH2RZYVV_dt_sl14_88_pi&pf_rd_r=V7TJC0TG953XG0QMCTJP&pf_rd_p=a43a02c5-fe2d-4a34-af71-7d62fff70488&tag=mixdm22-20",
     "last_checked_at": "2026-07-16T20:00:31.663Z",
-    "spotlight": true
+    "spotlight": false
   },
   {
     "asin": "B0FC8W9FTN",
@@ -4790,7 +4790,7 @@ const PRODUCTS = [
     },
     "affiliate_url": "https://www.amazon.com.br/GL-s25-plus-Silicone-Transparente/dp/B0FC8W9FTN?ref=dlx_deals_dg_dcl_B0FC8W9FTN_dt_sl14_88_pi&pf_rd_r=V7TJC0TG953XG0QMCTJP&pf_rd_p=a43a02c5-fe2d-4a34-af71-7d62fff70488&tag=mixdm22-20",
     "last_checked_at": "2026-07-16T20:00:31.663Z",
-    "spotlight": true
+    "spotlight": false
   },
   {
     "asin": "B0GCTGFZSW",
@@ -4815,7 +4815,7 @@ const PRODUCTS = [
     },
     "affiliate_url": "https://www.amazon.com.br/Pel%C3%ADcula-Vidro-Motorola-Moto-Edge/dp/B0GCTGFZSW?ref=dlx_deals_dg_dcl_B0GCTGFZSW_dt_sl14_88_pi&pf_rd_r=V7TJC0TG953XG0QMCTJP&pf_rd_p=a43a02c5-fe2d-4a34-af71-7d62fff70488&tag=mixdm22-20",
     "last_checked_at": "2026-07-16T20:00:31.663Z",
-    "spotlight": true
+    "spotlight": false
   },
   {
     "asin": "B0GDMP31MQ",
@@ -4840,7 +4840,7 @@ const PRODUCTS = [
     },
     "affiliate_url": "https://www.amazon.com.br/Pel%C3%ADcula-Vidro-Xiaomi-Poco-C85/dp/B0GDMP31MQ?ref=dlx_deals_dg_dcl_B0GDMP31MQ_dt_sl14_88_pi&pf_rd_r=V7TJC0TG953XG0QMCTJP&pf_rd_p=a43a02c5-fe2d-4a34-af71-7d62fff70488&tag=mixdm22-20",
     "last_checked_at": "2026-07-16T20:00:31.663Z",
-    "spotlight": true
+    "spotlight": false
   },
   {
     "asin": "B0G98TX1F3",
@@ -4865,7 +4865,7 @@ const PRODUCTS = [
     },
     "affiliate_url": "https://www.amazon.com.br/Pel%C3%ADcula-Vidro-Samsung-Galaxy-A23/dp/B0G98TX1F3?ref=dlx_deals_dg_dcl_B0G98TX1F3_dt_sl14_88_pi&pf_rd_r=V7TJC0TG953XG0QMCTJP&pf_rd_p=a43a02c5-fe2d-4a34-af71-7d62fff70488&tag=mixdm22-20",
     "last_checked_at": "2026-07-16T20:00:31.663Z",
-    "spotlight": true
+    "spotlight": false
   },
   {
     "asin": "B0GDYCG64G",
@@ -4890,7 +4890,7 @@ const PRODUCTS = [
     },
     "affiliate_url": "https://www.amazon.com.br/Pel%C3%ADcula-Vidro-Xiaomi-Redmi-Note/dp/B0GDYCG64G?ref=dlx_deals_dg_dcl_B0GDYCG64G_dt_sl14_88_pi&pf_rd_r=V7TJC0TG953XG0QMCTJP&pf_rd_p=a43a02c5-fe2d-4a34-af71-7d62fff70488&tag=mixdm22-20",
     "last_checked_at": "2026-07-16T20:00:31.663Z",
-    "spotlight": true
+    "spotlight": false
   },
   {
     "asin": "B0GCXFJZTD",
@@ -4915,7 +4915,7 @@ const PRODUCTS = [
     },
     "affiliate_url": "https://www.amazon.com.br/Pel%C3%ADcula-Vidro-Motorola-Moto-G34/dp/B0GCXFJZTD?ref=dlx_deals_dg_dcl_B0GCXFJZTD_dt_sl14_88_pi&pf_rd_r=V7TJC0TG953XG0QMCTJP&pf_rd_p=a43a02c5-fe2d-4a34-af71-7d62fff70488&tag=mixdm22-20",
     "last_checked_at": "2026-07-16T20:00:31.663Z",
-    "spotlight": true
+    "spotlight": false
   },
   {
     "asin": "B0GDN58FXV",
@@ -4940,7 +4940,7 @@ const PRODUCTS = [
     },
     "affiliate_url": "https://www.amazon.com.br/Pel%C3%ADcula-Vidro-Xiaomi-Redmi-15C/dp/B0GDN58FXV?ref=dlx_deals_dg_dcl_B0GDN58FXV_dt_sl14_88_pi&pf_rd_r=V7TJC0TG953XG0QMCTJP&pf_rd_p=a43a02c5-fe2d-4a34-af71-7d62fff70488&tag=mixdm22-20",
     "last_checked_at": "2026-07-16T20:00:31.663Z",
-    "spotlight": true
+    "spotlight": false
   },
   {
     "asin": "B0FDX35KWV",
@@ -4965,7 +4965,7 @@ const PRODUCTS = [
     },
     "affiliate_url": "https://www.amazon.com.br/Metalizada-Decorativo-Quadrado-Anivers%C3%A1rio-Casamento/dp/B0FDX35KWV?ref=dlx_deals_dg_dcl_B0FDX35KWV_dt_sl14_88_pi&pf_rd_r=V7TJC0TG953XG0QMCTJP&pf_rd_p=a43a02c5-fe2d-4a34-af71-7d62fff70488&tag=mixdm22-20",
     "last_checked_at": "2026-07-16T20:00:31.663Z",
-    "spotlight": true
+    "spotlight": false
   },
   {
     "asin": "B07CQ4N5XX",
@@ -4990,7 +4990,7 @@ const PRODUCTS = [
     },
     "affiliate_url": "https://www.amazon.com.br/GoPro-Suporte-t%C3%B3rax-desempenho-c%C3%A2meras/dp/B07CQ4N5XX?ref=dlx_deals_dg_dcl_B07CQ4N5XX_dt_sl14_88_pi&pf_rd_r=V7TJC0TG953XG0QMCTJP&pf_rd_p=a43a02c5-fe2d-4a34-af71-7d62fff70488&tag=mixdm22-20",
     "last_checked_at": "2026-07-16T20:00:31.662Z",
-    "spotlight": true
+    "spotlight": false
   },
   {
     "asin": "B0FX7C7LYX",
@@ -5009,7 +5009,7 @@ const PRODUCTS = [
     "informacoes_produto": {},
     "affiliate_url": "https://www.amazon.com.br/Pulseira-Ondulada-Compativel-10-45mm-7-44mm/dp/B0FX7C7LYX?ref=dlx_deals_dg_dcl_B0FX7C7LYX_dt_sl14_88_pi&pf_rd_r=V7TJC0TG953XG0QMCTJP&pf_rd_p=a43a02c5-fe2d-4a34-af71-7d62fff70488&tag=mixdm22-20",
     "last_checked_at": "2026-07-16T20:00:31.662Z",
-    "spotlight": true
+    "spotlight": false
   },
   {
     "asin": "B0C28LDXNS",
@@ -5039,7 +5039,7 @@ const PRODUCTS = [
     },
     "affiliate_url": "https://www.amazon.com.br/Painel-Ripado-Polegadas-Gelius-M%C3%B3veis/dp/B0C28LDXNS?ref=dlx_deals_dg_dcl_B0C28LDXNS_dt_sl14_88_pi&pf_rd_r=V7TJC0TG953XG0QMCTJP&pf_rd_p=a43a02c5-fe2d-4a34-af71-7d62fff70488&tag=mixdm22-20",
     "last_checked_at": "2026-07-16T20:00:31.662Z",
-    "spotlight": true
+    "spotlight": false
   },
   {
     "asin": "B0FDDD5BG8",
@@ -5064,7 +5064,7 @@ const PRODUCTS = [
     },
     "affiliate_url": "https://www.amazon.com.br/Cortinas-Metalizadas-Decorativo-Casamento-Anivers%C3%A1rio/dp/B0FDDD5BG8?ref=dlx_deals_dg_dcl_B0FDDD5BG8_dt_sl14_88_pi&pf_rd_r=V7TJC0TG953XG0QMCTJP&pf_rd_p=a43a02c5-fe2d-4a34-af71-7d62fff70488&tag=mixdm22-20",
     "last_checked_at": "2026-07-16T20:00:31.662Z",
-    "spotlight": true
+    "spotlight": false
   },
   {
     "asin": "B0FL2RQYKK",
@@ -5091,7 +5091,7 @@ const PRODUCTS = [
     },
     "affiliate_url": "https://www.amazon.com.br/Carregador-Port%C3%A1til-El%C3%A9trico-85-264V-Carregamento/dp/B0FL2RQYKK?ref=dlx_deals_dg_dcl_B0FL2RQYKK_dt_sl14_88_pi&pf_rd_r=V7TJC0TG953XG0QMCTJP&pf_rd_p=a43a02c5-fe2d-4a34-af71-7d62fff70488&tag=mixdm22-20",
     "last_checked_at": "2026-07-16T20:00:31.662Z",
-    "spotlight": true
+    "spotlight": false
   },
   {
     "asin": "B0DR678K72",
@@ -5116,7 +5116,7 @@ const PRODUCTS = [
     },
     "affiliate_url": "https://www.amazon.com.br/GL-14-Refor%C3%A7ada-Transparente-Cobertura/dp/B0DR678K72?ref=dlx_deals_dg_dcl_B0DR678K72_dt_sl14_88_pi&pf_rd_r=V7TJC0TG953XG0QMCTJP&pf_rd_p=a43a02c5-fe2d-4a34-af71-7d62fff70488&tag=mixdm22-20",
     "last_checked_at": "2026-07-16T20:00:31.662Z",
-    "spotlight": true
+    "spotlight": false
   },
   {
     "asin": "B0GWF64WN2",
@@ -5140,7 +5140,7 @@ const PRODUCTS = [
     },
     "affiliate_url": "https://www.amazon.com.br/Ultra-HDMI-2-1-Cable-48Gbps/dp/B0GWF64WN2?ref=dlx_deals_dg_dcl_B0GWF64WN2_dt_sl14_88_pi&pf_rd_r=V7TJC0TG953XG0QMCTJP&pf_rd_p=a43a02c5-fe2d-4a34-af71-7d62fff70488&tag=mixdm22-20",
     "last_checked_at": "2026-07-16T20:00:31.662Z",
-    "spotlight": true
+    "spotlight": false
   },
   {
     "asin": "B0GZVDB818",
@@ -5159,7 +5159,7 @@ const PRODUCTS = [
     "informacoes_produto": {},
     "affiliate_url": "https://www.amazon.com.br/Universal-Protetora-Resistente-Compat%C3%ADvel-Pro/dp/B0GZVDB818?ref=dlx_deals_dg_dcl_B0GZVDB818_dt_sl14_88_pi&pf_rd_r=V7TJC0TG953XG0QMCTJP&pf_rd_p=a43a02c5-fe2d-4a34-af71-7d62fff70488&tag=mixdm22-20",
     "last_checked_at": "2026-07-16T20:00:31.662Z",
-    "spotlight": true
+    "spotlight": false
   },
   {
     "asin": "B0DWX3SK4K",
@@ -5184,7 +5184,7 @@ const PRODUCTS = [
     },
     "affiliate_url": "https://www.amazon.com.br/VEVSHAO-Trapezoidal-Autom%C3%A1ticos-Alto-falante-Escrit%C3%B3rio/dp/B0DWX3SK4K?ref=dlx_deals_dg_dcl_B0DWX3SK4K_dt_sl14_88_pi&pf_rd_r=V7TJC0TG953XG0QMCTJP&pf_rd_p=a43a02c5-fe2d-4a34-af71-7d62fff70488&tag=mixdm22-20",
     "last_checked_at": "2026-07-16T20:00:31.662Z",
-    "spotlight": true
+    "spotlight": false
   },
   {
     "asin": "B0F8HF9QWM",
@@ -5203,7 +5203,7 @@ const PRODUCTS = [
     "informacoes_produto": {},
     "affiliate_url": "https://www.amazon.com.br/Pulseira-silicone-Redmi-Watch-Active/dp/B0F8HF9QWM?ref=dlx_deals_dg_dcl_B0F8HF9QWM_dt_sl14_88_pi&pf_rd_r=V7TJC0TG953XG0QMCTJP&pf_rd_p=a43a02c5-fe2d-4a34-af71-7d62fff70488&tag=mixdm22-20",
     "last_checked_at": "2026-07-16T20:00:31.662Z",
-    "spotlight": true
+    "spotlight": false
   },
   {
     "asin": "B0C94RRP2H",
@@ -5222,7 +5222,7 @@ const PRODUCTS = [
     "informacoes_produto": {},
     "affiliate_url": "https://www.amazon.com.br/Polo-Culture-Compat%C3%ADvel-Partybox-Microfones/dp/B0C94RRP2H?ref=dlx_deals_dg_dcl_B0C94RRP2H_dt_sl14_88_pi&pf_rd_r=V7TJC0TG953XG0QMCTJP&pf_rd_p=a43a02c5-fe2d-4a34-af71-7d62fff70488&tag=mixdm22-20",
     "last_checked_at": "2026-07-16T20:00:31.662Z",
-    "spotlight": true
+    "spotlight": false
   },
   {
     "asin": "B0GV3P947R",
@@ -5247,7 +5247,7 @@ const PRODUCTS = [
     },
     "affiliate_url": "https://www.amazon.com.br/AOC-Port%C3%A1til-Bluetooth-Reprodu%C3%A7%C3%A3o-Emparelhamento/dp/B0GV3P947R?ref=dlx_deals_dg_dcl_B0GV3P947R_dt_sl14_88_pi&pf_rd_r=V7TJC0TG953XG0QMCTJP&pf_rd_p=a43a02c5-fe2d-4a34-af71-7d62fff70488&tag=mixdm22-20",
     "last_checked_at": "2026-07-16T20:00:31.662Z",
-    "spotlight": true
+    "spotlight": false
   },
   {
     "asin": "B076X6MPSZ",
@@ -5272,7 +5272,7 @@ const PRODUCTS = [
     },
     "affiliate_url": "https://www.amazon.com.br/Elg-HD25-Cabo-HDMI/dp/B076X6MPSZ?ref=dlx_deals_dg_dcl_B076X6MPSZ_dt_sl14_88_pi&pf_rd_r=V7TJC0TG953XG0QMCTJP&pf_rd_p=a43a02c5-fe2d-4a34-af71-7d62fff70488&tag=mixdm22-20",
     "last_checked_at": "2026-07-16T20:00:31.662Z",
-    "spotlight": true
+    "spotlight": false
   },
   {
     "asin": "B0BMFVSXTP",
@@ -5302,7 +5302,7 @@ const PRODUCTS = [
     },
     "affiliate_url": "https://www.amazon.com.br/C%C3%A2mera-Videoconfer%C3%AAncia-HCSTVCON-HD590NA-Rastreamento/dp/B0BMFVSXTP?ref=dlx_deals_dg_dcl_B0BMFVSXTP_dt_sl14_88_pi&pf_rd_r=V7TJC0TG953XG0QMCTJP&pf_rd_p=a43a02c5-fe2d-4a34-af71-7d62fff70488&tag=mixdm22-20",
     "last_checked_at": "2026-07-16T20:00:31.662Z",
-    "spotlight": true
+    "spotlight": false
   },
   {
     "asin": "B0FQFBBCMM",
@@ -5326,7 +5326,7 @@ const PRODUCTS = [
     },
     "affiliate_url": "https://www.amazon.com.br/Apple-Cellular-alum%C3%ADnio-Bracelete-desportiva/dp/B0FQFBBCMM?ref=dlx_deals_dg_dcl_B0FQFBBCMM_dt_sl14_88_pi&pf_rd_r=V7TJC0TG953XG0QMCTJP&pf_rd_p=a43a02c5-fe2d-4a34-af71-7d62fff70488&tag=mixdm22-20",
     "last_checked_at": "2026-07-16T20:00:31.662Z",
-    "spotlight": true
+    "spotlight": false
   },
   {
     "asin": "B0D4F1HKR5",
@@ -5355,7 +5355,7 @@ const PRODUCTS = [
     },
     "affiliate_url": "https://www.amazon.com.br/rastreamento-autom%C3%A1tico-videoconfer%C3%AAncia-funciona-OBS%EF%BC%88navio/dp/B0D4F1HKR5?ref=dlx_deals_dg_dcl_B0D4F1HKR5_dt_sl14_88_pi&pf_rd_r=V7TJC0TG953XG0QMCTJP&pf_rd_p=a43a02c5-fe2d-4a34-af71-7d62fff70488&tag=mixdm22-20",
     "last_checked_at": "2026-07-16T20:00:31.661Z",
-    "spotlight": true
+    "spotlight": false
   },
   {
     "asin": "B0GYB56QM9",
@@ -5380,7 +5380,7 @@ const PRODUCTS = [
     },
     "affiliate_url": "https://www.amazon.com.br/Drone-DJI-Lito-More-Combo/dp/B0GYB56QM9?ref=dlx_deals_dg_dcl_B0GYB56QM9_dt_sl14_88_pi&pf_rd_r=V7TJC0TG953XG0QMCTJP&pf_rd_p=a43a02c5-fe2d-4a34-af71-7d62fff70488&tag=mixdm22-20",
     "last_checked_at": "2026-07-16T20:00:31.661Z",
-    "spotlight": true
+    "spotlight": false
   },
   {
     "asin": "B0FQDRMK86",
@@ -5404,7 +5404,7 @@ const PRODUCTS = [
     },
     "affiliate_url": "https://www.amazon.com.br/Apple-Cellular-tit%C3%A2nio-Bracelete-desportiva/dp/B0FQDRMK86?ref=dlx_deals_dg_dcl_B0FQDRMK86_dt_sl14_88_pi&pf_rd_r=V7TJC0TG953XG0QMCTJP&pf_rd_p=a43a02c5-fe2d-4a34-af71-7d62fff70488&sbo=RZvfv%2F%2FHxDF%2BO5021pAnSA%3D%3D&tag=mixdm22-20",
     "last_checked_at": "2026-07-16T20:00:31.661Z",
-    "spotlight": true
+    "spotlight": false
   },
   {
     "asin": "B0GHQWV9XT",
@@ -5429,7 +5429,7 @@ const PRODUCTS = [
     },
     "affiliate_url": "https://www.amazon.com.br/Fritadeira-Profunda-Indu%C3%A7%C3%A3o-Suporte-Panelas/dp/B0GHQWV9XT?ref=dlx_deals_dg_dcl_B0GHQWV9XT_dt_sl14_88_pi&pf_rd_r=463RA7P2EH37NTCHCA39&pf_rd_p=a43a02c5-fe2d-4a34-af71-7d62fff70488&tag=mixdm22-20",
     "last_checked_at": "2026-07-16T20:00:31.661Z",
-    "spotlight": true
+    "spotlight": false
   },
   {
     "asin": "B0H2N4GPX4",
@@ -5448,7 +5448,7 @@ const PRODUCTS = [
     "informacoes_produto": {},
     "affiliate_url": "https://www.amazon.com.br/Capa-Protetora-Air-Fryer-Premium/dp/B0H2N4GPX4?ref=dlx_deals_dg_dcl_B0H2N4GPX4_dt_sl14_88_pi&pf_rd_r=463RA7P2EH37NTCHCA39&pf_rd_p=a43a02c5-fe2d-4a34-af71-7d62fff70488&tag=mixdm22-20",
     "last_checked_at": "2026-07-16T20:00:31.661Z",
-    "spotlight": true
+    "spotlight": false
   },
   {
     "asin": "B0FK5XGGNR",
@@ -5473,7 +5473,7 @@ const PRODUCTS = [
     },
     "affiliate_url": "https://www.amazon.com.br/Mixer-Dako-Fun%C3%A7%C3%A3o-Turbo-Preto/dp/B0FK5XGGNR?ref=dlx_deals_dg_dcl_B0FK5XGGNR_dt_sl14_88_pi&pf_rd_r=463RA7P2EH37NTCHCA39&pf_rd_p=a43a02c5-fe2d-4a34-af71-7d62fff70488&tag=mixdm22-20",
     "last_checked_at": "2026-07-16T20:00:31.661Z",
-    "spotlight": true
+    "spotlight": false
   },
   {
     "asin": "B0FSSQFSV2",
@@ -5497,7 +5497,7 @@ const PRODUCTS = [
     },
     "affiliate_url": "https://www.amazon.com.br/Suporte-Ganchos-Organizador-Vassouras-Lavanderia/dp/B0FSSQFSV2?ref=dlx_deals_dg_dcl_B0FSSQFSV2_dt_sl14_88_pi&pf_rd_r=463RA7P2EH37NTCHCA39&pf_rd_p=a43a02c5-fe2d-4a34-af71-7d62fff70488&tag=mixdm22-20",
     "last_checked_at": "2026-07-16T20:00:31.661Z",
-    "spotlight": true
+    "spotlight": false
   },
   {
     "asin": "B0987WBLGF",
@@ -5521,7 +5521,7 @@ const PRODUCTS = [
     },
     "affiliate_url": "https://www.amazon.com.br/Faca-Mesa-Lovers-Gourmet-Cobre/dp/B0987WBLGF?ref=dlx_deals_dg_dcl_B0987WBLGF_dt_sl14_88_pi&pf_rd_r=463RA7P2EH37NTCHCA39&pf_rd_p=a43a02c5-fe2d-4a34-af71-7d62fff70488&tag=mixdm22-20",
     "last_checked_at": "2026-07-16T20:00:31.661Z",
-    "spotlight": true
+    "spotlight": false
   },
   {
     "asin": "B0GYQF8FJV",
@@ -5546,7 +5546,7 @@ const PRODUCTS = [
     },
     "affiliate_url": "https://www.amazon.com.br/Laruno-Escorredor-Suspenso-Organizador-Utens%C3%ADlios/dp/B0GYQF8FJV?ref=dlx_deals_dg_dcl_B0GYQF8FJV_dt_sl14_88_pi&pf_rd_r=463RA7P2EH37NTCHCA39&pf_rd_p=a43a02c5-fe2d-4a34-af71-7d62fff70488&tag=mixdm22-20",
     "last_checked_at": "2026-07-16T20:00:31.660Z",
-    "spotlight": true
+    "spotlight": false
   },
   {
     "asin": "B0DPJ5R5BQ",
@@ -5571,7 +5571,7 @@ const PRODUCTS = [
     },
     "affiliate_url": "https://www.amazon.com.br/WOLFF-Sousplat-Ouro-Cristal-Ecol%C3%B3gico/dp/B0DPJ5R5BQ?ref=dlx_deals_dg_dcl_B0DPJ5R5BQ_dt_sl14_88_pi&pf_rd_r=463RA7P2EH37NTCHCA39&pf_rd_p=a43a02c5-fe2d-4a34-af71-7d62fff70488&tag=mixdm22-20",
     "last_checked_at": "2026-07-16T20:00:31.660Z",
-    "spotlight": true
+    "spotlight": false
   },
   {
     "asin": "8508101619",
@@ -5596,7 +5596,7 @@ const PRODUCTS = [
     },
     "affiliate_url": "https://www.amazon.com.br/panela-paz-Helo%C3%ADsa-Pietro/dp/8508101619?ref=dlx_deals_dg_dcl_8508101619_dt_sl14_88_pi&pf_rd_r=463RA7P2EH37NTCHCA39&pf_rd_p=a43a02c5-fe2d-4a34-af71-7d62fff70488&tag=mixdm22-20",
     "last_checked_at": "2026-07-16T20:00:31.660Z",
-    "spotlight": true
+    "spotlight": false
   },
   {
     "asin": "B0FZD79Y35",
@@ -5621,7 +5621,7 @@ const PRODUCTS = [
     },
     "affiliate_url": "https://www.amazon.com.br/Prateleira-Multiuso-Girat%C3%B3ria-Condimentos-Organizador/dp/B0FZD79Y35?ref=dlx_deals_dg_dcl_B0FZD79Y35_dt_sl14_88_pi&pf_rd_r=463RA7P2EH37NTCHCA39&pf_rd_p=a43a02c5-fe2d-4a34-af71-7d62fff70488&tag=mixdm22-20",
     "last_checked_at": "2026-07-16T20:00:31.660Z",
-    "spotlight": true
+    "spotlight": false
   },
   {
     "asin": "B0CZ4KF5D2",
@@ -5646,7 +5646,7 @@ const PRODUCTS = [
     },
     "affiliate_url": "https://www.amazon.com.br/Ap-P%C3%A7s-Val%C3%AAncia-X%C3%ADc-Branca/dp/B0CZ4KF5D2?ref=dlx_deals_dg_dcl_B0CZ4KF5D2_dt_sl14_88_pi&pf_rd_r=463RA7P2EH37NTCHCA39&pf_rd_p=a43a02c5-fe2d-4a34-af71-7d62fff70488&tag=mixdm22-20",
     "last_checked_at": "2026-07-16T20:00:31.660Z",
-    "spotlight": true
+    "spotlight": false
   },
   {
     "asin": "B0GQJH5VPP",
@@ -5671,7 +5671,7 @@ const PRODUCTS = [
     },
     "affiliate_url": "https://www.amazon.com.br/Escorredor-andares-Autossustentavel-Suspenso-Pliar/dp/B0GQJH5VPP?ref=dlx_deals_dg_dcl_B0GQJH5VPP_dt_sl14_88_pi&pf_rd_r=463RA7P2EH37NTCHCA39&pf_rd_p=a43a02c5-fe2d-4a34-af71-7d62fff70488&tag=mixdm22-20",
     "last_checked_at": "2026-07-16T20:00:31.660Z",
-    "spotlight": true
+    "spotlight": false
   },
   {
     "asin": "B07QSCJ2YD",
@@ -5696,7 +5696,7 @@ const PRODUCTS = [
     },
     "affiliate_url": "https://www.amazon.com.br/WOLFF-Bandeja-Cristal-Al%C3%A7a-Angel/dp/B07QSCJ2YD?ref=dlx_deals_dg_dcl_B07QSCJ2YD_dt_sl14_88_pi&pf_rd_r=463RA7P2EH37NTCHCA39&pf_rd_p=a43a02c5-fe2d-4a34-af71-7d62fff70488&tag=mixdm22-20",
     "last_checked_at": "2026-07-16T20:00:31.660Z",
-    "spotlight": true
+    "spotlight": false
   },
   {
     "asin": "B08WLJYX3H",
@@ -5715,7 +5715,7 @@ const PRODUCTS = [
     "informacoes_produto": {},
     "affiliate_url": "https://www.amazon.com.br/Conjunto-An%C3%A9is-Guardanapos-Zinco-Dourado/dp/B08WLJYX3H?ref=dlx_deals_dg_dcl_B08WLJYX3H_dt_sl14_88_pi&pf_rd_r=463RA7P2EH37NTCHCA39&pf_rd_p=a43a02c5-fe2d-4a34-af71-7d62fff70488&tag=mixdm22-20",
     "last_checked_at": "2026-07-16T20:00:31.660Z",
-    "spotlight": true
+    "spotlight": false
   },
   {
     "asin": "B0FWG2TVWH",
@@ -5740,7 +5740,7 @@ const PRODUCTS = [
     },
     "affiliate_url": "https://www.amazon.com.br/WOLFF-Faqueiro-Pe%C3%A7as-Crois%C3%A9-Litografada/dp/B0FWG2TVWH?ref=dlx_deals_dg_dcl_B0FWG2TVWH_dt_sl14_88_pi&pf_rd_r=463RA7P2EH37NTCHCA39&pf_rd_p=a43a02c5-fe2d-4a34-af71-7d62fff70488&tag=mixdm22-20",
     "last_checked_at": "2026-07-16T20:00:31.660Z",
-    "spotlight": true
+    "spotlight": false
   },
   {
     "asin": "B0FKCYL6ZF",
@@ -5765,7 +5765,7 @@ const PRODUCTS = [
     },
     "affiliate_url": "https://www.amazon.com.br/Copo-com-Canudo-Lotso-Plas%C3%BAtil/dp/B0FKCYL6ZF?ref=dlx_deals_dg_dcl_B0FKCYL6ZF_dt_sl14_88_pi&pf_rd_r=463RA7P2EH37NTCHCA39&pf_rd_p=a43a02c5-fe2d-4a34-af71-7d62fff70488&tag=mixdm22-20",
     "last_checked_at": "2026-07-16T20:00:31.660Z",
-    "spotlight": true
+    "spotlight": false
   },
   {
     "asin": "B0D5K771ZZ",
@@ -5790,7 +5790,7 @@ const PRODUCTS = [
     },
     "affiliate_url": "https://www.amazon.com.br/WOLFF-Garrafa-Whisky-Cristal-Tortile/dp/B0D5K771ZZ?ref=dlx_deals_dg_dcl_B0D5K771ZZ_dt_sl14_88_pi&pf_rd_r=463RA7P2EH37NTCHCA39&pf_rd_p=a43a02c5-fe2d-4a34-af71-7d62fff70488&tag=mixdm22-20",
     "last_checked_at": "2026-07-16T20:00:31.660Z",
-    "spotlight": true
+    "spotlight": false
   },
   {
     "asin": "B0DQ6GH1B9",
@@ -5809,7 +5809,7 @@ const PRODUCTS = [
     "informacoes_produto": {},
     "affiliate_url": "https://www.amazon.com.br/LYOR-Travessa-Butterfly-31cm-Vidro/dp/B0DQ6GH1B9?ref=dlx_deals_dg_dcl_B0DQ6GH1B9_dt_sl14_88_pi&pf_rd_r=463RA7P2EH37NTCHCA39&pf_rd_p=a43a02c5-fe2d-4a34-af71-7d62fff70488&tag=mixdm22-20",
     "last_checked_at": "2026-07-16T20:00:31.660Z",
-    "spotlight": true
+    "spotlight": false
   },
   {
     "asin": "B086YCG9SQ",
@@ -5834,7 +5834,7 @@ const PRODUCTS = [
     },
     "affiliate_url": "https://www.amazon.com.br/Mini-Ralador-Inox-Verano-Tramontina/dp/B086YCG9SQ?ref=dlx_deals_dg_dcl_B086YCG9SQ_dt_sl14_88_pi&pf_rd_r=463RA7P2EH37NTCHCA39&pf_rd_p=a43a02c5-fe2d-4a34-af71-7d62fff70488&tag=mixdm22-20",
     "last_checked_at": "2026-07-16T20:00:31.660Z",
-    "spotlight": true
+    "spotlight": false
   },
   {
     "asin": "B0DPJDZR2F",
@@ -5859,7 +5859,7 @@ const PRODUCTS = [
     },
     "affiliate_url": "https://www.amazon.com.br/Lancheira-Divertida-Infantil-Divis%C3%B3rias-Compartimentos/dp/B0DPJDZR2F?ref=dlx_deals_dg_dcl_B0DPJDZR2F_dt_sl14_88_pi&pf_rd_r=463RA7P2EH37NTCHCA39&pf_rd_p=a43a02c5-fe2d-4a34-af71-7d62fff70488&tag=mixdm22-20",
     "last_checked_at": "2026-07-16T20:00:31.660Z",
-    "spotlight": true
+    "spotlight": false
   },
   {
     "asin": "B0DKQKGRL7",
@@ -5884,7 +5884,7 @@ const PRODUCTS = [
     },
     "affiliate_url": "https://www.amazon.com.br/LYOR-Cafeteira-Italiana-Baquelite-Capacidade/dp/B0DKQKGRL7?ref=dlx_deals_dg_dcl_B0DKQKGRL7_dt_sl14_88_pi&pf_rd_r=463RA7P2EH37NTCHCA39&pf_rd_p=a43a02c5-fe2d-4a34-af71-7d62fff70488&tag=mixdm22-20",
     "last_checked_at": "2026-07-16T20:00:31.659Z",
-    "spotlight": true
+    "spotlight": false
   },
   {
     "asin": "B0CX2TFLPC",
@@ -5909,7 +5909,7 @@ const PRODUCTS = [
     },
     "affiliate_url": "https://www.amazon.com.br/Fritadeira-Mallory-Turbocook-Litros-Estrutura/dp/B0CX2TFLPC?ref=dlx_deals_dg_dcl_B0CX2TFLPC_dt_sl14_88_pi&pf_rd_r=463RA7P2EH37NTCHCA39&pf_rd_p=a43a02c5-fe2d-4a34-af71-7d62fff70488&tag=mixdm22-20",
     "last_checked_at": "2026-07-16T20:00:31.659Z",
-    "spotlight": true
+    "spotlight": false
   },
   {
     "asin": "B0F4JXSZP4",
@@ -5934,7 +5934,7 @@ const PRODUCTS = [
     },
     "affiliate_url": "https://www.amazon.com.br/Colher-Sorvete-Inoxid%C3%A1vel-Ergon%C3%B4mico-Prata/dp/B0F4JXSZP4?ref=dlx_deals_dg_dcl_B0F4JXSZP4_dt_sl14_88_pi&pf_rd_r=463RA7P2EH37NTCHCA39&pf_rd_p=a43a02c5-fe2d-4a34-af71-7d62fff70488&tag=mixdm22-20",
     "last_checked_at": "2026-07-16T20:00:31.659Z",
-    "spotlight": true
+    "spotlight": false
   },
   {
     "asin": "B0D5JGF6PL",
@@ -5953,7 +5953,7 @@ const PRODUCTS = [
     "informacoes_produto": {},
     "affiliate_url": "https://www.amazon.com.br/WOLFF-Conjunto-Ta%C3%A7as-Vidro-Mandala/dp/B0D5JGF6PL?ref=dlx_deals_dg_dcl_B0D5JGF6PL_dt_sl14_88_pi&pf_rd_r=463RA7P2EH37NTCHCA39&pf_rd_p=a43a02c5-fe2d-4a34-af71-7d62fff70488&tag=mixdm22-20",
     "last_checked_at": "2026-07-16T20:00:31.659Z",
-    "spotlight": true
+    "spotlight": false
   },
   {
     "asin": "B0GRLNRBRZ",
@@ -5978,7 +5978,7 @@ const PRODUCTS = [
     },
     "affiliate_url": "https://www.amazon.com.br/Organizador-Multiuso-Fruteira-Banheiro-Escrit%C3%B3rio/dp/B0GRLNRBRZ?ref=dlx_deals_dg_dcl_B0GRLNRBRZ_dt_sl14_88_pi&pf_rd_r=463RA7P2EH37NTCHCA39&pf_rd_p=a43a02c5-fe2d-4a34-af71-7d62fff70488&tag=mixdm22-20",
     "last_checked_at": "2026-07-16T20:00:31.659Z",
-    "spotlight": true
+    "spotlight": false
   },
   {
     "asin": "B08M11QM43",
@@ -6003,7 +6003,7 @@ const PRODUCTS = [
     },
     "affiliate_url": "https://www.amazon.com.br/Caneca-M%C3%A3e-gato-gatinha-%C3%A9/dp/B08M11QM43?ref=dlx_deals_dg_dcl_B08M11QM43_dt_sl14_88_pi&pf_rd_r=463RA7P2EH37NTCHCA39&pf_rd_p=a43a02c5-fe2d-4a34-af71-7d62fff70488&tag=mixdm22-20",
     "last_checked_at": "2026-07-16T20:00:31.659Z",
-    "spotlight": true
+    "spotlight": false
   },
   {
     "asin": "B0DXWHKC3M",
@@ -6028,7 +6028,7 @@ const PRODUCTS = [
     },
     "affiliate_url": "https://www.amazon.com.br/Temperos-Girat%C3%B3rio-Organizador-Condimentos-Especiarias/dp/B0DXWHKC3M?ref=dlx_deals_dg_dcl_B0DXWHKC3M_dt_sl14_88_pi&pf_rd_r=463RA7P2EH37NTCHCA39&pf_rd_p=a43a02c5-fe2d-4a34-af71-7d62fff70488&tag=mixdm22-20",
     "last_checked_at": "2026-07-16T20:00:31.659Z",
-    "spotlight": true
+    "spotlight": false
   },
   {
     "asin": "B0DFMXK8BC",
@@ -6047,7 +6047,7 @@ const PRODUCTS = [
     "informacoes_produto": {},
     "affiliate_url": "https://www.amazon.com.br/Tiny-Love-Lancheira-T%C3%A9rmica-Safari/dp/B0DFMXK8BC?ref=dlx_deals_dg_dcl_B0DFMXK8BC_dt_sl14_88_pi&pf_rd_r=463RA7P2EH37NTCHCA39&pf_rd_p=a43a02c5-fe2d-4a34-af71-7d62fff70488&tag=mixdm22-20",
     "last_checked_at": "2026-07-16T20:00:31.659Z",
-    "spotlight": true
+    "spotlight": false
   },
   {
     "asin": "B0FKJ3ZXH1",
@@ -6072,7 +6072,7 @@ const PRODUCTS = [
     },
     "affiliate_url": "https://www.amazon.com.br/Garrafa-T%C3%A9rmica-Infantil-Estampa-Capivara/dp/B0FKJ3ZXH1?ref=dlx_deals_dg_dcl_B0FKJ3ZXH1_dt_sl14_88_pi&pf_rd_r=463RA7P2EH37NTCHCA39&pf_rd_p=a43a02c5-fe2d-4a34-af71-7d62fff70488&tag=mixdm22-20",
     "last_checked_at": "2026-07-16T20:00:31.659Z",
-    "spotlight": true
+    "spotlight": false
   },
   {
     "asin": "B0CLVLJ9MY",
@@ -6091,7 +6091,7 @@ const PRODUCTS = [
     "informacoes_produto": {},
     "affiliate_url": "https://www.amazon.com.br/WOLFF-Faqueiro-Viena-Dourado-Litografada/dp/B0CLVLJ9MY?ref=dlx_deals_dg_dcl_B0CLVLJ9MY_dt_sl14_88_pi&pf_rd_r=463RA7P2EH37NTCHCA39&pf_rd_p=a43a02c5-fe2d-4a34-af71-7d62fff70488&tag=mixdm22-20",
     "last_checked_at": "2026-07-16T20:00:31.659Z",
-    "spotlight": true
+    "spotlight": false
   },
   {
     "asin": "B0FXXML4FN",
@@ -6116,7 +6116,7 @@ const PRODUCTS = [
     },
     "affiliate_url": "https://www.amazon.com.br/Bolsa-Lancheira-Grande-T%C3%A9rmica-Compartimentos/dp/B0FXXML4FN?ref=dlx_deals_dg_dcl_B0FXXML4FN_dt_sl14_88_pi&pf_rd_r=463RA7P2EH37NTCHCA39&pf_rd_p=a43a02c5-fe2d-4a34-af71-7d62fff70488&tag=mixdm22-20",
     "last_checked_at": "2026-07-16T20:00:31.659Z",
-    "spotlight": true
+    "spotlight": false
   },
   {
     "asin": "B078WH2NYK",
@@ -6141,7 +6141,7 @@ const PRODUCTS = [
     },
     "affiliate_url": "https://www.amazon.com.br/Trudeau-Tigela-mistura-litros-f%C3%BAcsia/dp/B078WH2NYK?ref=dlx_deals_dg_dcl_B078WH2NYK_dt_sl14_88_pi&pf_rd_r=463RA7P2EH37NTCHCA39&pf_rd_p=a43a02c5-fe2d-4a34-af71-7d62fff70488&tag=mixdm22-20",
     "last_checked_at": "2026-07-16T20:00:31.659Z",
-    "spotlight": true
+    "spotlight": false
   },
   {
     "asin": "B0GX7MNXMQ",
@@ -6166,7 +6166,7 @@ const PRODUCTS = [
     },
     "affiliate_url": "https://www.amazon.com.br/Antiaderente-Revestimento-Compat%C3%ADvel-Vitrocer%C3%A2mico-Durabilidade/dp/B0GX7MNXMQ?ref=dlx_deals_dg_dcl_B0GX7MNXMQ_dt_sl14_88_pi&pf_rd_r=463RA7P2EH37NTCHCA39&pf_rd_p=a43a02c5-fe2d-4a34-af71-7d62fff70488&tag=mixdm22-20",
     "last_checked_at": "2026-07-16T20:00:31.659Z",
-    "spotlight": true
+    "spotlight": false
   },
   {
     "asin": "B0BG325QJ1",
@@ -6191,7 +6191,7 @@ const PRODUCTS = [
     },
     "affiliate_url": "https://www.amazon.com.br/Frigideira-Funda-Antiaderente-Tramontina-Tampa/dp/B0BG325QJ1?ref=dlx_deals_dg_dcl_B0BG325QJ1_dt_sl14_88_pi&pf_rd_r=463RA7P2EH37NTCHCA39&pf_rd_p=a43a02c5-fe2d-4a34-af71-7d62fff70488&sbo=RZvfv%2F%2FHxDF%2BO5021pAnSA%3D%3D&tag=mixdm22-20",
     "last_checked_at": "2026-07-16T20:00:31.659Z",
-    "spotlight": true
+    "spotlight": false
   },
   {
     "asin": "B0CZTSSYHB",
@@ -6215,7 +6215,7 @@ const PRODUCTS = [
     },
     "affiliate_url": "https://www.amazon.com.br/OWALA-TUMBLER-STAINLESS-STEEL-TERMICA/dp/B0CZTSSYHB?ref=dlx_deals_dg_dcl_B0CZTSSYHB_dt_sl14_88_pi&pf_rd_r=463RA7P2EH37NTCHCA39&pf_rd_p=a43a02c5-fe2d-4a34-af71-7d62fff70488&sbo=RZvfv%2F%2FHxDF%2BO5021pAnSA%3D%3D&tag=mixdm22-20",
     "last_checked_at": "2026-07-16T20:00:31.658Z",
-    "spotlight": true
+    "spotlight": false
   },
   {
     "asin": "B0CPMBM446",
@@ -6240,7 +6240,7 @@ const PRODUCTS = [
     },
     "affiliate_url": "https://www.amazon.com.br/Cabides-Refor%C3%A7ado-Roupas-Antideslizantes-Casacos/dp/B0CPMBM446?ref=dlx_deals_dg_dcl_B0CPMBM446_dt_sl14_88_pi&pf_rd_r=EKX22Q0ZRWNV0Y3BF0A9&pf_rd_p=a43a02c5-fe2d-4a34-af71-7d62fff70488&sbo=RZvfv%2F%2FHxDF%2BO5021pAnSA%3D%3D&tag=mixdm22-20",
     "last_checked_at": "2026-07-16T20:00:31.658Z",
-    "spotlight": true
+    "spotlight": false
   },
   {
     "asin": "B0BVBXZHSV",
@@ -6265,7 +6265,7 @@ const PRODUCTS = [
     },
     "affiliate_url": "https://www.amazon.com.br/Porta-Chave-Dupla-Instala%C3%A7%C3%A3o-LUMAI/dp/B0BVBXZHSV?ref=dlx_deals_dg_dcl_B0BVBXZHSV_dt_sl14_88_pi&pf_rd_r=EKX22Q0ZRWNV0Y3BF0A9&pf_rd_p=a43a02c5-fe2d-4a34-af71-7d62fff70488&sbo=RZvfv%2F%2FHxDF%2BO5021pAnSA%3D%3D&tag=mixdm22-20",
     "last_checked_at": "2026-07-16T20:00:31.658Z",
-    "spotlight": true
+    "spotlight": false
   },
   {
     "asin": "B07DYYWKZQ",
@@ -6289,7 +6289,7 @@ const PRODUCTS = [
     },
     "affiliate_url": "https://www.amazon.com.br/Airwick-L%C3%ADquido-El%C3%A9trico-Refil-Lavanda/dp/B07DYYWKZQ?ref=dlx_deals_dg_dcl_B07DYYWKZQ_dt_sl14_88_pi&pf_rd_r=EKX22Q0ZRWNV0Y3BF0A9&pf_rd_p=a43a02c5-fe2d-4a34-af71-7d62fff70488&sbo=RZvfv%2F%2FHxDF%2BO5021pAnSA%3D%3D&tag=mixdm22-20",
     "last_checked_at": "2026-07-16T20:00:31.658Z",
-    "spotlight": true
+    "spotlight": false
   },
   {
     "asin": "B07DYXRVLK",
@@ -6314,7 +6314,7 @@ const PRODUCTS = [
     },
     "affiliate_url": "https://www.amazon.com.br/SBP-El%C3%A9trico-Liquido/dp/B07DYXRVLK?ref=dlx_deals_dg_dcl_B07DYXRVLK_dt_sl14_88_pi&pf_rd_r=Z4HKE0E5WNNBJ2ZDABNE&pf_rd_p=a43a02c5-fe2d-4a34-af71-7d62fff70488&tag=mixdm22-20",
     "last_checked_at": "2026-07-16T20:00:31.658Z",
-    "spotlight": true
+    "spotlight": false
   },
   {
     "asin": "8501118834",
@@ -6333,7 +6333,7 @@ const PRODUCTS = [
     "informacoes_produto": {},
     "affiliate_url": "https://www.amazon.com.br/rei-perverso-Vol-Povo-Ar/dp/8501118834?ref=dlx_deals_dg_dcl_8501118834_dt_sl14_88_pi&pf_rd_r=Z4HKE0E5WNNBJ2ZDABNE&pf_rd_p=a43a02c5-fe2d-4a34-af71-7d62fff70488&tag=mixdm22-20",
     "last_checked_at": "2026-07-16T20:00:31.658Z",
-    "spotlight": true
+    "spotlight": false
   },
   {
     "asin": "B0H1HXHZHD",
@@ -6358,7 +6358,7 @@ const PRODUCTS = [
     },
     "affiliate_url": "https://www.amazon.com.br/Mstail-Bebedouro-Silenciosa-Indicador-MG10/dp/B0H1HXHZHD?ref=dlx_deals_dg_dcl_B0H1HXHZHD_dt_sl14_88_pi&pf_rd_r=Z4HKE0E5WNNBJ2ZDABNE&pf_rd_p=a43a02c5-fe2d-4a34-af71-7d62fff70488&tag=mixdm22-20",
     "last_checked_at": "2026-07-16T20:00:31.658Z",
-    "spotlight": true
+    "spotlight": false
   },
   {
     "asin": "B0GXV11BP4",
@@ -6382,7 +6382,7 @@ const PRODUCTS = [
     },
     "affiliate_url": "https://www.amazon.com.br/Bicicleta-Ergom%C3%A9trica-Aplicativo-Silenciosa-ajust%C3%A1veis/dp/B0GXV11BP4?ref=dlx_deals_dg_dcl_B0GXV11BP4_dt_sl14_88_pi&pf_rd_r=Z4HKE0E5WNNBJ2ZDABNE&pf_rd_p=a43a02c5-fe2d-4a34-af71-7d62fff70488&sbo=RZvfv%2F%2FHxDF%2BO5021pAnSA%3D%3D&tag=mixdm22-20",
     "last_checked_at": "2026-07-16T20:00:31.658Z",
-    "spotlight": true
+    "spotlight": false
   },
   {
     "asin": "B0H4HYLQ71",
@@ -6412,7 +6412,7 @@ const PRODUCTS = [
     },
     "affiliate_url": "https://www.amazon.com.br/Notebook-Lenovo-15irx9-I5-13450hx-Nvidia/dp/B0H4HYLQ71?ref=dlx_deals_dg_dcl_B0H4HYLQ71_dt_sl14_88_pi&pf_rd_r=Z4HKE0E5WNNBJ2ZDABNE&pf_rd_p=a43a02c5-fe2d-4a34-af71-7d62fff70488&sbo=RZvfv%2F%2FHxDF%2BO5021pAnSA%3D%3D&tag=mixdm22-20",
     "last_checked_at": "2026-07-16T20:00:31.658Z",
-    "spotlight": true
+    "spotlight": false
   },
   {
     "asin": "B072MTS8VQ",
@@ -6437,7 +6437,7 @@ const PRODUCTS = [
     },
     "affiliate_url": "https://www.amazon.com.br/Hidratante-Calmante-Fragrncia-Sens%C3%ADvel-Sensibilizada/dp/B072MTS8VQ?ref=dlx_deals_dg_dcl_B072MTS8VQ_dt_sl14_88_pi&pf_rd_r=Z4HKE0E5WNNBJ2ZDABNE&pf_rd_p=a43a02c5-fe2d-4a34-af71-7d62fff70488&sbo=RZvfv%2F%2FHxDF%2BO5021pAnSA%3D%3D&tag=mixdm22-20",
     "last_checked_at": "2026-07-16T20:00:31.658Z",
-    "spotlight": true
+    "spotlight": false
   },
   {
     "asin": "B0GWNXBGP7",
@@ -6462,7 +6462,7 @@ const PRODUCTS = [
     },
     "affiliate_url": "https://www.amazon.com.br/Retangulares-Prafesta-Embalagens-Pl%C3%A1sticas-Alimentos/dp/B0GWNXBGP7?ref=dlx_deals_dg_dcl_B0GWNXBGP7_dt_sl14_88_pi&pf_rd_r=Z4HKE0E5WNNBJ2ZDABNE&pf_rd_p=a43a02c5-fe2d-4a34-af71-7d62fff70488&sbo=RZvfv%2F%2FHxDF%2BO5021pAnSA%3D%3D&tag=mixdm22-20",
     "last_checked_at": "2026-07-16T20:00:31.658Z",
-    "spotlight": true
+    "spotlight": false
   },
   {
     "asin": "B0GH1339MR",
@@ -6487,7 +6487,7 @@ const PRODUCTS = [
     },
     "affiliate_url": "https://www.amazon.com.br/Maquina-Tufting-110-240V-Aparador-Profissional/dp/B0GH1339MR?ref=dlx_deals_dg_dcl_B0GH1339MR_dt_sl14_88_pi&pf_rd_r=Z4HKE0E5WNNBJ2ZDABNE&pf_rd_p=a43a02c5-fe2d-4a34-af71-7d62fff70488&sbo=RZvfv%2F%2FHxDF%2BO5021pAnSA%3D%3D&tag=mixdm22-20",
     "last_checked_at": "2026-07-16T20:00:31.658Z",
-    "spotlight": true
+    "spotlight": false
   },
   {
     "asin": "B099KTRZP7",
@@ -6512,7 +6512,7 @@ const PRODUCTS = [
     },
     "affiliate_url": "https://www.amazon.com.br/Fralda-Turma-Baby-Unidades-M%C3%B4nica/dp/B099KTRZP7?ref=dlx_deals_dg_dcl_B099KTRZP7_dt_sl14_88_pi&pf_rd_r=Z4HKE0E5WNNBJ2ZDABNE&pf_rd_p=a43a02c5-fe2d-4a34-af71-7d62fff70488&sbo=RZvfv%2F%2FHxDF%2BO5021pAnSA%3D%3D&tag=mixdm22-20",
     "last_checked_at": "2026-07-16T20:00:31.658Z",
-    "spotlight": true
+    "spotlight": false
   },
   {
     "asin": "B0D6XH3FZS",
@@ -6531,7 +6531,7 @@ const PRODUCTS = [
     "informacoes_produto": {},
     "affiliate_url": "https://www.amazon.com.br/Zip-Ind-Ursa-Lola/dp/B0D6XH3FZS?ref=dlx_deals_dg_dcl_B0D6XH3FZS_dt_sl14_88_pi&pf_rd_r=P3EFR1WCC41028MDDKH9&pf_rd_p=a43a02c5-fe2d-4a34-af71-7d62fff70488&tag=mixdm22-20",
     "last_checked_at": "2026-07-16T20:00:31.658Z",
-    "spotlight": true
+    "spotlight": false
   },
   {
     "asin": "B0GH2WP8Y5",
@@ -6556,7 +6556,7 @@ const PRODUCTS = [
     },
     "affiliate_url": "https://www.amazon.com.br/MeepleBR-Imperium-Horizontes-jogadores-Cole%C3%A7%C3%A3o/dp/B0GH2WP8Y5?ref=dlx_deals_dg_dcl_B0GH2WP8Y5_dt_sl14_88_pi&pf_rd_r=P3EFR1WCC41028MDDKH9&pf_rd_p=a43a02c5-fe2d-4a34-af71-7d62fff70488&tag=mixdm22-20",
     "last_checked_at": "2026-07-16T20:00:31.658Z",
-    "spotlight": true
+    "spotlight": false
   },
   {
     "asin": "B0FYHQJ7XZ",
@@ -6581,7 +6581,7 @@ const PRODUCTS = [
     },
     "affiliate_url": "https://www.amazon.com.br/CALEND%C3%81RIO-EUG%C3%8ANIA-PAREDE-TECA-PAPELARIA/dp/B0FYHQJ7XZ?ref=dlx_deals_dg_dcl_B0FYHQJ7XZ_dt_sl14_88_pi&pf_rd_r=P3EFR1WCC41028MDDKH9&pf_rd_p=a43a02c5-fe2d-4a34-af71-7d62fff70488&tag=mixdm22-20",
     "last_checked_at": "2026-07-16T20:00:31.658Z",
-    "spotlight": true
+    "spotlight": false
   },
   {
     "asin": "B07FK2STCV",
@@ -6600,7 +6600,7 @@ const PRODUCTS = [
     "informacoes_produto": {},
     "affiliate_url": "https://www.amazon.com.br/Baldinho-Menina-Merco-Toys-Multicor/dp/B07FK2STCV?ref=dlx_deals_dg_dcl_B07FK2STCV_dt_sl14_88_pi&pf_rd_r=P3EFR1WCC41028MDDKH9&pf_rd_p=a43a02c5-fe2d-4a34-af71-7d62fff70488&tag=mixdm22-20",
     "last_checked_at": "2026-07-16T20:00:31.658Z",
-    "spotlight": true
+    "spotlight": false
   },
   {
     "asin": "B0BCXJHMP3",
@@ -6625,7 +6625,7 @@ const PRODUCTS = [
     },
     "affiliate_url": "https://www.amazon.com.br/Caderno-Inteligente-Grande-Pandalu-Luluca/dp/B0BCXJHMP3?ref=dlx_deals_dg_dcl_B0BCXJHMP3_dt_sl14_88_pi&pf_rd_r=P3EFR1WCC41028MDDKH9&pf_rd_p=a43a02c5-fe2d-4a34-af71-7d62fff70488&tag=mixdm22-20",
     "last_checked_at": "2026-07-16T20:00:31.658Z",
-    "spotlight": true
+    "spotlight": false
   },
   {
     "asin": "B09252SMX2",
@@ -6650,7 +6650,7 @@ const PRODUCTS = [
     },
     "affiliate_url": "https://www.amazon.com.br/Capotraste-Ukulele-Preto-Kalani-Original/dp/B09252SMX2?ref=dlx_deals_dg_dcl_B09252SMX2_dt_sl14_88_pi&pf_rd_r=P3EFR1WCC41028MDDKH9&pf_rd_p=a43a02c5-fe2d-4a34-af71-7d62fff70488&tag=mixdm22-20",
     "last_checked_at": "2026-07-16T20:00:31.658Z",
-    "spotlight": true
+    "spotlight": false
   },
   {
     "asin": "8582468881",
@@ -6669,7 +6669,7 @@ const PRODUCTS = [
     "informacoes_produto": {},
     "affiliate_url": "https://www.amazon.com.br/Maria-nossa-vida-iluminar-desejadas/dp/8582468881?ref=dlx_deals_dg_dcl_8582468881_dt_sl14_88_pi&pf_rd_r=P3EFR1WCC41028MDDKH9&pf_rd_p=a43a02c5-fe2d-4a34-af71-7d62fff70488&tag=mixdm22-20",
     "last_checked_at": "2026-07-16T20:00:31.658Z",
-    "spotlight": true
+    "spotlight": false
   },
   {
     "asin": "B009PK9UWA",
@@ -6694,7 +6694,7 @@ const PRODUCTS = [
     },
     "affiliate_url": "https://www.amazon.com.br/GoPro-Suporte-Adesivo-Modelos-Multicor/dp/B009PK9UWA?ref=dlx_deals_dg_dcl_B009PK9UWA_dt_sl14_88_pi&pf_rd_r=P3EFR1WCC41028MDDKH9&pf_rd_p=a43a02c5-fe2d-4a34-af71-7d62fff70488&tag=mixdm22-20",
     "last_checked_at": "2026-07-16T20:00:31.658Z",
-    "spotlight": true
+    "spotlight": false
   },
   {
     "asin": "854442127X",
@@ -6713,7 +6713,7 @@ const PRODUCTS = [
     "informacoes_produto": {},
     "affiliate_url": "https://www.amazon.com.br/Pr%C3%A1ticas-Leitura-Escrita-Contrapontos-Forma%C3%A7%C3%A3o/dp/854442127X?ref=dlx_deals_dg_dcl_854442127X_dt_sl14_88_pi&pf_rd_r=P3EFR1WCC41028MDDKH9&pf_rd_p=a43a02c5-fe2d-4a34-af71-7d62fff70488&tag=mixdm22-20",
     "last_checked_at": "2026-07-16T20:00:31.658Z",
-    "spotlight": true
+    "spotlight": false
   },
   {
     "asin": "B0FYHQYTC5",
@@ -6738,7 +6738,7 @@ const PRODUCTS = [
     },
     "affiliate_url": "https://www.amazon.com.br/CALEND%C3%81RIO-TARSILA-AMARAL-TECA-PAPELARIA/dp/B0FYHQYTC5?ref=dlx_deals_dg_dcl_B0FYHQYTC5_dt_sl14_88_pi&pf_rd_r=P3EFR1WCC41028MDDKH9&pf_rd_p=a43a02c5-fe2d-4a34-af71-7d62fff70488&tag=mixdm22-20",
     "last_checked_at": "2026-07-16T20:00:31.658Z",
-    "spotlight": true
+    "spotlight": false
   },
   {
     "asin": "6598122104",
@@ -6757,7 +6757,7 @@ const PRODUCTS = [
     "informacoes_produto": {},
     "affiliate_url": "https://www.amazon.com.br/Ainda-ontem-pensei-com-cora%C3%A7%C3%A3o/dp/6598122104?ref=dlx_deals_dg_dcl_6598122104_dt_sl14_88_pi&pf_rd_r=P3EFR1WCC41028MDDKH9&pf_rd_p=a43a02c5-fe2d-4a34-af71-7d62fff70488&tag=mixdm22-20",
     "last_checked_at": "2026-07-16T20:00:31.658Z",
-    "spotlight": true
+    "spotlight": false
   },
   {
     "asin": "B0GHP51J6H",
@@ -6781,7 +6781,7 @@ const PRODUCTS = [
     },
     "affiliate_url": "https://www.amazon.com.br/PRINCIPIA-Rotina-f%C3%B3rmulas-skincare-rotina/dp/B0GHP51J6H?ref=dlx_deals_dg_dcl_B0GHP51J6H_dt_sl14_88_pi&pf_rd_r=P3EFR1WCC41028MDDKH9&pf_rd_p=a43a02c5-fe2d-4a34-af71-7d62fff70488&tag=mixdm22-20",
     "last_checked_at": "2026-07-16T20:00:31.658Z",
-    "spotlight": true
+    "spotlight": false
   },
   {
     "asin": "8595204799",
@@ -6800,7 +6800,7 @@ const PRODUCTS = [
     "informacoes_produto": {},
     "affiliate_url": "https://www.amazon.com.br/Como-escovar-dentes-Cont%C3%A9m-escova/dp/8595204799?ref=dlx_deals_dg_dcl_8595204799_dt_sl14_88_pi&pf_rd_r=P3EFR1WCC41028MDDKH9&pf_rd_p=a43a02c5-fe2d-4a34-af71-7d62fff70488&tag=mixdm22-20",
     "last_checked_at": "2026-07-16T20:00:31.658Z",
-    "spotlight": true
+    "spotlight": false
   },
   {
     "asin": "6556920231",
@@ -6819,7 +6819,7 @@ const PRODUCTS = [
     "informacoes_produto": {},
     "affiliate_url": "https://www.amazon.com.br/Talvez-ela-n%C3%A3o-precise-mim/dp/6556920231?ref=dlx_deals_dg_dcl_6556920231_dt_sl14_88_pi&pf_rd_r=P3EFR1WCC41028MDDKH9&pf_rd_p=a43a02c5-fe2d-4a34-af71-7d62fff70488&tag=mixdm22-20",
     "last_checked_at": "2026-07-16T20:00:31.658Z",
-    "spotlight": true
+    "spotlight": false
   },
   {
     "asin": "B08SWMM9NK",
@@ -6844,7 +6844,7 @@ const PRODUCTS = [
     },
     "affiliate_url": "https://www.amazon.com.br/Coador-bebidas-Open-A14cm-cobre-COBRE/dp/B08SWMM9NK?ref=dlx_deals_dg_dcl_B08SWMM9NK_dt_sl14_88_pi&pf_rd_r=P3EFR1WCC41028MDDKH9&pf_rd_p=a43a02c5-fe2d-4a34-af71-7d62fff70488&tag=mixdm22-20",
     "last_checked_at": "2026-07-16T20:00:31.658Z",
-    "spotlight": true
+    "spotlight": false
   },
   {
     "asin": "B0DSGC9JSS",
@@ -6868,7 +6868,7 @@ const PRODUCTS = [
     },
     "affiliate_url": "https://www.amazon.com.br/PaperGames-PPG-J102-Disc-Cover/dp/B0DSGC9JSS?ref=dlx_deals_dg_dcl_B0DSGC9JSS_dt_sl14_88_pi&pf_rd_r=P3EFR1WCC41028MDDKH9&pf_rd_p=a43a02c5-fe2d-4a34-af71-7d62fff70488&tag=mixdm22-20",
     "last_checked_at": "2026-07-16T20:00:31.658Z",
-    "spotlight": true
+    "spotlight": false
   },
   {
     "asin": "B09LHWJF1F",
@@ -6893,7 +6893,7 @@ const PRODUCTS = [
     },
     "affiliate_url": "https://www.amazon.com.br/Forno-Embutir-El%C3%A9trico-Oster-Black/dp/B09LHWJF1F?ref=dlx_deals_dg_dcl_B09LHWJF1F_dt_sl14_88_pi&pf_rd_r=P3EFR1WCC41028MDDKH9&pf_rd_p=a43a02c5-fe2d-4a34-af71-7d62fff70488&tag=mixdm22-20",
     "last_checked_at": "2026-07-16T20:00:31.658Z",
-    "spotlight": true
+    "spotlight": false
   },
   {
     "asin": "B0F2J92Q3Y",
@@ -6912,7 +6912,7 @@ const PRODUCTS = [
     "informacoes_produto": {},
     "affiliate_url": "https://www.amazon.com.br/Audi-Tron-Eletrico-Pink-Bandeirante/dp/B0F2J92Q3Y?ref=dlx_deals_dg_dcl_B0F2J92Q3Y_dt_sl14_88_pi&pf_rd_r=P3EFR1WCC41028MDDKH9&pf_rd_p=a43a02c5-fe2d-4a34-af71-7d62fff70488&tag=mixdm22-20",
     "last_checked_at": "2026-07-16T20:00:31.658Z",
-    "spotlight": true
+    "spotlight": false
   },
   {
     "asin": "B0D66WPJLF",
@@ -6937,7 +6937,7 @@ const PRODUCTS = [
     },
     "affiliate_url": "https://www.amazon.com.br/Creuset-Ca%C3%A7arola-Buffet-30Cm-Shell/dp/B0D66WPJLF?ref=dlx_deals_dg_dcl_B0D66WPJLF_dt_sl14_88_pi&pf_rd_r=P3EFR1WCC41028MDDKH9&pf_rd_p=a43a02c5-fe2d-4a34-af71-7d62fff70488&tag=mixdm22-20",
     "last_checked_at": "2026-07-16T20:00:31.657Z",
-    "spotlight": true
+    "spotlight": false
   },
   {
     "asin": "B0DNYNF747",
@@ -6967,7 +6967,7 @@ const PRODUCTS = [
     },
     "affiliate_url": "https://www.amazon.com.br/GoPro-HERO13-Black-Essential-Bundle/dp/B0DNYNF747?ref=dlx_deals_dg_dcl_B0DNYNF747_dt_sl14_88_pi&pf_rd_r=P3EFR1WCC41028MDDKH9&pf_rd_p=a43a02c5-fe2d-4a34-af71-7d62fff70488&tag=mixdm22-20",
     "last_checked_at": "2026-07-16T20:00:31.657Z",
-    "spotlight": true
+    "spotlight": false
   },
   {
     "asin": "B09M77QF5G",
@@ -6992,7 +6992,7 @@ const PRODUCTS = [
     },
     "affiliate_url": "https://www.amazon.com.br/Pirulito-Catavento-Frutas-Sortidas-Danilla/dp/B09M77QF5G?ref=dlx_deals_dg_dcl_B09M77QF5G_dt_sl14_88_pi&pf_rd_r=P3EFR1WCC41028MDDKH9&pf_rd_p=a43a02c5-fe2d-4a34-af71-7d62fff70488&tag=mixdm22-20",
     "last_checked_at": "2026-07-16T20:00:31.657Z",
-    "spotlight": true
+    "spotlight": false
   },
   {
     "asin": "B0845QRP8F",
@@ -7017,7 +7017,7 @@ const PRODUCTS = [
     },
     "affiliate_url": "https://www.amazon.com.br/Pais-e-Filhos-Quebra-Cabe%C3%A7a-Princesa/dp/B0845QRP8F?ref=dlx_deals_dg_dcl_B0845QRP8F_dt_sl14_88_pi&pf_rd_r=P3EFR1WCC41028MDDKH9&pf_rd_p=a43a02c5-fe2d-4a34-af71-7d62fff70488&tag=mixdm22-20",
     "last_checked_at": "2026-07-16T20:00:31.657Z",
-    "spotlight": true
+    "spotlight": false
   },
   {
     "asin": "B0D1W2DGZL",
@@ -7042,7 +7042,7 @@ const PRODUCTS = [
     },
     "affiliate_url": "https://www.amazon.com.br/Copos-Altos-Abelha-Vidro-Hermitage/dp/B0D1W2DGZL?ref=dlx_deals_dg_dcl_B0D1W2DGZL_dt_sl14_88_pi&pf_rd_r=P3EFR1WCC41028MDDKH9&pf_rd_p=a43a02c5-fe2d-4a34-af71-7d62fff70488&tag=mixdm22-20",
     "last_checked_at": "2026-07-16T20:00:31.657Z",
-    "spotlight": true
+    "spotlight": false
   },
   {
     "asin": "B0C35FVSFK",
@@ -7067,7 +7067,7 @@ const PRODUCTS = [
     },
     "affiliate_url": "https://www.amazon.com.br/Pais-Filhos-791674-Quebra-Cabe%C3%A7a-Pantaneira/dp/B0C35FVSFK?ref=dlx_deals_dg_dcl_B0C35FVSFK_dt_sl14_88_pi&pf_rd_r=P3EFR1WCC41028MDDKH9&pf_rd_p=a43a02c5-fe2d-4a34-af71-7d62fff70488&tag=mixdm22-20",
     "last_checked_at": "2026-07-16T20:00:31.657Z",
-    "spotlight": true
+    "spotlight": false
   },
   {
     "asin": "B0BMNC1P77",
@@ -7092,7 +7092,7 @@ const PRODUCTS = [
     },
     "affiliate_url": "https://www.amazon.com.br/OIKOS-Rodo-Dobr%C3%A1vel-Bambu-Branco/dp/B0BMNC1P77?ref=dlx_deals_dg_dcl_B0BMNC1P77_dt_sl14_88_pi&pf_rd_r=P3EFR1WCC41028MDDKH9&pf_rd_p=a43a02c5-fe2d-4a34-af71-7d62fff70488&tag=mixdm22-20",
     "last_checked_at": "2026-07-16T20:00:31.657Z",
-    "spotlight": true
+    "spotlight": false
   },
   {
     "asin": "B0GSWMX6RC",
@@ -7111,7 +7111,7 @@ const PRODUCTS = [
     "informacoes_produto": {},
     "affiliate_url": "https://www.amazon.com.br/Controle-Atualizada-DualShock-Anal%C3%B3gico-Computador/dp/B0GSWMX6RC?ref=dlx_deals_dg_dcl_B0GSWMX6RC_dt_sl14_88_pi&pf_rd_r=MA9PNQTSZ9YXY74T8WJD&pf_rd_p=a43a02c5-fe2d-4a34-af71-7d62fff70488&tag=mixdm22-20",
     "last_checked_at": "2026-07-16T20:00:31.657Z",
-    "spotlight": true
+    "spotlight": false
   },
   {
     "asin": "6589415803",
@@ -7130,7 +7130,7 @@ const PRODUCTS = [
     "informacoes_produto": {},
     "affiliate_url": "https://www.amazon.com.br/Hist%C3%B3ria-Portugal-Das-Origens-1940/dp/6589415803?ref=dlx_deals_dg_dcl_6589415803_dt_sl14_88_pi&pf_rd_r=MA9PNQTSZ9YXY74T8WJD&pf_rd_p=a43a02c5-fe2d-4a34-af71-7d62fff70488&tag=mixdm22-20",
     "last_checked_at": "2026-07-16T20:00:31.657Z",
-    "spotlight": true
+    "spotlight": false
   },
   {
     "asin": "B0GF6QRJ3G",
@@ -7160,7 +7160,7 @@ const PRODUCTS = [
     },
     "affiliate_url": "https://www.amazon.com.br/Carregamento-PlayStation-Controles-Dualsense-Organiza%C3%A7%C3%A3o/dp/B0GF6QRJ3G?ref=dlx_deals_dg_dcl_B0GF6QRJ3G_dt_sl14_88_pi&pf_rd_r=MA9PNQTSZ9YXY74T8WJD&pf_rd_p=a43a02c5-fe2d-4a34-af71-7d62fff70488&tag=mixdm22-20",
     "last_checked_at": "2026-07-16T20:00:31.657Z",
-    "spotlight": true
+    "spotlight": false
   },
   {
     "asin": "B0DJRQP2MG",
@@ -7185,7 +7185,7 @@ const PRODUCTS = [
     },
     "affiliate_url": "https://www.amazon.com.br/GoPro-Carregador-bateria-baterias-Enduro/dp/B0DJRQP2MG?ref=dlx_deals_dg_dcl_B0DJRQP2MG_dt_sl14_88_pi&pf_rd_r=YSXFMH47KQJZJ5NJXQPX&pf_rd_p=a43a02c5-fe2d-4a34-af71-7d62fff70488&tag=mixdm22-20",
     "last_checked_at": "2026-07-16T20:00:31.657Z",
-    "spotlight": true
+    "spotlight": false
   },
   {
     "asin": "B0DJ5Z5NTN",
@@ -7210,7 +7210,7 @@ const PRODUCTS = [
     },
     "affiliate_url": "https://www.amazon.com.br/Espatula-Silicone-Utens%C3%ADlio-Multiuso-Temperaturas/dp/B0DJ5Z5NTN?ref=dlx_deals_dg_dcl_B0DJ5Z5NTN_dt_sl14_88_pi&pf_rd_r=F58W9XDNP3E9VQGH67ER&pf_rd_p=a43a02c5-fe2d-4a34-af71-7d62fff70488&tag=mixdm22-20",
     "last_checked_at": "2026-07-16T20:00:31.657Z",
-    "spotlight": true
+    "spotlight": false
   },
   {
     "asin": "B0FC7GYTGM",
@@ -7235,7 +7235,7 @@ const PRODUCTS = [
     },
     "affiliate_url": "https://www.amazon.com.br/WOLFF-Conjunto-Pratos-Pearl-Cristal/dp/B0FC7GYTGM?ref=dlx_deals_dg_dcl_B0FC7GYTGM_dt_sl14_88_pi&pf_rd_r=F58W9XDNP3E9VQGH67ER&pf_rd_p=a43a02c5-fe2d-4a34-af71-7d62fff70488&tag=mixdm22-20",
     "last_checked_at": "2026-07-16T20:00:31.657Z",
-    "spotlight": true
+    "spotlight": false
   },
   {
     "asin": "B0GTLS6BS5",
@@ -7260,7 +7260,7 @@ const PRODUCTS = [
     },
     "affiliate_url": "https://www.amazon.com.br/Garrafa-T%C3%A9rmica-750ml-Isolamento-Emborrachada/dp/B0GTLS6BS5?ref=dlx_deals_dg_dcl_B0GTLS6BS5_dt_sl14_88_pi&pf_rd_r=F58W9XDNP3E9VQGH67ER&pf_rd_p=a43a02c5-fe2d-4a34-af71-7d62fff70488&tag=mixdm22-20",
     "last_checked_at": "2026-07-16T20:00:31.657Z",
-    "spotlight": true
+    "spotlight": false
   },
   {
     "asin": "B0GQCQ5KTX",
@@ -7285,7 +7285,7 @@ const PRODUCTS = [
     },
     "affiliate_url": "https://www.amazon.com.br/Descart%C3%A1vel-Multiuso-Folhas-Perfex-Poli%C3%A9ster/dp/B0GQCQ5KTX?ref=dlx_deals_dg_dcl_B0GQCQ5KTX_dt_sl14_88_pi&pf_rd_r=A18NQX1ZPFDDFNQZCHBF&pf_rd_p=a43a02c5-fe2d-4a34-af71-7d62fff70488&tag=mixdm22-20",
     "last_checked_at": "2026-07-16T20:00:31.657Z",
-    "spotlight": true
+    "spotlight": false
   },
   {
     "asin": "B0DNY6BZDR",
@@ -7310,7 +7310,7 @@ const PRODUCTS = [
     },
     "affiliate_url": "https://www.amazon.com.br/LYOR-Porta-Sabonete-L%C3%ADquido-Vidro/dp/B0DNY6BZDR?ref=dlx_deals_dg_dcl_B0DNY6BZDR_dt_sl14_88_pi&pf_rd_r=A18NQX1ZPFDDFNQZCHBF&pf_rd_p=a43a02c5-fe2d-4a34-af71-7d62fff70488&tag=mixdm22-20",
     "last_checked_at": "2026-07-16T20:00:31.657Z",
-    "spotlight": true
+    "spotlight": false
   },
   {
     "asin": "B0DZQK5CXP",
@@ -7335,7 +7335,7 @@ const PRODUCTS = [
     },
     "affiliate_url": "https://www.amazon.com.br/Percarbonato-S%C3%B3dio-Limpeza-Profunda-Envio/dp/B0DZQK5CXP?ref=dlx_deals_dg_dcl_B0DZQK5CXP_dt_sl14_88_pi&pf_rd_r=A18NQX1ZPFDDFNQZCHBF&pf_rd_p=a43a02c5-fe2d-4a34-af71-7d62fff70488&tag=mixdm22-20",
     "last_checked_at": "2026-07-16T20:00:31.657Z",
-    "spotlight": true
+    "spotlight": false
   },
   {
     "asin": "B073ZGK2JV",
@@ -7354,7 +7354,7 @@ const PRODUCTS = [
     "informacoes_produto": {},
     "affiliate_url": "https://www.amazon.com.br/B%C3%A1lsamo-Peitoral-Reconfortante-Mustela-Beb%C3%AA/dp/B073ZGK2JV?ref=dlx_deals_dg_dcl_B073ZGK2JV_dt_sl14_88_pi&pf_rd_r=2XDN7D07N24JJZHGJFFK&pf_rd_p=a43a02c5-fe2d-4a34-af71-7d62fff70488&sbo=RZvfv%2F%2FHxDF%2BO5021pAnSA%3D%3D&tag=mixdm22-20",
     "last_checked_at": "2026-07-16T20:00:31.657Z",
-    "spotlight": true
+    "spotlight": false
   },
   {
     "asin": "B0DV4W9XZT",
@@ -7379,7 +7379,7 @@ const PRODUCTS = [
     },
     "affiliate_url": "https://www.amazon.com.br/Capa-Kindle-Gera%C3%A7%C3%A3o-C2V2L3-RS23CV/dp/B0DV4W9XZT?ref=dlx_deals_dg_dcl_B0DV4W9XZT_dt_sl14_88_pi_dealz_cp_mdl&pf_rd_r=PKHE5YK1TVNWAVR67RNE&pf_rd_p=a43a02c5-fe2d-4a34-af71-7d62fff70488&sbo=RZvfv%2F%2FHxDF%2BO5021pAnSA%3D%3D&tag=mixdm22-20",
     "last_checked_at": "2026-07-16T20:00:31.657Z",
-    "spotlight": true
+    "spotlight": false
   },
   {
     "asin": "B0BSH2VZ5C",
@@ -7398,7 +7398,7 @@ const PRODUCTS = [
     "informacoes_produto": {},
     "affiliate_url": "https://www.amazon.com.br/Monitor-G-sync-Freesync-Premium-Integrado/dp/B0BSH2VZ5C?ref=dlx_deals_dg_dcl_B0BSH2VZ5C_dt_sl14_88_pi_dealz_cp_mdl&pf_rd_r=PKHE5YK1TVNWAVR67RNE&pf_rd_p=a43a02c5-fe2d-4a34-af71-7d62fff70488&sbo=RZvfv%2F%2FHxDF%2BO5021pAnSA%3D%3D&tag=mixdm22-20",
     "last_checked_at": "2026-07-16T20:00:31.657Z",
-    "spotlight": true
+    "spotlight": false
   },
   {
     "asin": "B0DB2RDNZS",
@@ -7423,7 +7423,7 @@ const PRODUCTS = [
     },
     "affiliate_url": "https://www.amazon.com.br/Dobro-Pixar-Promo-Pack-Incr%C3%ADveis/dp/B0DB2RDNZS?ref=dlx_deals_dg_dcl_B0DB2RDNZS_dt_sl14_88_pi&pf_rd_r=0HGQCERGKZEJFJBY8B67&pf_rd_p=a43a02c5-fe2d-4a34-af71-7d62fff70488&tag=mixdm22-20",
     "last_checked_at": "2026-07-16T20:00:31.657Z",
-    "spotlight": true
+    "spotlight": false
   },
   {
     "asin": "B0CL7N7MFF",
@@ -7448,7 +7448,7 @@ const PRODUCTS = [
     },
     "affiliate_url": "https://www.amazon.com.br/Spirulina-C%C3%A1psulas-500mg-Prime-Ervas/dp/B0CL7N7MFF?ref=dlx_deals_dg_dcl_B0CL7N7MFF_dt_sl14_88_pi&pf_rd_r=0HGQCERGKZEJFJBY8B67&pf_rd_p=a43a02c5-fe2d-4a34-af71-7d62fff70488&tag=mixdm22-20",
     "last_checked_at": "2026-07-16T20:00:31.657Z",
-    "spotlight": true
+    "spotlight": false
   },
   {
     "asin": "B0F1W6P8VD",
@@ -7473,7 +7473,7 @@ const PRODUCTS = [
     },
     "affiliate_url": "https://www.amazon.com.br/Pais-Filhos-Jogo-Ativando-Mem%C3%B3ria/dp/B0F1W6P8VD?ref=dlx_deals_dg_dcl_B0F1W6P8VD_dt_sl14_88_pi&pf_rd_r=0HGQCERGKZEJFJBY8B67&pf_rd_p=a43a02c5-fe2d-4a34-af71-7d62fff70488&tag=mixdm22-20",
     "last_checked_at": "2026-07-16T20:00:31.657Z",
-    "spotlight": true
+    "spotlight": false
   },
   {
     "asin": "B0C4FQYWCH",
@@ -7498,7 +7498,7 @@ const PRODUCTS = [
     },
     "affiliate_url": "https://www.amazon.com.br/Kit-com-microfibras-para-spray/dp/B0C4FQYWCH?ref=dlx_deals_dg_dcl_B0C4FQYWCH_dt_sl14_88_pi&pf_rd_r=0HGQCERGKZEJFJBY8B67&pf_rd_p=a43a02c5-fe2d-4a34-af71-7d62fff70488&tag=mixdm22-20",
     "last_checked_at": "2026-07-16T20:00:31.657Z",
-    "spotlight": true
+    "spotlight": false
   },
   {
     "asin": "6589841454",
@@ -7517,7 +7517,7 @@ const PRODUCTS = [
     "informacoes_produto": {},
     "affiliate_url": "https://www.amazon.com.br/Aceita-que-D%C3%B3i-Menos-Entenda/dp/6589841454?ref=dlx_deals_dg_dcl_6589841454_dt_sl14_88_pi&pf_rd_r=0HGQCERGKZEJFJBY8B67&pf_rd_p=a43a02c5-fe2d-4a34-af71-7d62fff70488&tag=mixdm22-20",
     "last_checked_at": "2026-07-16T20:00:31.657Z",
-    "spotlight": true
+    "spotlight": false
   },
   {
     "asin": "B07TM37TWJ",
@@ -7536,7 +7536,7 @@ const PRODUCTS = [
     "informacoes_produto": {},
     "affiliate_url": "https://www.amazon.com.br/Coala-Atividades-Baby-Mobile-Buba/dp/B07TM37TWJ?ref=dlx_deals_dg_dcl_B07TM37TWJ_dt_sl14_88_pi&pf_rd_r=0HGQCERGKZEJFJBY8B67&pf_rd_p=a43a02c5-fe2d-4a34-af71-7d62fff70488&tag=mixdm22-20",
     "last_checked_at": "2026-07-16T20:00:31.657Z",
-    "spotlight": true
+    "spotlight": false
   },
   {
     "asin": "B07TSL297C",
@@ -7555,7 +7555,7 @@ const PRODUCTS = [
     "informacoes_produto": {},
     "affiliate_url": "https://www.amazon.com.br/Porta-Green-Rolos-Jambo-para/dp/B07TSL297C?ref=dlx_deals_dg_dcl_B07TSL297C_dt_sl14_88_pi&pf_rd_r=0HGQCERGKZEJFJBY8B67&pf_rd_p=a43a02c5-fe2d-4a34-af71-7d62fff70488&tag=mixdm22-20",
     "last_checked_at": "2026-07-16T20:00:31.657Z",
-    "spotlight": true
+    "spotlight": false
   },
   {
     "asin": "B0BN2ZRPYF",
@@ -7580,7 +7580,7 @@ const PRODUCTS = [
     },
     "affiliate_url": "https://www.amazon.com.br/Bur%C3%B3-FDP-Tem%C3%A1tico-Futebol-Expans%C3%A3o/dp/B0BN2ZRPYF?ref=dlx_deals_dg_dcl_B0BN2ZRPYF_dt_sl14_88_pi&pf_rd_r=0HGQCERGKZEJFJBY8B67&pf_rd_p=a43a02c5-fe2d-4a34-af71-7d62fff70488&tag=mixdm22-20",
     "last_checked_at": "2026-07-16T20:00:31.657Z",
-    "spotlight": true
+    "spotlight": false
   },
   {
     "asin": "B07NGM9PXQ",
@@ -7605,7 +7605,7 @@ const PRODUCTS = [
     },
     "affiliate_url": "https://www.amazon.com.br/Brinquedo-Chocalho-Bolas-Azuis-Solapa/dp/B07NGM9PXQ?ref=dlx_deals_dg_dcl_B07NGM9PXQ_dt_sl14_88_pi&pf_rd_r=0HGQCERGKZEJFJBY8B67&pf_rd_p=a43a02c5-fe2d-4a34-af71-7d62fff70488&tag=mixdm22-20",
     "last_checked_at": "2026-07-16T20:00:31.656Z",
-    "spotlight": true
+    "spotlight": false
   },
   {
     "asin": "B0BDSYX8MC",
@@ -7630,7 +7630,7 @@ const PRODUCTS = [
     },
     "affiliate_url": "https://www.amazon.com.br/Raavi-PA2791-S%C3%A9rum-Facial-Antissinais/dp/B0BDSYX8MC?ref=dlx_deals_dg_dcl_B0BDSYX8MC_dt_sl14_88_pi&pf_rd_r=0HGQCERGKZEJFJBY8B67&pf_rd_p=a43a02c5-fe2d-4a34-af71-7d62fff70488&tag=mixdm22-20",
     "last_checked_at": "2026-07-16T20:00:31.656Z",
-    "spotlight": true
+    "spotlight": false
   },
   {
     "asin": "6555375124",
@@ -7649,7 +7649,7 @@ const PRODUCTS = [
     "informacoes_produto": {},
     "affiliate_url": "https://www.amazon.com.br/%C3%BAltimo-ritual-mem%C3%B3rias-finais-osbourne/dp/6555375124?ref=dlx_deals_dg_dcl_6555375124_dt_sl14_88_pi&pf_rd_r=0HGQCERGKZEJFJBY8B67&pf_rd_p=a43a02c5-fe2d-4a34-af71-7d62fff70488&tag=mixdm22-20",
     "last_checked_at": "2026-07-16T20:00:31.656Z",
-    "spotlight": true
+    "spotlight": false
   },
   {
     "asin": "B0FBS67LB1",
@@ -7674,7 +7674,7 @@ const PRODUCTS = [
     },
     "affiliate_url": "https://www.amazon.com.br/Taco-Gato-Cabra-Queijo-Pizza/dp/B0FBS67LB1?ref=dlx_deals_dg_dcl_B0FBS67LB1_dt_sl14_88_pi&pf_rd_r=0HGQCERGKZEJFJBY8B67&pf_rd_p=a43a02c5-fe2d-4a34-af71-7d62fff70488&tag=mixdm22-20",
     "last_checked_at": "2026-07-16T20:00:31.656Z",
-    "spotlight": true
+    "spotlight": false
   },
   {
     "asin": "B0DHSYSFPR",
@@ -7699,7 +7699,7 @@ const PRODUCTS = [
     },
     "affiliate_url": "https://www.amazon.com.br/PaperGames-PPG-J093-Lux-Nova/dp/B0DHSYSFPR?ref=dlx_deals_dg_dcl_B0DHSYSFPR_dt_sl14_88_pi&pf_rd_r=0HGQCERGKZEJFJBY8B67&pf_rd_p=a43a02c5-fe2d-4a34-af71-7d62fff70488&tag=mixdm22-20",
     "last_checked_at": "2026-07-16T20:00:31.656Z",
-    "spotlight": true
+    "spotlight": false
   },
   {
     "asin": "B0FKBSRTHB",
@@ -7724,7 +7724,7 @@ const PRODUCTS = [
     },
     "affiliate_url": "https://www.amazon.com.br/PaperGames-PPG-J104-Pickomino/dp/B0FKBSRTHB?ref=dlx_deals_dg_dcl_B0FKBSRTHB_dt_sl14_88_pi&pf_rd_r=0HGQCERGKZEJFJBY8B67&pf_rd_p=a43a02c5-fe2d-4a34-af71-7d62fff70488&tag=mixdm22-20",
     "last_checked_at": "2026-07-16T20:00:31.656Z",
-    "spotlight": true
+    "spotlight": false
   },
   {
     "asin": "B07TZ1915X",
@@ -7749,7 +7749,7 @@ const PRODUCTS = [
     },
     "affiliate_url": "https://www.amazon.com.br/JAMBO-PET-Cachorro-Atividade-Fortalecimento/dp/B07TZ1915X?ref=dlx_deals_dg_dcl_B07TZ1915X_dt_sl14_88_pi&pf_rd_r=0HGQCERGKZEJFJBY8B67&pf_rd_p=a43a02c5-fe2d-4a34-af71-7d62fff70488&tag=mixdm22-20",
     "last_checked_at": "2026-07-16T20:00:31.656Z",
-    "spotlight": true
+    "spotlight": false
   },
   {
     "asin": "6583532220",
@@ -7768,7 +7768,7 @@ const PRODUCTS = [
     "informacoes_produto": {},
     "affiliate_url": "https://www.amazon.com.br/Cartas-uma-jovem-executiva-profissional/dp/6583532220?ref=dlx_deals_dg_dcl_6583532220_dt_sl14_88_pi&pf_rd_r=0HGQCERGKZEJFJBY8B67&pf_rd_p=a43a02c5-fe2d-4a34-af71-7d62fff70488&tag=mixdm22-20",
     "last_checked_at": "2026-07-16T20:00:31.656Z",
-    "spotlight": true
+    "spotlight": false
   },
   {
     "asin": "B0F6277KZK",
@@ -7793,7 +7793,7 @@ const PRODUCTS = [
     },
     "affiliate_url": "https://www.amazon.com.br/Lubian-131-Caixa-Correio-Cinza/dp/B0F6277KZK?ref=dlx_deals_dg_dcl_B0F6277KZK_dt_sl14_88_pi&pf_rd_r=0HGQCERGKZEJFJBY8B67&pf_rd_p=a43a02c5-fe2d-4a34-af71-7d62fff70488&tag=mixdm22-20",
     "last_checked_at": "2026-07-16T20:00:31.656Z",
-    "spotlight": true
+    "spotlight": false
   },
   {
     "asin": "B0CGF7NP5M",
@@ -7812,7 +7812,7 @@ const PRODUCTS = [
     "informacoes_produto": {},
     "affiliate_url": "https://www.amazon.com.br/Carrinho-Dino-Friccao-Apito-Verde/dp/B0CGF7NP5M?ref=dlx_deals_dg_dcl_B0CGF7NP5M_dt_sl14_88_pi&pf_rd_r=0HGQCERGKZEJFJBY8B67&pf_rd_p=a43a02c5-fe2d-4a34-af71-7d62fff70488&tag=mixdm22-20",
     "last_checked_at": "2026-07-16T20:00:31.656Z",
-    "spotlight": true
+    "spotlight": false
   },
   {
     "asin": "B07F449K2C",
@@ -7837,7 +7837,7 @@ const PRODUCTS = [
     },
     "affiliate_url": "https://www.amazon.com.br/Sleeves-Padr%C3%A3o-Meeple-Virus-Transparente/dp/B07F449K2C?ref=dlx_deals_dg_dcl_B07F449K2C_dt_sl14_88_pi&pf_rd_r=0HGQCERGKZEJFJBY8B67&pf_rd_p=a43a02c5-fe2d-4a34-af71-7d62fff70488&tag=mixdm22-20",
     "last_checked_at": "2026-07-16T20:00:31.656Z",
-    "spotlight": true
+    "spotlight": false
   },
   {
     "asin": "B0C7LLTG6D",
@@ -7862,7 +7862,7 @@ const PRODUCTS = [
     },
     "affiliate_url": "https://www.amazon.com.br/Patron-PATRON-REPOSADO-700ML-37/dp/B0C7LLTG6D?ref=dlx_deals_dg_dcl_B0C7LLTG6D_dt_sl14_88_pi&pf_rd_r=0HGQCERGKZEJFJBY8B67&pf_rd_p=a43a02c5-fe2d-4a34-af71-7d62fff70488&tag=mixdm22-20",
     "last_checked_at": "2026-07-16T20:00:31.656Z",
-    "spotlight": true
+    "spotlight": false
   },
   {
     "asin": "B0GPXB3MQM",
@@ -7887,7 +7887,7 @@ const PRODUCTS = [
     },
     "affiliate_url": "https://www.amazon.com.br/Tomada-Inteligente-Wi-FI-Intelbras-Preto/dp/B0GPXB3MQM?ref=dlx_deals_dg_dcl_B0GPXB3MQM_dt_sl14_88_pi&pf_rd_r=0HGQCERGKZEJFJBY8B67&pf_rd_p=a43a02c5-fe2d-4a34-af71-7d62fff70488&tag=mixdm22-20",
     "last_checked_at": "2026-07-16T20:00:31.656Z",
-    "spotlight": true
+    "spotlight": false
   },
   {
     "asin": "B0D6JN2CWL",
@@ -7912,7 +7912,7 @@ const PRODUCTS = [
     },
     "affiliate_url": "https://www.amazon.com.br/Guia-Unificada-Corda-Adestramento-Fiji/dp/B0D6JN2CWL?ref=dlx_deals_dg_dcl_B0D6JN2CWL_dt_sl14_88_pi&pf_rd_r=0HGQCERGKZEJFJBY8B67&pf_rd_p=a43a02c5-fe2d-4a34-af71-7d62fff70488&tag=mixdm22-20",
     "last_checked_at": "2026-07-16T20:00:31.656Z",
-    "spotlight": true
+    "spotlight": false
   },
   {
     "asin": "B07DY1DZV5",
@@ -7937,7 +7937,7 @@ const PRODUCTS = [
     },
     "affiliate_url": "https://www.amazon.com.br/Le%C3%A3ozinho-Amiguinho-Atividades-Buba/dp/B07DY1DZV5?ref=dlx_deals_dg_dcl_B07DY1DZV5_dt_sl14_88_pi&pf_rd_r=0HGQCERGKZEJFJBY8B67&pf_rd_p=a43a02c5-fe2d-4a34-af71-7d62fff70488&tag=mixdm22-20",
     "last_checked_at": "2026-07-16T20:00:31.656Z",
-    "spotlight": true
+    "spotlight": false
   },
   {
     "asin": "8542241843",
@@ -7956,7 +7956,7 @@ const PRODUCTS = [
     "informacoes_produto": {},
     "affiliate_url": "https://www.amazon.com.br/terceiro-travesseiro-Edi%C3%A7%C3%A3o-ampliada-cap%C3%ADtulos/dp/8542241843?ref=dlx_deals_dg_dcl_8542241843_dt_sl14_88_pi&pf_rd_r=0HGQCERGKZEJFJBY8B67&pf_rd_p=a43a02c5-fe2d-4a34-af71-7d62fff70488&tag=mixdm22-20",
     "last_checked_at": "2026-07-16T20:00:31.656Z",
-    "spotlight": true
+    "spotlight": false
   },
   {
     "asin": "B0FB5C5XMB",
@@ -7980,7 +7980,7 @@ const PRODUCTS = [
     },
     "affiliate_url": "https://www.amazon.com.br/Principia-kit-essencial-VC/dp/B0FB5C5XMB?ref=dlx_deals_dg_dcl_B0FB5C5XMB_dt_sl14_88_pi&pf_rd_r=0HGQCERGKZEJFJBY8B67&pf_rd_p=a43a02c5-fe2d-4a34-af71-7d62fff70488&tag=mixdm22-20",
     "last_checked_at": "2026-07-16T20:00:31.656Z",
-    "spotlight": true
+    "spotlight": false
   },
   {
     "asin": "B004EAFDTK",
@@ -8005,7 +8005,7 @@ const PRODUCTS = [
     },
     "affiliate_url": "https://www.amazon.com.br/Grey-Goose-Original-1-5L-Sabor/dp/B004EAFDTK?ref=dlx_deals_dg_dcl_B004EAFDTK_dt_sl14_88_pi&pf_rd_r=0HGQCERGKZEJFJBY8B67&pf_rd_p=a43a02c5-fe2d-4a34-af71-7d62fff70488&tag=mixdm22-20",
     "last_checked_at": "2026-07-16T20:00:31.656Z",
-    "spotlight": true
+    "spotlight": false
   },
   {
     "asin": "B0FYGXVVCC",
@@ -8030,7 +8030,7 @@ const PRODUCTS = [
     },
     "affiliate_url": "https://www.amazon.com.br/PaperGames-PPG-J105-Kingdomino/dp/B0FYGXVVCC?ref=dlx_deals_dg_dcl_B0FYGXVVCC_dt_sl14_88_pi&pf_rd_r=0HGQCERGKZEJFJBY8B67&pf_rd_p=a43a02c5-fe2d-4a34-af71-7d62fff70488&tag=mixdm22-20",
     "last_checked_at": "2026-07-16T20:00:31.656Z",
-    "spotlight": true
+    "spotlight": false
   },
   {
     "asin": "B0FDB4XYMS",
@@ -8049,7 +8049,7 @@ const PRODUCTS = [
     "informacoes_produto": {},
     "affiliate_url": "https://www.amazon.com.br/Transporte-Revestimento-Bal%C3%ADstico-Capacidade-Acess%C3%B3rios/dp/B0FDB4XYMS?ref=dlx_deals_dg_dcl_B0FDB4XYMS_dt_sl14_88_pi&pf_rd_r=BCQB6262E836QQSJJWAW&pf_rd_p=a43a02c5-fe2d-4a34-af71-7d62fff70488&tag=mixdm22-20",
     "last_checked_at": "2026-07-16T20:00:31.655Z",
-    "spotlight": true
+    "spotlight": false
   },
   {
     "asin": "B0FS24WX1D",
@@ -8068,7 +8068,7 @@ const PRODUCTS = [
     "informacoes_produto": {},
     "affiliate_url": "https://www.amazon.com.br/BANDAI-Pac-Man-World-Re-Pac-PlayStation/dp/B0FS24WX1D?ref=dlx_deals_dg_dcl_B0FS24WX1D_dt_sl14_88_pi&pf_rd_r=BCQB6262E836QQSJJWAW&pf_rd_p=a43a02c5-fe2d-4a34-af71-7d62fff70488&tag=mixdm22-20",
     "last_checked_at": "2026-07-16T20:00:31.655Z",
-    "spotlight": true
+    "spotlight": false
   },
   {
     "asin": "B08GK9LCRW",
@@ -8093,7 +8093,7 @@ const PRODUCTS = [
     },
     "affiliate_url": "https://www.amazon.com.br/Caixa-Gamer-Redragon-Anvil-Preto/dp/B08GK9LCRW?ref=dlx_deals_dg_dcl_B08GK9LCRW_dt_sl14_88_pi&pf_rd_r=VXNZ0HBSCSAVCMQNYE13&pf_rd_p=a43a02c5-fe2d-4a34-af71-7d62fff70488&tag=mixdm22-20",
     "last_checked_at": "2026-07-16T20:00:31.655Z",
-    "spotlight": true
+    "spotlight": false
   },
   {
     "asin": "B0GYM18H4C",
@@ -8118,7 +8118,7 @@ const PRODUCTS = [
     },
     "affiliate_url": "https://www.amazon.com.br/Kindle-Gera%C3%A7%C3%A3o-Polegadas-Sistema-Hiberna%C3%A7%C3%A3o/dp/B0GYM18H4C?ref=dlx_deals_dg_dcl_B0GYM18H4C_dt_sl14_88_pi&pf_rd_r=VXNZ0HBSCSAVCMQNYE13&pf_rd_p=a43a02c5-fe2d-4a34-af71-7d62fff70488&sbo=RZvfv%2F%2FHxDF%2BO5021pAnSA%3D%3D&tag=mixdm22-20",
     "last_checked_at": "2026-07-16T20:00:31.655Z",
-    "spotlight": true
+    "spotlight": false
   },
   {
     "asin": "B0DKQLW4P9",
@@ -8143,7 +8143,7 @@ const PRODUCTS = [
     },
     "affiliate_url": "https://www.amazon.com.br/LYOR-Conjunto-Canecas-Vidro-Capacidade/dp/B0DKQLW4P9?ref=dlx_deals_dg_dcl_B0DKQLW4P9_dt_sl14_88_pi&pf_rd_r=C8RVSFV3Y95EDSY10B2H&pf_rd_p=a43a02c5-fe2d-4a34-af71-7d62fff70488&tag=mixdm22-20",
     "last_checked_at": "2026-07-16T20:00:31.655Z",
-    "spotlight": true
+    "spotlight": false
   },
   {
     "asin": "B0FH2Z4Z5V",
@@ -8168,7 +8168,7 @@ const PRODUCTS = [
     },
     "affiliate_url": "https://www.amazon.com.br/Coloridos-Prendedores-Magn%C3%A9ticos-Geladeira-Pendurar/dp/B0FH2Z4Z5V?ref=dlx_deals_dg_dcl_B0FH2Z4Z5V_dt_sl14_88_pi&pf_rd_r=C8RVSFV3Y95EDSY10B2H&pf_rd_p=a43a02c5-fe2d-4a34-af71-7d62fff70488&tag=mixdm22-20",
     "last_checked_at": "2026-07-16T20:00:31.655Z",
-    "spotlight": true
+    "spotlight": false
   },
   {
     "asin": "B0DY2P7QVC",
@@ -8193,7 +8193,7 @@ const PRODUCTS = [
     },
     "affiliate_url": "https://www.amazon.com.br/Stanley-FlowState-inoxid%C3%A1vel-isolamento-smoothies/dp/B0DY2P7QVC?ref=dlx_deals_dg_dcl_B0DY2P7QVC_dt_sl14_88_pi&pf_rd_r=C8RVSFV3Y95EDSY10B2H&pf_rd_p=a43a02c5-fe2d-4a34-af71-7d62fff70488&tag=mixdm22-20",
     "last_checked_at": "2026-07-16T20:00:31.655Z",
-    "spotlight": true
+    "spotlight": false
   },
   {
     "asin": "B0FVH67XKZ",
@@ -8218,7 +8218,7 @@ const PRODUCTS = [
     },
     "affiliate_url": "https://www.amazon.com.br/LYOR-Redondo-Tampa-Colher-Encanto/dp/B0FVH67XKZ?ref=dlx_deals_dg_dcl_B0FVH67XKZ_dt_sl14_88_pi&pf_rd_r=C8RVSFV3Y95EDSY10B2H&pf_rd_p=a43a02c5-fe2d-4a34-af71-7d62fff70488&tag=mixdm22-20",
     "last_checked_at": "2026-07-16T20:00:31.655Z",
-    "spotlight": true
+    "spotlight": false
   },
   {
     "asin": "B0D4TDBDZ7",
@@ -8243,7 +8243,7 @@ const PRODUCTS = [
     },
     "affiliate_url": "https://www.amazon.com.br/Dosador-Medidor-Bebidas-Bartender-Profissional/dp/B0D4TDBDZ7?ref=dlx_deals_dg_dcl_B0D4TDBDZ7_dt_sl14_88_pi&pf_rd_r=C8RVSFV3Y95EDSY10B2H&pf_rd_p=a43a02c5-fe2d-4a34-af71-7d62fff70488&tag=mixdm22-20",
     "last_checked_at": "2026-07-16T20:00:31.655Z",
-    "spotlight": true
+    "spotlight": false
   },
   {
     "asin": "B0GH1CMLDK",
@@ -8268,7 +8268,7 @@ const PRODUCTS = [
     },
     "affiliate_url": "https://www.amazon.com.br/Torneira-Purificador-Cozinhas-Dom%C3%A9sticas-Apartamentos/dp/B0GH1CMLDK?ref=dlx_deals_dg_dcl_B0GH1CMLDK_dt_sl14_88_pi&pf_rd_r=C8RVSFV3Y95EDSY10B2H&pf_rd_p=a43a02c5-fe2d-4a34-af71-7d62fff70488&tag=mixdm22-20",
     "last_checked_at": "2026-07-16T20:00:31.655Z",
-    "spotlight": true
+    "spotlight": false
   },
   {
     "asin": "B0F9XL3L9K",
@@ -8293,7 +8293,7 @@ const PRODUCTS = [
     },
     "affiliate_url": "https://www.amazon.com.br/LYOR-Pote-Herm%C3%A9tico-Pure-Vidro/dp/B0F9XL3L9K?ref=dlx_deals_dg_dcl_B0F9XL3L9K_dt_sl14_88_pi&pf_rd_r=C8RVSFV3Y95EDSY10B2H&pf_rd_p=a43a02c5-fe2d-4a34-af71-7d62fff70488&tag=mixdm22-20",
     "last_checked_at": "2026-07-16T20:00:31.655Z",
-    "spotlight": true
+    "spotlight": false
   },
   {
     "asin": "B0DPJ7RWCP",
@@ -8318,7 +8318,7 @@ const PRODUCTS = [
     },
     "affiliate_url": "https://www.amazon.com.br/WOLFF-Porta-Guardanapos-Vidro-Butterfly/dp/B0DPJ7RWCP?ref=dlx_deals_dg_dcl_B0DPJ7RWCP_dt_sl14_88_pi&pf_rd_r=C8RVSFV3Y95EDSY10B2H&pf_rd_p=a43a02c5-fe2d-4a34-af71-7d62fff70488&tag=mixdm22-20",
     "last_checked_at": "2026-07-16T20:00:31.655Z",
-    "spotlight": true
+    "spotlight": false
   },
   {
     "asin": "B07QTDJ2F1",
@@ -8343,7 +8343,7 @@ const PRODUCTS = [
     },
     "affiliate_url": "https://www.amazon.com.br/WOLFF-Centro-Mesa-Cristal-Angel/dp/B07QTDJ2F1?ref=dlx_deals_dg_dcl_B07QTDJ2F1_dt_sl14_88_pi&pf_rd_r=C8RVSFV3Y95EDSY10B2H&pf_rd_p=a43a02c5-fe2d-4a34-af71-7d62fff70488&tag=mixdm22-20",
     "last_checked_at": "2026-07-16T20:00:31.655Z",
-    "spotlight": true
+    "spotlight": false
   },
   {
     "asin": "B0F8YJH8JC",
@@ -8368,7 +8368,7 @@ const PRODUCTS = [
     },
     "affiliate_url": "https://www.amazon.com.br/Organizadores-Geladeira-Remov%C3%ADvel-Herm%C3%A9tica-Alimentos/dp/B0F8YJH8JC?ref=dlx_deals_dg_dcl_B0F8YJH8JC_dt_sl14_88_pi&pf_rd_r=C8RVSFV3Y95EDSY10B2H&pf_rd_p=a43a02c5-fe2d-4a34-af71-7d62fff70488&tag=mixdm22-20",
     "last_checked_at": "2026-07-16T20:00:31.655Z",
-    "spotlight": true
+    "spotlight": false
   },
   {
     "asin": "B0DTQVBW8D",
@@ -8393,7 +8393,7 @@ const PRODUCTS = [
     },
     "affiliate_url": "https://www.amazon.com.br/Potes-Retangular-Herm%C3%A9tica-Veda%C3%A7%C3%A3o-Silicone/dp/B0DTQVBW8D?ref=dlx_deals_dg_dcl_B0DTQVBW8D_dt_sl14_88_pi&pf_rd_r=C8RVSFV3Y95EDSY10B2H&pf_rd_p=a43a02c5-fe2d-4a34-af71-7d62fff70488&tag=mixdm22-20",
     "last_checked_at": "2026-07-16T20:00:31.655Z",
-    "spotlight": true
+    "spotlight": false
   },
   {
     "asin": "B092RH9TVW",
@@ -8418,7 +8418,7 @@ const PRODUCTS = [
     },
     "affiliate_url": "https://www.amazon.com.br/Organizador-Cozinha-Arm%C3%A1rio-Prateleira-Armazenamento/dp/B092RH9TVW?ref=dlx_deals_dg_dcl_B092RH9TVW_dt_sl14_88_pi&pf_rd_r=C8RVSFV3Y95EDSY10B2H&pf_rd_p=a43a02c5-fe2d-4a34-af71-7d62fff70488&tag=mixdm22-20",
     "last_checked_at": "2026-07-16T20:00:31.655Z",
-    "spotlight": true
+    "spotlight": false
   },
   {
     "asin": "B0DZP9CBQ4",
@@ -8443,7 +8443,7 @@ const PRODUCTS = [
     },
     "affiliate_url": "https://www.amazon.com.br/LYOR-Conjunto-Canecas-220ml-Vidro/dp/B0DZP9CBQ4?ref=dlx_deals_dg_dcl_B0DZP9CBQ4_dt_sl14_88_pi&pf_rd_r=C8RVSFV3Y95EDSY10B2H&pf_rd_p=a43a02c5-fe2d-4a34-af71-7d62fff70488&tag=mixdm22-20",
     "last_checked_at": "2026-07-16T20:00:31.655Z",
-    "spotlight": true
+    "spotlight": false
   },
   {
     "asin": "B0GMJYRDP8",
@@ -8468,7 +8468,7 @@ const PRODUCTS = [
     },
     "affiliate_url": "https://www.amazon.com.br/Liquidificador-Brit%C3%A2nia-Velocidades-Diamante-1100/dp/B0GMJYRDP8?ref=dlx_deals_dg_dcl_B0GMJYRDP8_dt_sl14_88_pi&pf_rd_r=C8RVSFV3Y95EDSY10B2H&pf_rd_p=a43a02c5-fe2d-4a34-af71-7d62fff70488&tag=mixdm22-20",
     "last_checked_at": "2026-07-16T20:00:31.655Z",
-    "spotlight": true
+    "spotlight": false
   },
   {
     "asin": "B0GY7K972T",
@@ -8492,7 +8492,7 @@ const PRODUCTS = [
     },
     "affiliate_url": "https://www.amazon.com.br/Garrafa-T%C3%A9rmica-Estampa-Relieve-Amarelo/dp/B0GY7K972T?ref=dlx_deals_dg_dcl_B0GY7K972T_dt_sl14_88_pi&pf_rd_r=C8RVSFV3Y95EDSY10B2H&pf_rd_p=a43a02c5-fe2d-4a34-af71-7d62fff70488&tag=mixdm22-20",
     "last_checked_at": "2026-07-16T20:00:31.655Z",
-    "spotlight": true
+    "spotlight": false
   },
   {
     "asin": "B0D5K38FB5",
@@ -8517,7 +8517,7 @@ const PRODUCTS = [
     },
     "affiliate_url": "https://www.amazon.com.br/WOLFF-Conjunto-X%C3%ADcaras-Vidro-Frankfurt/dp/B0D5K38FB5?ref=dlx_deals_dg_dcl_B0D5K38FB5_dt_sl14_88_pi&pf_rd_r=C8RVSFV3Y95EDSY10B2H&pf_rd_p=a43a02c5-fe2d-4a34-af71-7d62fff70488&tag=mixdm22-20",
     "last_checked_at": "2026-07-16T20:00:31.655Z",
-    "spotlight": true
+    "spotlight": false
   },
   {
     "asin": "B0GRTTCH4D",
@@ -8536,7 +8536,7 @@ const PRODUCTS = [
     "informacoes_produto": {},
     "affiliate_url": "https://www.amazon.com.br/Conjunto-pe%C3%A7as-T%C3%A1buas-Cozinha-Pl%C3%A1stico/dp/B0GRTTCH4D?ref=dlx_deals_dg_dcl_B0GRTTCH4D_dt_sl14_88_pi&pf_rd_r=C8RVSFV3Y95EDSY10B2H&pf_rd_p=a43a02c5-fe2d-4a34-af71-7d62fff70488&tag=mixdm22-20",
     "last_checked_at": "2026-07-16T20:00:31.655Z",
-    "spotlight": true
+    "spotlight": false
   },
   {
     "asin": "B0GCMNXLX9",
@@ -8561,7 +8561,7 @@ const PRODUCTS = [
     },
     "affiliate_url": "https://www.amazon.com.br/Frigideira-Cer%C3%A2mica-Alum%C3%ADnio-Antiaderente-Compat%C3%ADvel/dp/B0GCMNXLX9?ref=dlx_deals_dg_dcl_B0GCMNXLX9_dt_sl14_88_pi&pf_rd_r=C8RVSFV3Y95EDSY10B2H&pf_rd_p=a43a02c5-fe2d-4a34-af71-7d62fff70488&tag=mixdm22-20",
     "last_checked_at": "2026-07-16T20:00:31.655Z",
-    "spotlight": true
+    "spotlight": false
   },
   {
     "asin": "B09NCZ2B6J",
@@ -8586,7 +8586,7 @@ const PRODUCTS = [
     },
     "affiliate_url": "https://www.amazon.com.br/INSMEER-Lancheira-BolsaT%C3%A9rmica-T%C3%A9rmica-Marmita/dp/B09NCZ2B6J?ref=dlx_deals_dg_dcl_B09NCZ2B6J_dt_sl14_88_pi&pf_rd_r=C8RVSFV3Y95EDSY10B2H&pf_rd_p=a43a02c5-fe2d-4a34-af71-7d62fff70488&tag=mixdm22-20",
     "last_checked_at": "2026-07-16T20:00:31.655Z",
-    "spotlight": true
+    "spotlight": false
   },
   {
     "asin": "B0F89W1SBN",
@@ -8611,7 +8611,7 @@ const PRODUCTS = [
     },
     "affiliate_url": "https://www.amazon.com.br/Garrafa-T%C3%A9rmica-Esportiva-Inoxid%C3%A1vel-Isolamento/dp/B0F89W1SBN?ref=dlx_deals_dg_dcl_B0F89W1SBN_dt_sl14_88_pi&pf_rd_r=C8RVSFV3Y95EDSY10B2H&pf_rd_p=a43a02c5-fe2d-4a34-af71-7d62fff70488&sbo=RZvfv%2F%2FHxDF%2BO5021pAnSA%3D%3D&tag=mixdm22-20",
     "last_checked_at": "2026-07-16T20:00:31.654Z",
-    "spotlight": true
+    "spotlight": false
   },
   {
     "asin": "B0GQDMVPY1",
@@ -8635,7 +8635,7 @@ const PRODUCTS = [
     },
     "affiliate_url": "https://www.amazon.com.br/Garrafa-T%C3%A9rmica-Grande-Capacidade-Quente/dp/B0GQDMVPY1?ref=dlx_deals_dg_dcl_B0GQDMVPY1_dt_sl14_88_pi&pf_rd_r=C8RVSFV3Y95EDSY10B2H&pf_rd_p=a43a02c5-fe2d-4a34-af71-7d62fff70488&sbo=RZvfv%2F%2FHxDF%2BO5021pAnSA%3D%3D&tag=mixdm22-20",
     "last_checked_at": "2026-07-16T20:00:31.654Z",
-    "spotlight": true
+    "spotlight": false
   },
   {
     "asin": "B0F43WW3MF",
@@ -8660,7 +8660,7 @@ const PRODUCTS = [
     },
     "affiliate_url": "https://www.amazon.com.br/YESOP-Torneira-Banheiro-Misturador-Monocomando/dp/B0F43WW3MF?ref=dlx_deals_dg_dcl_B0F43WW3MF_dt_sl14_88_pi&pf_rd_r=W7RK1FA87GNXMY1XSWJM&pf_rd_p=a43a02c5-fe2d-4a34-af71-7d62fff70488&tag=mixdm22-20",
     "last_checked_at": "2026-07-16T20:00:31.654Z",
-    "spotlight": true
+    "spotlight": false
   },
   {
     "asin": "B0BPB6MPND",
@@ -8685,7 +8685,7 @@ const PRODUCTS = [
     },
     "affiliate_url": "https://www.amazon.com.br/SONGMICS-antiderrapantes-girat%C3%B3rio-comprimento-UCRF029B05/dp/B0BPB6MPND?ref=dlx_deals_dg_dcl_B0BPB6MPND_dt_sl14_88_pi&pf_rd_r=W7RK1FA87GNXMY1XSWJM&pf_rd_p=a43a02c5-fe2d-4a34-af71-7d62fff70488&tag=mixdm22-20",
     "last_checked_at": "2026-07-16T20:00:31.654Z",
-    "spotlight": true
+    "spotlight": false
   },
   {
     "asin": "B0FQCJFYF2",
@@ -8710,7 +8710,7 @@ const PRODUCTS = [
     },
     "affiliate_url": "https://www.amazon.com.br/Toalhas-Buddemeyer-Penteado-Banho-Cinza/dp/B0FQCJFYF2?ref=dlx_deals_dg_dcl_B0FQCJFYF2_dt_sl14_88_pi&pf_rd_r=W7RK1FA87GNXMY1XSWJM&pf_rd_p=a43a02c5-fe2d-4a34-af71-7d62fff70488&tag=mixdm22-20",
     "last_checked_at": "2026-07-16T20:00:31.654Z",
-    "spotlight": true
+    "spotlight": false
   },
   {
     "asin": "B0FMF19J7X",
@@ -8735,7 +8735,7 @@ const PRODUCTS = [
     },
     "affiliate_url": "https://www.amazon.com.br/Acess%C3%B3rios-Toalheiro-Higi%C3%AAnico-Saboneteira-Multifuncionais/dp/B0FMF19J7X?ref=dlx_deals_dg_dcl_B0FMF19J7X_dt_sl14_88_pi&pf_rd_r=W7RK1FA87GNXMY1XSWJM&pf_rd_p=a43a02c5-fe2d-4a34-af71-7d62fff70488&tag=mixdm22-20",
     "last_checked_at": "2026-07-16T20:00:31.654Z",
-    "spotlight": true
+    "spotlight": false
   },
   {
     "asin": "B0GT26DW1Y",
@@ -8760,7 +8760,7 @@ const PRODUCTS = [
     },
     "affiliate_url": "https://www.amazon.com.br/Fralda-Turma-Monica-Baby-Unidades/dp/B0GT26DW1Y?ref=dlx_deals_dg_dcl_B0GT26DW1Y_dt_sl14_88_pi&pf_rd_r=5N5TPS68FWVQQ2QP1DHM&pf_rd_p=a43a02c5-fe2d-4a34-af71-7d62fff70488&sbo=RZvfv%2F%2FHxDF%2BO5021pAnSA%3D%3D&tag=mixdm22-20",
     "last_checked_at": "2026-07-16T20:00:31.654Z",
-    "spotlight": true
+    "spotlight": false
   },
   {
     "asin": "B0842XB4BN",
@@ -8779,7 +8779,7 @@ const PRODUCTS = [
     "informacoes_produto": {},
     "affiliate_url": "https://www.amazon.com.br/Mochila-Dell-Notebook-Resistente-Integrada/dp/B0842XB4BN?ref=dlx_deals_dg_dcl_B0842XB4BN_dt_sl14_88_pi&pf_rd_r=5N5TPS68FWVQQ2QP1DHM&pf_rd_p=a43a02c5-fe2d-4a34-af71-7d62fff70488&sbo=RZvfv%2F%2FHxDF%2BO5021pAnSA%3D%3D&tag=mixdm22-20",
     "last_checked_at": "2026-07-16T20:00:31.654Z",
-    "spotlight": true
+    "spotlight": false
   },
   {
     "asin": "B092V9M66J",
@@ -8804,7 +8804,7 @@ const PRODUCTS = [
     },
     "affiliate_url": "https://www.amazon.com.br/Fralda-Derma-Plus-Bigfral-Grande/dp/B092V9M66J?ref=dlx_deals_dg_dcl_B092V9M66J_dt_sl14_88_pi&pf_rd_r=5N5TPS68FWVQQ2QP1DHM&pf_rd_p=a43a02c5-fe2d-4a34-af71-7d62fff70488&sbo=RZvfv%2F%2FHxDF%2BO5021pAnSA%3D%3D&tag=mixdm22-20",
     "last_checked_at": "2026-07-16T20:00:31.654Z",
-    "spotlight": true
+    "spotlight": false
   },
   {
     "asin": "B0GY5TXYQ5",
@@ -8829,7 +8829,7 @@ const PRODUCTS = [
     },
     "affiliate_url": "https://www.amazon.com.br/Tablet-Lenovo-Android-Caneta-Teclado/dp/B0GY5TXYQ5?ref=dlx_deals_dg_dcl_B0GY5TXYQ5_dt_sl14_88_pi&pf_rd_r=5N5TPS68FWVQQ2QP1DHM&pf_rd_p=a43a02c5-fe2d-4a34-af71-7d62fff70488&sbo=RZvfv%2F%2FHxDF%2BO5021pAnSA%3D%3D&tag=mixdm22-20",
     "last_checked_at": "2026-07-16T20:00:31.654Z",
-    "spotlight": true
+    "spotlight": false
   },
   {
     "asin": "B08WLM2682",
@@ -8853,7 +8853,7 @@ const PRODUCTS = [
     },
     "affiliate_url": "https://www.amazon.com.br/Org%C3%A2nico-Mustela-Hidratante-Corporal-Ingredientes/dp/B08WLM2682?ref=dlx_deals_dg_dcl_B08WLM2682_dt_sl14_88_pi&pf_rd_r=5N5TPS68FWVQQ2QP1DHM&pf_rd_p=a43a02c5-fe2d-4a34-af71-7d62fff70488&sbo=RZvfv%2F%2FHxDF%2BO5021pAnSA%3D%3D&tag=mixdm22-20",
     "last_checked_at": "2026-07-16T20:00:31.654Z",
-    "spotlight": true
+    "spotlight": false
   },
   {
     "asin": "B0H4J13B2M",
@@ -8883,7 +8883,7 @@ const PRODUCTS = [
     },
     "affiliate_url": "https://www.amazon.com.br/Notebook-Gamer-Lenovo-I5-12450hx-Cinza/dp/B0H4J13B2M?ref=dlx_deals_dg_dcl_B0H4J13B2M_dt_sl14_88_pi&pf_rd_r=5N5TPS68FWVQQ2QP1DHM&pf_rd_p=a43a02c5-fe2d-4a34-af71-7d62fff70488&sbo=RZvfv%2F%2FHxDF%2BO5021pAnSA%3D%3D&tag=mixdm22-20",
     "last_checked_at": "2026-07-16T20:00:31.654Z",
-    "spotlight": true
+    "spotlight": false
   },
   {
     "asin": "index-30",
@@ -8908,7 +8908,7 @@ const PRODUCTS = [
     },
     "affiliate_url": "https://www.amazon.com.br/Celular-Samsung-Galaxy-C%C3%A2mera-Marinho/dp/B0DSY665M3/ref=zg_bs_g_16243890011_d_sccl_31/142-0982438-4490834?psc=1&tag=mixdm22-20",
     "last_checked_at": "2026-07-16T20:00:31.654Z",
-    "spotlight": true
+    "spotlight": false
   },
   {
     "asin": "index-29",
@@ -8933,7 +8933,7 @@ const PRODUCTS = [
     },
     "affiliate_url": "https://www.amazon.com.br/Smartphone-Xiaomi-Redmi-256GB-Preto/dp/B0GN3WDS7B/ref=zg_bs_g_16243890011_d_sccl_30/142-0982438-4490834?psc=1&tag=mixdm22-20",
     "last_checked_at": "2026-07-16T20:00:31.654Z",
-    "spotlight": true
+    "spotlight": false
   },
   {
     "asin": "index-25",
@@ -8958,7 +8958,7 @@ const PRODUCTS = [
     },
     "affiliate_url": "https://www.amazon.com.br/Smartphone-Xiaomi-Poco-512GB-Preto/dp/B0GN1TCVYX/ref=zg_bs_g_16243890011_d_sccl_26/142-0982438-4490834?psc=1&tag=mixdm22-20",
     "last_checked_at": "2026-07-16T20:00:31.654Z",
-    "spotlight": true
+    "spotlight": false
   },
   {
     "asin": "index-23",
@@ -8983,7 +8983,7 @@ const PRODUCTS = [
     },
     "affiliate_url": "https://www.amazon.com.br/Smartphone-Xiaomi-Redmi-Note-512GB/dp/B0GQD3W1R4/ref=zg_bs_g_16243890011_d_sccl_24/142-0982438-4490834?psc=1&tag=mixdm22-20",
     "last_checked_at": "2026-07-16T20:00:31.654Z",
-    "spotlight": true
+    "spotlight": false
   },
   {
     "asin": "index-20",
@@ -9008,7 +9008,7 @@ const PRODUCTS = [
     },
     "affiliate_url": "https://www.amazon.com.br/Smartphone-Motorola-Moto-g56-Ultrarresistencia/dp/B0F9MNPVKG/ref=zg_bs_g_16243890011_d_sccl_21/142-0982438-4490834?psc=1&tag=mixdm22-20",
     "last_checked_at": "2026-07-16T20:00:31.654Z",
-    "spotlight": true
+    "spotlight": false
   },
   {
     "asin": "index-18",
@@ -9033,7 +9033,7 @@ const PRODUCTS = [
     },
     "affiliate_url": "https://www.amazon.com.br/Celular-Samsung-Galaxy-128GB-Preto/dp/B0FPHYC9FQ/ref=zg_bs_g_16243890011_d_sccl_19/142-0982438-4490834?psc=1&tag=mixdm22-20",
     "last_checked_at": "2026-07-16T20:00:31.654Z",
-    "spotlight": true
+    "spotlight": false
   },
   {
     "asin": "index-16",
@@ -9058,7 +9058,7 @@ const PRODUCTS = [
     },
     "affiliate_url": "https://www.amazon.com.br/Apple-iPhone-15-128-GB/dp/B0CP6CR795/ref=zg_bs_g_16243890011_d_sccl_17/142-0982438-4490834?psc=1&tag=mixdm22-20",
     "last_checked_at": "2026-07-16T20:00:31.654Z",
-    "spotlight": true
+    "spotlight": false
   },
   {
     "asin": "index-15",
@@ -9083,7 +9083,7 @@ const PRODUCTS = [
     },
     "affiliate_url": "https://www.amazon.com.br/Apple-iPhone-16-128-GB/dp/B0DJFTCKNN/ref=zg_bs_g_16243890011_d_sccl_16/142-0982438-4490834?psc=1&tag=mixdm22-20",
     "last_checked_at": "2026-07-16T20:00:31.654Z",
-    "spotlight": true
+    "spotlight": false
   },
   {
     "asin": "index-14",
@@ -9108,7 +9108,7 @@ const PRODUCTS = [
     },
     "affiliate_url": "https://www.amazon.com.br/Celular-Samsung-Galaxy-128GB-50MP/dp/B0FPPQ5T37/ref=zg_bs_g_16243890011_d_sccl_15/142-0982438-4490834?psc=1&tag=mixdm22-20",
     "last_checked_at": "2026-07-16T20:00:31.654Z",
-    "spotlight": true
+    "spotlight": false
   },
   {
     "asin": "index-13",
@@ -9133,7 +9133,7 @@ const PRODUCTS = [
     },
     "affiliate_url": "https://www.amazon.com.br/Smartphone-Xiaomi-Poco-512GB-Branco/dp/B0GN1N5C7M/ref=zg_bs_g_16243890011_d_sccl_14/142-0982438-4490834?psc=1&tag=mixdm22-20",
     "last_checked_at": "2026-07-16T20:00:31.654Z",
-    "spotlight": true
+    "spotlight": false
   },
   {
     "asin": "index-12",
@@ -9158,7 +9158,7 @@ const PRODUCTS = [
     },
     "affiliate_url": "https://www.amazon.com.br/Smartphone-Xiaomi-Redmi-Preto-2510DRA23L/dp/B0GL9QPQYL/ref=zg_bs_g_16243890011_d_sccl_13/142-0982438-4490834?psc=1&tag=mixdm22-20",
     "last_checked_at": "2026-07-16T20:00:31.654Z",
-    "spotlight": true
+    "spotlight": false
   },
   {
     "asin": "index-10",
@@ -9183,7 +9183,7 @@ const PRODUCTS = [
     },
     "affiliate_url": "https://www.amazon.com.br/Smartphone-Xiaomi-Poco-512GB-Preto/dp/B0GN2L3DZZ/ref=zg_bs_g_16243890011_d_sccl_11/142-0982438-4490834?psc=1&tag=mixdm22-20",
     "last_checked_at": "2026-07-16T20:00:31.654Z",
-    "spotlight": true
+    "spotlight": false
   },
   {
     "asin": "index-9",
@@ -9208,7 +9208,7 @@ const PRODUCTS = [
     },
     "affiliate_url": "https://www.amazon.com.br/Smartphone-Motorola-Moto-g86-5G/dp/B0FCYP5FB2/ref=zg_bs_g_16243890011_d_sccl_10/142-0982438-4490834?psc=1&tag=mixdm22-20",
     "last_checked_at": "2026-07-16T20:00:31.654Z",
-    "spotlight": true
+    "spotlight": false
   },
   {
     "asin": "index-8",
@@ -9233,7 +9233,7 @@ const PRODUCTS = [
     },
     "affiliate_url": "https://www.amazon.com.br/Celular-Samsung-Galaxy-C%C3%A2mera-Tripla/dp/B0FTC96JJ5/ref=zg_bs_g_16243890011_d_sccl_9/142-0982438-4490834?psc=1&tag=mixdm22-20",
     "last_checked_at": "2026-07-16T20:00:31.654Z",
-    "spotlight": true
+    "spotlight": false
   },
   {
     "asin": "index-3",
@@ -9258,7 +9258,7 @@ const PRODUCTS = [
     },
     "affiliate_url": "https://www.amazon.com.br/Celular-Samsung-Galaxy-128GB-Preto/dp/B0FPJ52LSR/ref=zg_bs_g_16243890011_d_sccl_4/142-0982438-4490834?psc=1&tag=mixdm22-20",
     "last_checked_at": "2026-07-16T20:00:31.654Z",
-    "spotlight": true
+    "spotlight": false
   },
   {
     "asin": "B0F63HK29J",
@@ -9283,7 +9283,7 @@ const PRODUCTS = [
     },
     "affiliate_url": "https://www.amazon.com.br/Potes-Vidro-V%C3%ADtreo-Revestido-Veda%C3%A7%C3%A3o/dp/B0F63HK29J?ref=dlx_deals_dg_dcl_B0F63HK29J_dt_sl14_88_pi_dealz_cp_mdl&pf_rd_r=GWB3VB24EZ9M2DTMR81Q&pf_rd_p=a43a02c5-fe2d-4a34-af71-7d62fff70488&tag=mixdm22-20",
     "last_checked_at": "2026-07-16T20:00:31.653Z",
-    "spotlight": true
+    "spotlight": false
   },
   {
     "asin": "B0H27KVBTF",
@@ -9308,7 +9308,7 @@ const PRODUCTS = [
     },
     "affiliate_url": "https://www.amazon.com.br/Profissional-Sketchbook-Borrachas-Acess%C3%B3rios-Estudantes/dp/B0H27KVBTF?ref=dlx_deals_dg_dcl_B0H27KVBTF_dt_sl14_88_pi_dealz_cp_mdl&pf_rd_r=GWB3VB24EZ9M2DTMR81Q&pf_rd_p=a43a02c5-fe2d-4a34-af71-7d62fff70488&tag=mixdm22-20",
     "last_checked_at": "2026-07-16T20:00:31.653Z",
-    "spotlight": true
+    "spotlight": false
   },
   {
     "asin": "B0FPZ11SWG",
@@ -9333,7 +9333,7 @@ const PRODUCTS = [
     },
     "affiliate_url": "https://www.amazon.com.br/Suplementos-Probi%C3%B3tico-Suporte-Nutricional-Buritis/dp/B0FPZ11SWG?ref=dlx_deals_dg_dcl_B0FPZ11SWG_dt_sl14_88_pi_dealz_cp_mdl&pf_rd_r=GWB3VB24EZ9M2DTMR81Q&pf_rd_p=a43a02c5-fe2d-4a34-af71-7d62fff70488&tag=mixdm22-20",
     "last_checked_at": "2026-07-16T20:00:31.653Z",
-    "spotlight": true
+    "spotlight": false
   },
   {
     "asin": "B0GVQ1JW7R",
@@ -9358,7 +9358,7 @@ const PRODUCTS = [
     },
     "affiliate_url": "https://www.amazon.com.br/Port%C3%A1til-Potentes-Bluetooth-Bateria-Microfones/dp/B0GVQ1JW7R?ref=dlx_deals_dg_dcl_B0GVQ1JW7R_dt_sl14_88_pi_dealz_cp_mdl&pf_rd_r=GWB3VB24EZ9M2DTMR81Q&pf_rd_p=a43a02c5-fe2d-4a34-af71-7d62fff70488&tag=mixdm22-20",
     "last_checked_at": "2026-07-16T20:00:31.653Z",
-    "spotlight": true
+    "spotlight": false
   },
   {
     "asin": "B0F6ZY8FK3",
@@ -9377,7 +9377,7 @@ const PRODUCTS = [
     "informacoes_produto": {},
     "affiliate_url": "https://www.amazon.com.br/Veterin%C3%A1rio-Mobilidade-Condroregenerador-50-Comprimidos/dp/B0F6ZY8FK3?ref=dlx_deals_dg_dcl_B0F6ZY8FK3_dt_sl14_88_pi_dealz_cp_mdl&pf_rd_r=GWB3VB24EZ9M2DTMR81Q&pf_rd_p=a43a02c5-fe2d-4a34-af71-7d62fff70488&tag=mixdm22-20",
     "last_checked_at": "2026-07-16T20:00:31.653Z",
-    "spotlight": true
+    "spotlight": false
   },
   {
     "asin": "B0FC4GB1QD",
@@ -9402,7 +9402,7 @@ const PRODUCTS = [
     },
     "affiliate_url": "https://www.amazon.com.br/Infantil-Encantado-Material-Presente-Crian%C3%A7as/dp/B0FC4GB1QD?ref=dlx_deals_dg_dcl_B0FC4GB1QD_dt_sl14_88_pi_dealz_cp_mdl&pf_rd_r=GWB3VB24EZ9M2DTMR81Q&pf_rd_p=a43a02c5-fe2d-4a34-af71-7d62fff70488&tag=mixdm22-20",
     "last_checked_at": "2026-07-16T20:00:31.653Z",
-    "spotlight": true
+    "spotlight": false
   },
   {
     "asin": "B0FG78LGJX",
@@ -9427,7 +9427,7 @@ const PRODUCTS = [
     },
     "affiliate_url": "https://www.amazon.com.br/Autoclave-Manicure-Esterilizadora-Esterilizadores-Ferramentas/dp/B0FG78LGJX?ref=dlx_deals_dg_dcl_B0FG78LGJX_dt_sl14_88_pi_dealz_cp_mdl&pf_rd_r=GWB3VB24EZ9M2DTMR81Q&pf_rd_p=a43a02c5-fe2d-4a34-af71-7d62fff70488&tag=mixdm22-20",
     "last_checked_at": "2026-07-16T20:00:31.653Z",
-    "spotlight": true
+    "spotlight": false
   },
   {
     "asin": "B0FM3XMPKW",
@@ -9452,7 +9452,7 @@ const PRODUCTS = [
     },
     "affiliate_url": "https://www.amazon.com.br/Teclado-Mouse-Touch-Capa-Galaxy/dp/B0FM3XMPKW?ref=dlx_deals_dg_dcl_B0FM3XMPKW_dt_sl14_88_pi_dealz_cp_mdl&pf_rd_r=GWB3VB24EZ9M2DTMR81Q&pf_rd_p=a43a02c5-fe2d-4a34-af71-7d62fff70488&tag=mixdm22-20",
     "last_checked_at": "2026-07-16T20:00:31.653Z",
-    "spotlight": true
+    "spotlight": false
   },
   {
     "asin": "B0H37NF5WM",
@@ -9482,7 +9482,7 @@ const PRODUCTS = [
     },
     "affiliate_url": "https://www.amazon.com.br/%C3%94-trix-%C3%B4mega-infantil-30ml-morango/dp/B0H37NF5WM?ref=dlx_deals_dg_dcl_B0H37NF5WM_dt_sl14_88_pi_dealz_cp_mdl&pf_rd_r=GWB3VB24EZ9M2DTMR81Q&pf_rd_p=a43a02c5-fe2d-4a34-af71-7d62fff70488&tag=mixdm22-20",
     "last_checked_at": "2026-07-16T20:00:31.653Z",
-    "spotlight": true
+    "spotlight": false
   },
   {
     "asin": "B0CLSTLZ4W",
@@ -9507,7 +9507,7 @@ const PRODUCTS = [
     },
     "affiliate_url": "https://www.amazon.com.br/Conjunto-Potes-Vidro-Herm%C3%A9ticos-Electrolux/dp/B0CLSTLZ4W?ref=dlx_deals_dg_dcl_B0CLSTLZ4W_dt_sl14_88_pi_dealz_cp_mdl&pf_rd_r=GWB3VB24EZ9M2DTMR81Q&pf_rd_p=a43a02c5-fe2d-4a34-af71-7d62fff70488&tag=mixdm22-20",
     "last_checked_at": "2026-07-16T20:00:31.653Z",
-    "spotlight": true
+    "spotlight": false
   },
   {
     "asin": "B0F31MDHXX",
@@ -9532,7 +9532,7 @@ const PRODUCTS = [
     },
     "affiliate_url": "https://www.amazon.com.br/Kindle-Paperwhite-Gera%C3%A7%C3%A3o-Colorsoft-Polegadas/dp/B0F31MDHXX?ref=dlx_deals_dg_dcl_B0F31MDHXX_dt_sl14_88_pi_dealz_cp_mdl&pf_rd_r=GWB3VB24EZ9M2DTMR81Q&pf_rd_p=a43a02c5-fe2d-4a34-af71-7d62fff70488&tag=mixdm22-20",
     "last_checked_at": "2026-07-16T20:00:31.653Z",
-    "spotlight": true
+    "spotlight": false
   },
   {
     "asin": "B0GTMZ593M",
@@ -9557,7 +9557,7 @@ const PRODUCTS = [
     },
     "affiliate_url": "https://www.amazon.com.br/Bicicleta-Infantil-16-Rodinhas-Laterais/dp/B0GTMZ593M?ref=dlx_deals_dg_dcl_B0GTMZ593M_dt_sl14_88_pi_dealz_cp_mdl&pf_rd_r=GWB3VB24EZ9M2DTMR81Q&pf_rd_p=a43a02c5-fe2d-4a34-af71-7d62fff70488&tag=mixdm22-20",
     "last_checked_at": "2026-07-16T20:00:31.653Z",
-    "spotlight": true
+    "spotlight": false
   },
   {
     "asin": "B0FSC38PZ6",
@@ -9582,7 +9582,7 @@ const PRODUCTS = [
     },
     "affiliate_url": "https://www.amazon.com.br/Maleta-Atividades-Infantil-Princesas-Pedrinhas/dp/B0FSC38PZ6?ref=dlx_deals_dg_dcl_B0FSC38PZ6_dt_sl14_88_pi_dealz_cp_mdl&pf_rd_r=GWB3VB24EZ9M2DTMR81Q&pf_rd_p=a43a02c5-fe2d-4a34-af71-7d62fff70488&tag=mixdm22-20",
     "last_checked_at": "2026-07-16T20:00:31.653Z",
-    "spotlight": true
+    "spotlight": false
   },
   {
     "asin": "B0GPZNMVN8",
@@ -9607,7 +9607,7 @@ const PRODUCTS = [
     },
     "affiliate_url": "https://www.amazon.com.br/Kit-Organizadores-Paramount-Organizador-Antiderrapante/dp/B0GPZNMVN8?ref=dlx_deals_dg_dcl_B0GPZNMVN8_dt_sl14_88_pi_dealz_cp_mdl&pf_rd_r=GWB3VB24EZ9M2DTMR81Q&pf_rd_p=a43a02c5-fe2d-4a34-af71-7d62fff70488&tag=mixdm22-20",
     "last_checked_at": "2026-07-16T20:00:31.653Z",
-    "spotlight": true
+    "spotlight": false
   },
   {
     "asin": "B0H3WP6V8C",
@@ -9626,7 +9626,7 @@ const PRODUCTS = [
     "informacoes_produto": {},
     "affiliate_url": "https://www.amazon.com.br/Magn%C3%A9tica-Montessori-Madeira-Encaixe-Geom%C3%A9trico/dp/B0H3WP6V8C?ref=dlx_deals_dg_dcl_B0H3WP6V8C_dt_sl14_88_pi_dealz_cp_mdl&pf_rd_r=GWB3VB24EZ9M2DTMR81Q&pf_rd_p=a43a02c5-fe2d-4a34-af71-7d62fff70488&tag=mixdm22-20",
     "last_checked_at": "2026-07-16T20:00:31.653Z",
-    "spotlight": true
+    "spotlight": false
   },
   {
     "asin": "B0H13G1VTW",
@@ -9651,7 +9651,7 @@ const PRODUCTS = [
     },
     "affiliate_url": "https://www.amazon.com.br/Suporte-para-Notebook-Ajust%C3%A1vel-Antiderrapante/dp/B0H13G1VTW?ref=dlx_deals_dg_dcl_B0H13G1VTW_dt_sl14_88_pi_dealz_cp_mdl&pf_rd_r=GWB3VB24EZ9M2DTMR81Q&pf_rd_p=a43a02c5-fe2d-4a34-af71-7d62fff70488&tag=mixdm22-20",
     "last_checked_at": "2026-07-16T20:00:31.653Z",
-    "spotlight": true
+    "spotlight": false
   },
   {
     "asin": "B0F9CJ8FXV",
@@ -9670,7 +9670,7 @@ const PRODUCTS = [
     "informacoes_produto": {},
     "affiliate_url": "https://www.amazon.com.br/ASSISTA-Mochila-Compartimento-Sapatos-Notebook/dp/B0F9CJ8FXV?ref=dlx_deals_dg_dcl_B0F9CJ8FXV_dt_sl14_88_pi_dealz_cp_mdl&pf_rd_r=GWB3VB24EZ9M2DTMR81Q&pf_rd_p=a43a02c5-fe2d-4a34-af71-7d62fff70488&tag=mixdm22-20",
     "last_checked_at": "2026-07-16T20:00:31.653Z",
-    "spotlight": true
+    "spotlight": false
   },
   {
     "asin": "B0CZ7KJ4KD",
@@ -9700,7 +9700,7 @@ const PRODUCTS = [
     },
     "affiliate_url": "https://www.amazon.com.br/Coenzima-Q10-200mg-C%C3%A1psulas-400mg/dp/B0CZ7KJ4KD?ref=dlx_deals_dg_dcl_B0CZ7KJ4KD_dt_sl14_88_pi_dealz_cp_mdl&pf_rd_r=GWB3VB24EZ9M2DTMR81Q&pf_rd_p=a43a02c5-fe2d-4a34-af71-7d62fff70488&tag=mixdm22-20",
     "last_checked_at": "2026-07-16T20:00:31.653Z",
-    "spotlight": true
+    "spotlight": false
   },
   {
     "asin": "B0GZJGH29B",
@@ -9725,7 +9725,7 @@ const PRODUCTS = [
     },
     "affiliate_url": "https://www.amazon.com.br/Recipiente-Troc%C3%A1veis-Agilidade-Praticidade-Facilidade/dp/B0GZJGH29B?ref=dlx_deals_dg_dcl_B0GZJGH29B_dt_sl14_88_pi_dealz_cp_mdl&pf_rd_r=GWB3VB24EZ9M2DTMR81Q&pf_rd_p=a43a02c5-fe2d-4a34-af71-7d62fff70488&tag=mixdm22-20",
     "last_checked_at": "2026-07-16T20:00:31.653Z",
-    "spotlight": true
+    "spotlight": false
   },
   {
     "asin": "B0FXMFF2RY",
@@ -9750,7 +9750,7 @@ const PRODUCTS = [
     },
     "affiliate_url": "https://www.amazon.com.br/Tobeape-Lanterna-Recarreg%C3%A1vel-Profissional-Escorpi%C3%B5es/dp/B0FXMFF2RY?ref=dlx_deals_dg_dcl_B0FXMFF2RY_dt_sl14_88_pi_dealz_cp_mdl&pf_rd_r=GWB3VB24EZ9M2DTMR81Q&pf_rd_p=a43a02c5-fe2d-4a34-af71-7d62fff70488&tag=mixdm22-20",
     "last_checked_at": "2026-07-16T20:00:31.653Z",
-    "spotlight": true
+    "spotlight": false
   },
   {
     "asin": "B0FYVCD4SJ",
@@ -9775,7 +9775,7 @@ const PRODUCTS = [
     },
     "affiliate_url": "https://www.amazon.com.br/Magn%C3%A9sio-L-Treonato-Puro-NUTRITION-Concentra%C3%A7%C3%A3o/dp/B0FYVCD4SJ?ref=dlx_deals_dg_dcl_B0FYVCD4SJ_dt_sl14_88_pi_dealz_cp_mdl&pf_rd_r=GWB3VB24EZ9M2DTMR81Q&pf_rd_p=a43a02c5-fe2d-4a34-af71-7d62fff70488&tag=mixdm22-20",
     "last_checked_at": "2026-07-16T20:00:31.653Z",
-    "spotlight": true
+    "spotlight": false
   },
   {
     "asin": "B0H51H3BRP",
@@ -9800,7 +9800,7 @@ const PRODUCTS = [
     },
     "affiliate_url": "https://www.amazon.com.br/Power-20000mAh-Carregador-Port%C3%A1til-Display/dp/B0H51H3BRP?ref=dlx_deals_dg_dcl_B0H51H3BRP_dt_sl14_88_pi_dealz_cp_mdl&pf_rd_r=GWB3VB24EZ9M2DTMR81Q&pf_rd_p=a43a02c5-fe2d-4a34-af71-7d62fff70488&tag=mixdm22-20",
     "last_checked_at": "2026-07-16T20:00:31.653Z",
-    "spotlight": true
+    "spotlight": false
   },
   {
     "asin": "B0C5K16KLX",
@@ -9825,7 +9825,7 @@ const PRODUCTS = [
     },
     "affiliate_url": "https://www.amazon.com.br/Vitamina-1000mg-Zinco-30mg-Vegano/dp/B0C5K16KLX?ref=dlx_deals_dg_dcl_B0C5K16KLX_dt_sl14_88_pi_dealz_cp_mdl&pf_rd_r=GWB3VB24EZ9M2DTMR81Q&pf_rd_p=a43a02c5-fe2d-4a34-af71-7d62fff70488&tag=mixdm22-20",
     "last_checked_at": "2026-07-16T20:00:31.653Z",
-    "spotlight": true
+    "spotlight": false
   },
   {
     "asin": "B0GXG4P34P",
@@ -9850,7 +9850,7 @@ const PRODUCTS = [
     },
     "affiliate_url": "https://www.amazon.com.br/Casal-Imperme%C3%A1vel-Hospitalar-Hipoalerg%C3%AAnica-138x188x30/dp/B0GXG4P34P?ref=dlx_deals_dg_dcl_B0GXG4P34P_dt_sl14_88_pi_dealz_cp_mdl&pf_rd_r=GWB3VB24EZ9M2DTMR81Q&pf_rd_p=a43a02c5-fe2d-4a34-af71-7d62fff70488&tag=mixdm22-20",
     "last_checked_at": "2026-07-16T20:00:31.653Z",
-    "spotlight": true
+    "spotlight": false
   },
   {
     "asin": "B0CBSRBFFS",
@@ -9879,7 +9879,7 @@ const PRODUCTS = [
     },
     "affiliate_url": "https://www.amazon.com.br/Creatine-Central-Nutrition-Tangerina-Creatina/dp/B0CBSRBFFS?ref=dlx_deals_dg_dcl_B0CBSRBFFS_dt_sl14_88_pi_dealz_cp_mdl&pf_rd_r=GWB3VB24EZ9M2DTMR81Q&pf_rd_p=a43a02c5-fe2d-4a34-af71-7d62fff70488&tag=mixdm22-20",
     "last_checked_at": "2026-07-16T20:00:31.653Z",
-    "spotlight": true
+    "spotlight": false
   },
   {
     "asin": "B0FF4J5VDK",
@@ -9898,7 +9898,7 @@ const PRODUCTS = [
     "informacoes_produto": {},
     "affiliate_url": "https://www.amazon.com.br/PAW-PATROL-Motocicleta-aut%C3%AAnticos-motocicleta/dp/B0FF4J5VDK?ref=dlx_deals_dg_dcl_B0FF4J5VDK_dt_sl14_88_pi_dealz_cp_mdl&pf_rd_r=GWB3VB24EZ9M2DTMR81Q&pf_rd_p=a43a02c5-fe2d-4a34-af71-7d62fff70488&tag=mixdm22-20",
     "last_checked_at": "2026-07-16T20:00:31.653Z",
-    "spotlight": true
+    "spotlight": false
   },
   {
     "asin": "B0CXJZCGC1",
@@ -9917,7 +9917,7 @@ const PRODUCTS = [
     "informacoes_produto": {},
     "affiliate_url": "https://www.amazon.com.br/Nig-Brinquedos-Madeira-Alinhavo-Brinca/dp/B0CXJZCGC1?ref=dlx_deals_dg_dcl_B0CXJZCGC1_dt_sl14_88_pi_dealz_cp_mdl&pf_rd_r=GWB3VB24EZ9M2DTMR81Q&pf_rd_p=a43a02c5-fe2d-4a34-af71-7d62fff70488&tag=mixdm22-20",
     "last_checked_at": "2026-07-16T20:00:31.653Z",
-    "spotlight": true
+    "spotlight": false
   },
   {
     "asin": "B0GVMR9J9S",
@@ -9936,7 +9936,7 @@ const PRODUCTS = [
     "informacoes_produto": {},
     "affiliate_url": "https://www.amazon.com.br/Suporte-Volante-Corrida-Cockpit-Compat%C3%ADvel/dp/B0GVMR9J9S?ref=dlx_deals_dg_dcl_B0GVMR9J9S_dt_sl14_88_pi_dealz_cp_mdl&pf_rd_r=GWB3VB24EZ9M2DTMR81Q&pf_rd_p=a43a02c5-fe2d-4a34-af71-7d62fff70488&tag=mixdm22-20",
     "last_checked_at": "2026-07-16T20:00:31.653Z",
-    "spotlight": true
+    "spotlight": false
   },
   {
     "asin": "B0GF26W3SP",
@@ -9961,7 +9961,7 @@ const PRODUCTS = [
     },
     "affiliate_url": "https://www.amazon.com.br/Polegadas-Magn%C3%A9tico-Flutuante-Retroiluminado-2018-2022/dp/B0GF26W3SP?ref=dlx_deals_dg_dcl_B0GF26W3SP_dt_sl14_88_pi_dealz_cp_mdl&pf_rd_r=GWB3VB24EZ9M2DTMR81Q&pf_rd_p=a43a02c5-fe2d-4a34-af71-7d62fff70488&tag=mixdm22-20",
     "last_checked_at": "2026-07-16T20:00:31.653Z",
-    "spotlight": true
+    "spotlight": false
   },
   {
     "asin": "B0FDWCG5QK",
@@ -9986,7 +9986,7 @@ const PRODUCTS = [
     },
     "affiliate_url": "https://www.amazon.com.br/Tobeape-L%C3%A2mpadas-Recarreg%C3%A1veis-Controle-Remoto/dp/B0FDWCG5QK?ref=dlx_deals_dg_dcl_B0FDWCG5QK_dt_sl14_88_pi_dealz_cp_mdl&pf_rd_r=GWB3VB24EZ9M2DTMR81Q&pf_rd_p=a43a02c5-fe2d-4a34-af71-7d62fff70488&tag=mixdm22-20",
     "last_checked_at": "2026-07-16T20:00:31.652Z",
-    "spotlight": true
+    "spotlight": false
   },
   {
     "asin": "B07FB2JZ7R",
@@ -10005,7 +10005,7 @@ const PRODUCTS = [
     "informacoes_produto": {},
     "affiliate_url": "https://www.amazon.com.br/Confeitaria-M%C3%A1gica-Magic-Toys-Multicor/dp/B07FB2JZ7R?ref=dlx_deals_dg_dcl_B07FB2JZ7R_dt_sl14_88_pi_dealz_cp_mdl&pf_rd_r=GWB3VB24EZ9M2DTMR81Q&pf_rd_p=a43a02c5-fe2d-4a34-af71-7d62fff70488&tag=mixdm22-20",
     "last_checked_at": "2026-07-16T20:00:31.652Z",
-    "spotlight": true
+    "spotlight": false
   },
   {
     "asin": "B07QWGTM7P",
@@ -10030,7 +10030,7 @@ const PRODUCTS = [
     },
     "affiliate_url": "https://www.amazon.com.br/Refrat%C3%A1rio-Lasanheira-Retangular-Assadeira-Marinex/dp/B07QWGTM7P?ref=dlx_deals_dg_dcl_B07QWGTM7P_dt_sl14_88_pi_dealz_cp_mdl&pf_rd_r=GWB3VB24EZ9M2DTMR81Q&pf_rd_p=a43a02c5-fe2d-4a34-af71-7d62fff70488&tag=mixdm22-20",
     "last_checked_at": "2026-07-16T20:00:31.652Z",
-    "spotlight": true
+    "spotlight": false
   },
   {
     "asin": "B09MSMZPCW",
@@ -10055,7 +10055,7 @@ const PRODUCTS = [
     },
     "affiliate_url": "https://www.amazon.com.br/Mouse-Pad-Desck-Couro-Ecol%C3%B3gico/dp/B09MSMZPCW?ref=dlx_deals_dg_dcl_B09MSMZPCW_dt_sl14_88_pi_dealz_cp_mdl&pf_rd_r=GWB3VB24EZ9M2DTMR81Q&pf_rd_p=a43a02c5-fe2d-4a34-af71-7d62fff70488&tag=mixdm22-20",
     "last_checked_at": "2026-07-16T20:00:31.652Z",
-    "spotlight": true
+    "spotlight": false
   },
   {
     "asin": "B0DDW7FRJD",
@@ -10080,7 +10080,7 @@ const PRODUCTS = [
     },
     "affiliate_url": "https://www.amazon.com.br/Playground-Premium-Resistente-Montado-Fixa%C3%A7%C3%A3o/dp/B0DDW7FRJD?ref=dlx_deals_dg_dcl_B0DDW7FRJD_dt_sl14_88_pi_dealz_cp_mdl&pf_rd_r=GWB3VB24EZ9M2DTMR81Q&pf_rd_p=a43a02c5-fe2d-4a34-af71-7d62fff70488&tag=mixdm22-20",
     "last_checked_at": "2026-07-16T20:00:31.652Z",
-    "spotlight": true
+    "spotlight": false
   },
   {
     "asin": "B0GQDB6VF5",
@@ -10105,7 +10105,7 @@ const PRODUCTS = [
     },
     "affiliate_url": "https://www.amazon.com.br/Asbel-Platinum-Shampoo-Condicionador-M%C3%A1scara/dp/B0GQDB6VF5?ref=dlx_deals_dg_dcl_B0GQDB6VF5_dt_sl14_88_pi_dealz_cp_mdl&pf_rd_r=GWB3VB24EZ9M2DTMR81Q&pf_rd_p=a43a02c5-fe2d-4a34-af71-7d62fff70488&tag=mixdm22-20",
     "last_checked_at": "2026-07-16T20:00:31.652Z",
-    "spotlight": true
+    "spotlight": false
   },
   {
     "asin": "B0GYG7KH5N",
@@ -10130,7 +10130,7 @@ const PRODUCTS = [
     },
     "affiliate_url": "https://www.amazon.com.br/Copos-Drink-Aruba-465ml-Cinza/dp/B0GYG7KH5N?ref=dlx_deals_dg_dcl_B0GYG7KH5N_dt_sl14_88_pi_dealz_cp_mdl&pf_rd_r=GWB3VB24EZ9M2DTMR81Q&pf_rd_p=a43a02c5-fe2d-4a34-af71-7d62fff70488&tag=mixdm22-20",
     "last_checked_at": "2026-07-16T20:00:31.652Z",
-    "spotlight": true
+    "spotlight": false
   },
   {
     "asin": "B0H2BYXSTZ",
@@ -10155,7 +10155,7 @@ const PRODUCTS = [
     },
     "affiliate_url": "https://www.amazon.com.br/Bruma-Fixadora-Matte-Facial-Oleosidade/dp/B0H2BYXSTZ?ref=dlx_deals_dg_dcl_B0H2BYXSTZ_dt_sl14_88_pi_dealz_cp_mdl&pf_rd_r=GWB3VB24EZ9M2DTMR81Q&pf_rd_p=a43a02c5-fe2d-4a34-af71-7d62fff70488&tag=mixdm22-20",
     "last_checked_at": "2026-07-16T20:00:31.652Z",
-    "spotlight": true
+    "spotlight": false
   },
   {
     "asin": "B0DR7GY2Z2",
@@ -10185,7 +10185,7 @@ const PRODUCTS = [
     },
     "affiliate_url": "https://www.amazon.com.br/Organizador-Ajust%C3%A1vel-Divis%C3%B3rias-Utens%C3%ADlios-Resistente/dp/B0DR7GY2Z2?ref=dlx_deals_dg_dcl_B0DR7GY2Z2_dt_sl14_88_pi_dealz_cp_mdl&pf_rd_r=GWB3VB24EZ9M2DTMR81Q&pf_rd_p=a43a02c5-fe2d-4a34-af71-7d62fff70488&tag=mixdm22-20",
     "last_checked_at": "2026-07-16T20:00:31.652Z",
-    "spotlight": true
+    "spotlight": false
   },
   {
     "asin": "B0H5RMCNN5",
@@ -10210,7 +10210,7 @@ const PRODUCTS = [
     },
     "affiliate_url": "https://www.amazon.com.br/LUMAI-T%C3%A1bua-Bambu-Premium-Impermeabilizada/dp/B0H5RMCNN5?ref=dlx_deals_dg_dcl_B0H5RMCNN5_dt_sl14_88_pi_dealz_cp_mdl&pf_rd_r=GWB3VB24EZ9M2DTMR81Q&pf_rd_p=a43a02c5-fe2d-4a34-af71-7d62fff70488&tag=mixdm22-20",
     "last_checked_at": "2026-07-16T20:00:31.652Z",
-    "spotlight": true
+    "spotlight": false
   },
   {
     "asin": "B0GYQ94JKG",
@@ -10235,7 +10235,7 @@ const PRODUCTS = [
     },
     "affiliate_url": "https://www.amazon.com.br/Mascavo-Pro-09-Pincel-Maquiagem/dp/B0GYQ94JKG?ref=dlx_deals_dg_dcl_B0GYQ94JKG_dt_sl14_88_pi_dealz_cp_mdl&pf_rd_r=GWB3VB24EZ9M2DTMR81Q&pf_rd_p=a43a02c5-fe2d-4a34-af71-7d62fff70488&tag=mixdm22-20",
     "last_checked_at": "2026-07-16T20:00:31.652Z",
-    "spotlight": true
+    "spotlight": false
   },
   {
     "asin": "B0GYQD9QRF",
@@ -10260,7 +10260,7 @@ const PRODUCTS = [
     },
     "affiliate_url": "https://www.amazon.com.br/Mascavo-Pro-10-Pincel-Maquiagem/dp/B0GYQD9QRF?ref=dlx_deals_dg_dcl_B0GYQD9QRF_dt_sl14_88_pi_dealz_cp_mdl&pf_rd_r=GWB3VB24EZ9M2DTMR81Q&pf_rd_p=a43a02c5-fe2d-4a34-af71-7d62fff70488&tag=mixdm22-20",
     "last_checked_at": "2026-07-16T20:00:31.652Z",
-    "spotlight": true
+    "spotlight": false
   },
   {
     "asin": "B0FZGR2FPQ",
@@ -10284,7 +10284,7 @@ const PRODUCTS = [
     },
     "affiliate_url": "https://www.amazon.com.br/Conjunto-Completo-Cerim%C3%B4nia-Ferramentas-Artesanal/dp/B0FZGR2FPQ?ref=dlx_deals_dg_dcl_B0FZGR2FPQ_dt_sl14_88_pi_dealz_cp_mdl&pf_rd_r=GWB3VB24EZ9M2DTMR81Q&pf_rd_p=a43a02c5-fe2d-4a34-af71-7d62fff70488&tag=mixdm22-20",
     "last_checked_at": "2026-07-16T20:00:31.652Z",
-    "spotlight": true
+    "spotlight": false
   },
   {
     "asin": "B0GY76ZK7N",
@@ -10309,7 +10309,7 @@ const PRODUCTS = [
     },
     "affiliate_url": "https://www.amazon.com.br/Microfone-Lapela-sem-Fio-Bluetooth/dp/B0GY76ZK7N?ref=dlx_deals_dg_dcl_B0GY76ZK7N_dt_sl14_88_pi_dealz_cp_mdl&pf_rd_r=GWB3VB24EZ9M2DTMR81Q&pf_rd_p=a43a02c5-fe2d-4a34-af71-7d62fff70488&tag=mixdm22-20",
     "last_checked_at": "2026-07-16T20:00:31.652Z",
-    "spotlight": true
+    "spotlight": false
   },
   {
     "asin": "B0DP56CV19",
@@ -10334,7 +10334,7 @@ const PRODUCTS = [
     },
     "affiliate_url": "https://www.amazon.com.br/Vitamina-metilcobalamina-capsulas-Zuchetti-nutrition/dp/B0DP56CV19?ref=dlx_deals_dg_dcl_B0DP56CV19_dt_sl14_88_pi_dealz_cp_mdl&pf_rd_r=GWB3VB24EZ9M2DTMR81Q&pf_rd_p=a43a02c5-fe2d-4a34-af71-7d62fff70488&tag=mixdm22-20",
     "last_checked_at": "2026-07-16T20:00:31.652Z",
-    "spotlight": true
+    "spotlight": false
   },
   {
     "asin": "B0GYXS4X7Y",
@@ -10359,7 +10359,7 @@ const PRODUCTS = [
     },
     "affiliate_url": "https://www.amazon.com.br/ULTVIGOR-Antiaderente-Aquecimento-Compat%C3%ADvel-Estrutura/dp/B0GYXS4X7Y?ref=dlx_deals_dg_dcl_B0GYXS4X7Y_dt_sl14_88_pi_dealz_cp_mdl&pf_rd_r=GWB3VB24EZ9M2DTMR81Q&pf_rd_p=a43a02c5-fe2d-4a34-af71-7d62fff70488&tag=mixdm22-20",
     "last_checked_at": "2026-07-16T20:00:31.652Z",
-    "spotlight": true
+    "spotlight": false
   },
   {
     "asin": "B0DJT9NRM7",
@@ -10384,7 +10384,7 @@ const PRODUCTS = [
     },
     "affiliate_url": "https://www.amazon.com.br/Vitamina-Metilfolato-Sublingual-NUTRITION-Forma%C3%A7%C3%A3o/dp/B0DJT9NRM7?ref=dlx_deals_dg_dcl_B0DJT9NRM7_dt_sl14_88_pi_dealz_cp_mdl&pf_rd_r=GWB3VB24EZ9M2DTMR81Q&pf_rd_p=a43a02c5-fe2d-4a34-af71-7d62fff70488&tag=mixdm22-20",
     "last_checked_at": "2026-07-16T20:00:31.652Z",
-    "spotlight": true
+    "spotlight": false
   },
   {
     "asin": "B0FBHTM1YH",
@@ -10409,7 +10409,7 @@ const PRODUCTS = [
     },
     "affiliate_url": "https://www.amazon.com.br/Capa-Para-Kindle-Gera%C3%A7%C3%A3o-Modelos/dp/B0FBHTM1YH?ref=dlx_deals_dg_dcl_B0FBHTM1YH_dt_sl14_88_pi_dealz_cp_mdl&pf_rd_r=GWB3VB24EZ9M2DTMR81Q&pf_rd_p=a43a02c5-fe2d-4a34-af71-7d62fff70488&tag=mixdm22-20",
     "last_checked_at": "2026-07-16T20:00:31.652Z",
-    "spotlight": true
+    "spotlight": false
   },
   {
     "asin": "B0FH7FVRML",
@@ -10434,7 +10434,7 @@ const PRODUCTS = [
     },
     "affiliate_url": "https://www.amazon.com.br/Complexo-C%C3%A1psulas-Vitaminas-Biotina-Inositol/dp/B0FH7FVRML?ref=dlx_deals_dg_dcl_B0FH7FVRML_dt_sl14_88_pi_dealz_cp_mdl&pf_rd_r=GWB3VB24EZ9M2DTMR81Q&pf_rd_p=a43a02c5-fe2d-4a34-af71-7d62fff70488&tag=mixdm22-20",
     "last_checked_at": "2026-07-16T20:00:31.652Z",
-    "spotlight": true
+    "spotlight": false
   },
   {
     "asin": "B0FDWPHDQY",
@@ -10453,7 +10453,7 @@ const PRODUCTS = [
     "informacoes_produto": {},
     "affiliate_url": "https://www.amazon.com.br/Tobeape-45L-Resistente-Compartimento-Esportiva/dp/B0FDWPHDQY?ref=dlx_deals_dg_dcl_B0FDWPHDQY_dt_sl14_88_pi_dealz_cp_mdl&pf_rd_r=GWB3VB24EZ9M2DTMR81Q&pf_rd_p=a43a02c5-fe2d-4a34-af71-7d62fff70488&tag=mixdm22-20",
     "last_checked_at": "2026-07-16T20:00:31.652Z",
-    "spotlight": true
+    "spotlight": false
   },
   {
     "asin": "B08T9XBLF1",
@@ -10472,7 +10472,7 @@ const PRODUCTS = [
     "informacoes_produto": {},
     "affiliate_url": "https://www.amazon.com.br/Abridor-Vinho-Profissional-Sommelier-Garrafa/dp/B08T9XBLF1?ref=dlx_deals_dg_dcl_B08T9XBLF1_dt_sl14_88_pi_dealz_cp_mdl&pf_rd_r=GWB3VB24EZ9M2DTMR81Q&pf_rd_p=a43a02c5-fe2d-4a34-af71-7d62fff70488&tag=mixdm22-20",
     "last_checked_at": "2026-07-16T20:00:31.652Z",
-    "spotlight": true
+    "spotlight": false
   },
   {
     "asin": "B0D2LM84HB",
@@ -10491,7 +10491,7 @@ const PRODUCTS = [
     "informacoes_produto": {},
     "affiliate_url": "https://www.amazon.com.br/Jornal-Para-Higienico-Biodegrad%C3%A1vel-folhas/dp/B0D2LM84HB?ref=dlx_deals_dg_dcl_B0D2LM84HB_dt_sl14_88_pi_dealz_cp_mdl&pf_rd_r=GWB3VB24EZ9M2DTMR81Q&pf_rd_p=a43a02c5-fe2d-4a34-af71-7d62fff70488&tag=mixdm22-20",
     "last_checked_at": "2026-07-16T20:00:31.652Z",
-    "spotlight": true
+    "spotlight": false
   },
   {
     "asin": "B0H5NHG4K8",
@@ -10516,7 +10516,7 @@ const PRODUCTS = [
     },
     "affiliate_url": "https://www.amazon.com.br/LUMAI-Bandeja-Frios-Acr%C3%ADlica-Travas/dp/B0H5NHG4K8?ref=dlx_deals_dg_dcl_B0H5NHG4K8_dt_sl14_88_pi_dealz_cp_mdl&pf_rd_r=GWB3VB24EZ9M2DTMR81Q&pf_rd_p=a43a02c5-fe2d-4a34-af71-7d62fff70488&tag=mixdm22-20",
     "last_checked_at": "2026-07-16T20:00:31.652Z",
-    "spotlight": true
+    "spotlight": false
   },
   {
     "asin": "B0DLJCRRKS",
@@ -10541,7 +10541,7 @@ const PRODUCTS = [
     },
     "affiliate_url": "https://www.amazon.com.br/Kindle-Paperwhite-Gera%C3%A7%C3%A3o-Polegadas-SA569P/dp/B0DLJCRRKS?ref=dlx_deals_dg_dcl_B0DLJCRRKS_dt_sl14_88_pi_dealz_cp_mdl&pf_rd_r=GWB3VB24EZ9M2DTMR81Q&pf_rd_p=a43a02c5-fe2d-4a34-af71-7d62fff70488&tag=mixdm22-20",
     "last_checked_at": "2026-07-16T20:00:31.652Z",
-    "spotlight": true
+    "spotlight": false
   },
   {
     "asin": "B0GY7VYDVG",
@@ -10566,7 +10566,7 @@ const PRODUCTS = [
     },
     "affiliate_url": "https://www.amazon.com.br/GODREAM-Fichario-Album-com-Presente/dp/B0GY7VYDVG?ref=dlx_deals_dg_dcl_B0GY7VYDVG_dt_sl14_88_pi_dealz_cp_mdl&pf_rd_r=GWB3VB24EZ9M2DTMR81Q&pf_rd_p=a43a02c5-fe2d-4a34-af71-7d62fff70488&tag=mixdm22-20",
     "last_checked_at": "2026-07-16T20:00:31.652Z",
-    "spotlight": true
+    "spotlight": false
   },
   {
     "asin": "B0GZ127D89",
@@ -10591,7 +10591,7 @@ const PRODUCTS = [
     },
     "affiliate_url": "https://www.amazon.com.br/Folhas-Removedor-Tapete-Bolinhas-Facilidade/dp/B0GZ127D89?ref=dlx_deals_dg_dcl_B0GZ127D89_dt_sl14_88_pi_dealz_cp_mdl&pf_rd_r=GWB3VB24EZ9M2DTMR81Q&pf_rd_p=a43a02c5-fe2d-4a34-af71-7d62fff70488&tag=mixdm22-20",
     "last_checked_at": "2026-07-16T20:00:31.652Z",
-    "spotlight": true
+    "spotlight": false
   },
   {
     "asin": "B0FR9B9RDX",
@@ -10616,7 +10616,7 @@ const PRODUCTS = [
     },
     "affiliate_url": "https://www.amazon.com.br/Bicicleta-Infantil-Feminina-Alum%C3%ADnio-Cestinha/dp/B0FR9B9RDX?ref=dlx_deals_dg_dcl_B0FR9B9RDX_dt_sl14_88_pi_dealz_cp_mdl&pf_rd_r=GWB3VB24EZ9M2DTMR81Q&pf_rd_p=a43a02c5-fe2d-4a34-af71-7d62fff70488&tag=mixdm22-20",
     "last_checked_at": "2026-07-16T20:00:31.652Z",
-    "spotlight": true
+    "spotlight": false
   },
   {
     "asin": "B0FT1DD9JB",
@@ -10641,7 +10641,7 @@ const PRODUCTS = [
     },
     "affiliate_url": "https://www.amazon.com.br/Profissional-Art%C3%ADsticos-Borrachas-Acess%C3%B3rios-Estudantes/dp/B0FT1DD9JB?ref=dlx_deals_dg_dcl_B0FT1DD9JB_dt_sl14_88_pi_dealz_cp_mdl&pf_rd_r=GWB3VB24EZ9M2DTMR81Q&pf_rd_p=a43a02c5-fe2d-4a34-af71-7d62fff70488&tag=mixdm22-20",
     "last_checked_at": "2026-07-16T20:00:31.652Z",
-    "spotlight": true
+    "spotlight": false
   },
   {
     "asin": "B0FG2HWV2P",
@@ -10666,7 +10666,7 @@ const PRODUCTS = [
     },
     "affiliate_url": "https://www.amazon.com.br/Tobeape-Luz-Selfie-Port%C3%A1til-Recarreg%C3%A1vel/dp/B0FG2HWV2P?ref=dlx_deals_dg_dcl_B0FG2HWV2P_dt_sl14_88_pi_dealz_cp_mdl&pf_rd_r=GWB3VB24EZ9M2DTMR81Q&pf_rd_p=a43a02c5-fe2d-4a34-af71-7d62fff70488&tag=mixdm22-20",
     "last_checked_at": "2026-07-16T20:00:31.652Z",
-    "spotlight": true
+    "spotlight": false
   },
   {
     "asin": "B0DPN8X8J3",
@@ -10685,7 +10685,7 @@ const PRODUCTS = [
     "informacoes_produto": {},
     "affiliate_url": "https://www.amazon.com.br/Executiva-Masculina-Imperme%C3%A1vel-Compartimentos-Sofisticado/dp/B0DPN8X8J3?ref=dlx_deals_dg_dcl_B0DPN8X8J3_dt_sl14_88_pi_dealz_cp_mdl&pf_rd_r=GWB3VB24EZ9M2DTMR81Q&pf_rd_p=a43a02c5-fe2d-4a34-af71-7d62fff70488&tag=mixdm22-20",
     "last_checked_at": "2026-07-16T20:00:31.652Z",
-    "spotlight": true
+    "spotlight": false
   },
   {
     "asin": "B0FW3XTMFN",
@@ -10704,7 +10704,7 @@ const PRODUCTS = [
     "informacoes_produto": {},
     "affiliate_url": "https://www.amazon.com.br/Reborn-Silicone-Boneca-Menina-Realista/dp/B0FW3XTMFN?ref=dlx_deals_dg_dcl_B0FW3XTMFN_dt_sl14_88_pi_dealz_cp_mdl&pf_rd_r=GWB3VB24EZ9M2DTMR81Q&pf_rd_p=a43a02c5-fe2d-4a34-af71-7d62fff70488&tag=mixdm22-20",
     "last_checked_at": "2026-07-16T20:00:31.651Z",
-    "spotlight": true
+    "spotlight": false
   },
   {
     "asin": "B0GLJWGMK4",
@@ -10729,7 +10729,7 @@ const PRODUCTS = [
     },
     "affiliate_url": "https://www.amazon.com.br/Bicicleta-Infantil-Crian%C3%A7as-Menino-Alum%C3%ADnio/dp/B0GLJWGMK4?ref=dlx_deals_dg_dcl_B0GLJWGMK4_dt_sl14_88_pi_dealz_cp_mdl&pf_rd_r=GWB3VB24EZ9M2DTMR81Q&pf_rd_p=a43a02c5-fe2d-4a34-af71-7d62fff70488&tag=mixdm22-20",
     "last_checked_at": "2026-07-16T20:00:31.651Z",
-    "spotlight": true
+    "spotlight": false
   },
   {
     "asin": "B0FZBRT2XV",
@@ -10756,7 +10756,7 @@ const PRODUCTS = [
     },
     "affiliate_url": "https://www.amazon.com.br/%C3%94mega-EPA-Dark-Lab-C%C3%A1psulas/dp/B0FZBRT2XV?ref=dlx_deals_dg_dcl_B0FZBRT2XV_dt_sl14_88_pi_dealz_cp_mdl&pf_rd_r=GWB3VB24EZ9M2DTMR81Q&pf_rd_p=a43a02c5-fe2d-4a34-af71-7d62fff70488&tag=mixdm22-20",
     "last_checked_at": "2026-07-16T20:00:31.651Z",
-    "spotlight": true
+    "spotlight": false
   },
   {
     "asin": "B0BL1XGZT4",
@@ -10781,7 +10781,7 @@ const PRODUCTS = [
     },
     "affiliate_url": "https://www.amazon.com.br/Magn%C3%A9sio-Glicina-Dimalato-Vitamina-c%C3%A1psulas/dp/B0BL1XGZT4?ref=dlx_deals_dg_dcl_B0BL1XGZT4_dt_sl14_88_pi_dealz_cp_mdl&pf_rd_r=GWB3VB24EZ9M2DTMR81Q&pf_rd_p=a43a02c5-fe2d-4a34-af71-7d62fff70488&tag=mixdm22-20",
     "last_checked_at": "2026-07-16T20:00:31.651Z",
-    "spotlight": true
+    "spotlight": false
   },
   {
     "asin": "B0H1HJN945",
@@ -10806,7 +10806,7 @@ const PRODUCTS = [
     },
     "affiliate_url": "https://www.amazon.com.br/Mstail-Bebedouro-Silenciosa-Indicador-TY10/dp/B0H1HJN945?ref=dlx_deals_dg_dcl_B0H1HJN945_dt_sl14_88_pi_dealz_cp_mdl&pf_rd_r=GWB3VB24EZ9M2DTMR81Q&pf_rd_p=a43a02c5-fe2d-4a34-af71-7d62fff70488&tag=mixdm22-20",
     "last_checked_at": "2026-07-16T20:00:31.651Z",
-    "spotlight": true
+    "spotlight": false
   },
   {
     "asin": "B0GN2KJY43",
@@ -10836,7 +10836,7 @@ const PRODUCTS = [
     },
     "affiliate_url": "https://www.amazon.com.br/Ventilador-Teto-Retr%C3%A1teis-Controle-Remoto/dp/B0GN2KJY43?ref=dlx_deals_dg_dcl_B0GN2KJY43_dt_sl14_88_pi_dealz_cp_mdl&pf_rd_r=GWB3VB24EZ9M2DTMR81Q&pf_rd_p=a43a02c5-fe2d-4a34-af71-7d62fff70488&tag=mixdm22-20",
     "last_checked_at": "2026-07-16T20:00:31.651Z",
-    "spotlight": true
+    "spotlight": false
   },
   {
     "asin": "B0FLQ5KZBY",
@@ -10861,7 +10861,7 @@ const PRODUCTS = [
     },
     "affiliate_url": "https://www.amazon.com.br/Suporte-Starlink-Mini-Para-Carro/dp/B0FLQ5KZBY?ref=dlx_deals_dg_dcl_B0FLQ5KZBY_dt_sl14_88_pi_dealz_cp_mdl&pf_rd_r=GWB3VB24EZ9M2DTMR81Q&pf_rd_p=a43a02c5-fe2d-4a34-af71-7d62fff70488&tag=mixdm22-20",
     "last_checked_at": "2026-07-16T20:00:31.651Z",
-    "spotlight": true
+    "spotlight": false
   },
   {
     "asin": "B0F4NRFN8D",
@@ -10880,7 +10880,7 @@ const PRODUCTS = [
     "informacoes_produto": {},
     "affiliate_url": "https://www.amazon.com.br/Mochila-para-Notebook-Masculina-Feminina/dp/B0F4NRFN8D?ref=dlx_deals_dg_dcl_B0F4NRFN8D_dt_sl14_88_pi_dealz_cp_mdl&pf_rd_r=GWB3VB24EZ9M2DTMR81Q&pf_rd_p=a43a02c5-fe2d-4a34-af71-7d62fff70488&tag=mixdm22-20",
     "last_checked_at": "2026-07-16T20:00:31.651Z",
-    "spotlight": true
+    "spotlight": false
   },
   {
     "asin": "B0H2LXQPSP",
@@ -10910,7 +10910,7 @@ const PRODUCTS = [
     },
     "affiliate_url": "https://www.amazon.com.br/Airwit-Ventilador-Silencioso-Controle-Velocidades/dp/B0H2LXQPSP?ref=dlx_deals_dg_dcl_B0H2LXQPSP_dt_sl14_88_pi_dealz_cp_mdl&pf_rd_r=GWB3VB24EZ9M2DTMR81Q&pf_rd_p=a43a02c5-fe2d-4a34-af71-7d62fff70488&tag=mixdm22-20",
     "last_checked_at": "2026-07-16T20:00:31.651Z",
-    "spotlight": true
+    "spotlight": false
   },
   {
     "asin": "B0DSRSBFNV",
@@ -10935,7 +10935,7 @@ const PRODUCTS = [
     },
     "affiliate_url": "https://www.amazon.com.br/Performance-Masculina-Peruana-Marapuama-Ca-Nuts/dp/B0DSRSBFNV?ref=dlx_deals_dg_dcl_B0DSRSBFNV_dt_sl14_88_pi_dealz_cp_mdl&pf_rd_r=GWB3VB24EZ9M2DTMR81Q&pf_rd_p=a43a02c5-fe2d-4a34-af71-7d62fff70488&tag=mixdm22-20",
     "last_checked_at": "2026-07-16T20:00:31.651Z",
-    "spotlight": true
+    "spotlight": false
   },
   {
     "asin": "B0DJDKJKQJ",
@@ -10964,7 +10964,7 @@ const PRODUCTS = [
     },
     "affiliate_url": "https://www.amazon.com.br/Psyllium-Husk-Suplemento-Alimentar-C%C3%A1psulas/dp/B0DJDKJKQJ?ref=dlx_deals_dg_dcl_B0DJDKJKQJ_dt_sl14_88_pi_dealz_cp_mdl&pf_rd_r=GWB3VB24EZ9M2DTMR81Q&pf_rd_p=a43a02c5-fe2d-4a34-af71-7d62fff70488&tag=mixdm22-20",
     "last_checked_at": "2026-07-16T20:00:31.651Z",
-    "spotlight": true
+    "spotlight": false
   },
   {
     "asin": "B0GSNZCS42",
@@ -10988,7 +10988,7 @@ const PRODUCTS = [
     },
     "affiliate_url": "https://www.amazon.com.br/K-SELL-IMPORTS-Barraca-Infantil-Princesa/dp/B0GSNZCS42?ref=dlx_deals_dg_dcl_B0GSNZCS42_dt_sl14_88_pi_dealz_cp_mdl&pf_rd_r=GWB3VB24EZ9M2DTMR81Q&pf_rd_p=a43a02c5-fe2d-4a34-af71-7d62fff70488&tag=mixdm22-20",
     "last_checked_at": "2026-07-16T20:00:31.651Z",
-    "spotlight": true
+    "spotlight": false
   },
   {
     "asin": "B0H335DB6T",
@@ -11013,7 +11013,7 @@ const PRODUCTS = [
     },
     "affiliate_url": "https://www.amazon.com.br/Teclado-Trackpad-Polegadas-Connect-Portugu%C3%AAs/dp/B0H335DB6T?ref=dlx_deals_dg_dcl_B0H335DB6T_dt_sl14_88_pi_dealz_cp_mdl&pf_rd_r=GWB3VB24EZ9M2DTMR81Q&pf_rd_p=a43a02c5-fe2d-4a34-af71-7d62fff70488&tag=mixdm22-20",
     "last_checked_at": "2026-07-16T20:00:31.651Z",
-    "spotlight": true
+    "spotlight": false
   },
   {
     "asin": "B0H6G6WK2N",
@@ -11038,7 +11038,7 @@ const PRODUCTS = [
     },
     "affiliate_url": "https://www.amazon.com.br/Monitor-Portatil-Notebook-Ultra-Fino/dp/B0H6G6WK2N?ref=dlx_deals_dg_dcl_B0H6G6WK2N_dt_sl14_88_pi_dealz_cp_mdl&pf_rd_r=GWB3VB24EZ9M2DTMR81Q&pf_rd_p=a43a02c5-fe2d-4a34-af71-7d62fff70488&tag=mixdm22-20",
     "last_checked_at": "2026-07-16T20:00:31.651Z",
-    "spotlight": true
+    "spotlight": false
   },
   {
     "asin": "B0DBFKYYBP",
@@ -11063,7 +11063,7 @@ const PRODUCTS = [
     },
     "affiliate_url": "https://www.amazon.com.br/Capa-Kindle-Gera%C3%A7%C3%A3o-C2V2L3-RS23CV/dp/B0DBFKYYBP?ref=dlx_deals_dg_dcl_B0DBFKYYBP_dt_sl14_88_pi_dealz_cp_mdl&pf_rd_r=GWB3VB24EZ9M2DTMR81Q&pf_rd_p=a43a02c5-fe2d-4a34-af71-7d62fff70488&tag=mixdm22-20",
     "last_checked_at": "2026-07-16T20:00:31.651Z",
-    "spotlight": true
+    "spotlight": false
   },
   {
     "asin": "B0FQ9WPF6Q",
@@ -11087,7 +11087,7 @@ const PRODUCTS = [
     },
     "affiliate_url": "https://www.amazon.com.br/Masculino-Kendall-Antifrizz-Prote%C3%A7%C3%A3o-Hidrata%C3%A7%C3%A3o/dp/B0FQ9WPF6Q?ref=dlx_deals_dg_dcl_B0FQ9WPF6Q_dt_sl14_88_pi_dealz_cp_mdl&pf_rd_r=GWB3VB24EZ9M2DTMR81Q&pf_rd_p=a43a02c5-fe2d-4a34-af71-7d62fff70488&tag=mixdm22-20",
     "last_checked_at": "2026-07-16T20:00:31.651Z",
-    "spotlight": true
+    "spotlight": false
   },
   {
     "asin": "B0GTVD799Q",
@@ -11117,7 +11117,7 @@ const PRODUCTS = [
     },
     "affiliate_url": "https://www.amazon.com.br/Ventilador-Instala%C3%A7%C3%A3o-Ventila%C3%A7%C3%A3o-Revers%C3%ADvel-Regul%C3%A1vel/dp/B0GTVD799Q?ref=dlx_deals_dg_dcl_B0GTVD799Q_dt_sl14_88_pi_dealz_cp_mdl&pf_rd_r=GWB3VB24EZ9M2DTMR81Q&pf_rd_p=a43a02c5-fe2d-4a34-af71-7d62fff70488&tag=mixdm22-20",
     "last_checked_at": "2026-07-16T20:00:31.651Z",
-    "spotlight": true
+    "spotlight": false
   },
   {
     "asin": "B0H6FG8TQ2",
@@ -11142,7 +11142,7 @@ const PRODUCTS = [
     },
     "affiliate_url": "https://www.amazon.com.br/polegadas-Conectividade-alto-falantes-integrados-presentes/dp/B0H6FG8TQ2?ref=dlx_deals_dg_dcl_B0H6FG8TQ2_dt_sl14_88_pi_dealz_cp_mdl&pf_rd_r=GWB3VB24EZ9M2DTMR81Q&pf_rd_p=a43a02c5-fe2d-4a34-af71-7d62fff70488&tag=mixdm22-20",
     "last_checked_at": "2026-07-16T20:00:31.651Z",
-    "spotlight": true
+    "spotlight": false
   },
   {
     "asin": "B086Q5XYQF",
@@ -11167,7 +11167,7 @@ const PRODUCTS = [
     },
     "affiliate_url": "https://www.amazon.com.br/Herdade-Espor%C3%A3o-Azeite-Portugal-prensado/dp/B086Q5XYQF?ref=dlx_deals_dg_dcl_B086Q5XYQF_dt_sl14_88_pi_dealz_cp_mdl&pf_rd_r=GWB3VB24EZ9M2DTMR81Q&pf_rd_p=a43a02c5-fe2d-4a34-af71-7d62fff70488&sbo=RZvfv%2F%2FHxDF%2BO5021pAnSA%3D%3D&tag=mixdm22-20",
     "last_checked_at": "2026-07-16T20:00:31.651Z",
-    "spotlight": true
+    "spotlight": false
   },
   {
     "asin": "B09FKWS793",
@@ -11192,7 +11192,7 @@ const PRODUCTS = [
     },
     "affiliate_url": "https://www.amazon.com.br/MIFA-A90-Port%C3%A1teis-Alto-falante-Emparelhamento/dp/B09FKWS793?ref=dlx_deals_dg_dcl_B09FKWS793_dt_sl14_88_pi_dealz_cp_mdl&pf_rd_r=GWB3VB24EZ9M2DTMR81Q&pf_rd_p=a43a02c5-fe2d-4a34-af71-7d62fff70488&sbo=RZvfv%2F%2FHxDF%2BO5021pAnSA%3D%3D&tag=mixdm22-20",
     "last_checked_at": "2026-07-16T20:00:31.651Z",
-    "spotlight": true
+    "spotlight": false
   },
   {
     "asin": "B0G4XH2YRD",
@@ -11211,7 +11211,7 @@ const PRODUCTS = [
     "informacoes_produto": {},
     "affiliate_url": "https://www.amazon.com.br/007-First-Light-Collectors-Xbox/dp/B0G4XH2YRD?ref=dlx_deals_dg_dcl_B0G4XH2YRD_dt_sl14_88_pi&pf_rd_r=7KSERGRJHK3AJX3EFF7K&pf_rd_p=a43a02c5-fe2d-4a34-af71-7d62fff70488&sbo=9ZOMT9Jm0JH%2Ft%2BWi68iDSA%3D%3D&tag=mixdm22-20",
     "last_checked_at": "2026-07-16T20:00:31.651Z",
-    "spotlight": true
+    "spotlight": false
   },
   {
     "asin": "B07PGT7LSR",
@@ -11238,7 +11238,7 @@ const PRODUCTS = [
     },
     "affiliate_url": "https://www.amazon.com.br/Anker-Charger-Aluminum-Compatible-iPhone15/dp/B07PGT7LSR?ref=dlx_deals_dg_dcl_B07PGT7LSR_dt_sl14_88_pi&pf_rd_r=RHJGD32YH0GDY60GJ2ER&pf_rd_p=a43a02c5-fe2d-4a34-af71-7d62fff70488&tag=mixdm22-20",
     "last_checked_at": "2026-07-16T20:00:31.651Z",
-    "spotlight": true
+    "spotlight": false
   },
   {
     "asin": "B0FX8BFCBP",
@@ -11257,7 +11257,7 @@ const PRODUCTS = [
     "informacoes_produto": {},
     "affiliate_url": "https://www.amazon.com.br/Pulseira-Ondulada-Compativel-10-45mm-7-44mm/dp/B0FX8BFCBP?ref=dlx_deals_dg_dcl_B0FX8BFCBP_dt_sl14_88_pi&pf_rd_r=RHJGD32YH0GDY60GJ2ER&pf_rd_p=a43a02c5-fe2d-4a34-af71-7d62fff70488&tag=mixdm22-20",
     "last_checked_at": "2026-07-16T20:00:31.651Z",
-    "spotlight": true
+    "spotlight": false
   },
   {
     "asin": "B07F94GSBF",
@@ -11287,7 +11287,7 @@ const PRODUCTS = [
     },
     "affiliate_url": "https://www.amazon.com.br/Canon-EOS-Rebel-T100-Kit/dp/B07F94GSBF?ref=dlx_deals_dg_dcl_B07F94GSBF_dt_sl14_88_pi&pf_rd_r=RHJGD32YH0GDY60GJ2ER&pf_rd_p=a43a02c5-fe2d-4a34-af71-7d62fff70488&sbo=RZvfv%2F%2FHxDF%2BO5021pAnSA%3D%3D&tag=mixdm22-20",
     "last_checked_at": "2026-07-16T20:00:31.651Z",
-    "spotlight": true
+    "spotlight": false
   },
   {
     "asin": "B0DYVNRG3B",
@@ -11312,7 +11312,7 @@ const PRODUCTS = [
     },
     "affiliate_url": "https://www.amazon.com.br/Celular-Samsung-Galaxy-C%C3%A2mera-Recursos/dp/B0DYVNRG3B?ref=dlx_deals_dg_dcl_B0DYVNRG3B_dt_sl14_88_pi&pf_rd_r=RHJGD32YH0GDY60GJ2ER&pf_rd_p=a43a02c5-fe2d-4a34-af71-7d62fff70488&sbo=RZvfv%2F%2FHxDF%2BO5021pAnSA%3D%3D&tag=mixdm22-20",
     "last_checked_at": "2026-07-16T20:00:31.651Z",
-    "spotlight": true
+    "spotlight": false
   },
   {
     "asin": "B0GY4Y1PJF",
@@ -11336,7 +11336,7 @@ const PRODUCTS = [
     },
     "affiliate_url": "https://www.amazon.com.br/Mini-Mixer-Port%C3%A1til-Inoxid%C3%A1vel-Cappuccino/dp/B0GY4Y1PJF?ref=dlx_deals_dg_dcl_B0GY4Y1PJF_dt_sl14_88_pi&pf_rd_r=TSP02GC42CGH35V54Z0Z&pf_rd_p=a43a02c5-fe2d-4a34-af71-7d62fff70488&tag=mixdm22-20",
     "last_checked_at": "2026-07-16T20:00:31.651Z",
-    "spotlight": true
+    "spotlight": false
   },
   {
     "asin": "B0GWF53CRQ",
@@ -11361,7 +11361,7 @@ const PRODUCTS = [
     },
     "affiliate_url": "https://www.amazon.com.br/Barra-Magn%C3%A9tica-para-Facas-Ferramentas/dp/B0GWF53CRQ?ref=dlx_deals_dg_dcl_B0GWF53CRQ_dt_sl14_88_pi&pf_rd_r=TSP02GC42CGH35V54Z0Z&pf_rd_p=a43a02c5-fe2d-4a34-af71-7d62fff70488&tag=mixdm22-20",
     "last_checked_at": "2026-07-16T20:00:31.651Z",
-    "spotlight": true
+    "spotlight": false
   },
   {
     "asin": "B0GHZ6CC94",
@@ -11386,7 +11386,7 @@ const PRODUCTS = [
     },
     "affiliate_url": "https://www.amazon.com.br/Formas-Silicone-Reutiliz%C3%A1vel-Antiaderente-Resistente/dp/B0GHZ6CC94?ref=dlx_deals_dg_dcl_B0GHZ6CC94_dt_sl14_88_pi&pf_rd_r=TSP02GC42CGH35V54Z0Z&pf_rd_p=a43a02c5-fe2d-4a34-af71-7d62fff70488&tag=mixdm22-20",
     "last_checked_at": "2026-07-16T20:00:31.651Z",
-    "spotlight": true
+    "spotlight": false
   },
   {
     "asin": "B0GYG43824",
@@ -11411,7 +11411,7 @@ const PRODUCTS = [
     },
     "affiliate_url": "https://www.amazon.com.br/OSTER-Cafeteira-Espresso-Ocaf950-Prateado/dp/B0GYG43824?ref=dlx_deals_dg_dcl_B0GYG43824_dt_sl14_88_pi&pf_rd_r=TSP02GC42CGH35V54Z0Z&pf_rd_p=a43a02c5-fe2d-4a34-af71-7d62fff70488&tag=mixdm22-20",
     "last_checked_at": "2026-07-16T20:00:31.651Z",
-    "spotlight": true
+    "spotlight": false
   },
   {
     "asin": "B0FFYN2WZ1",
@@ -11435,7 +11435,7 @@ const PRODUCTS = [
     },
     "affiliate_url": "https://www.amazon.com.br/Garrafa-T%C3%A9rmica-Inoxid%C3%A1vel-Esportiva-Paracord/dp/B0FFYN2WZ1?ref=dlx_deals_dg_dcl_B0FFYN2WZ1_dt_sl14_88_pi&pf_rd_r=TSP02GC42CGH35V54Z0Z&pf_rd_p=a43a02c5-fe2d-4a34-af71-7d62fff70488&tag=mixdm22-20",
     "last_checked_at": "2026-07-16T20:00:31.651Z",
-    "spotlight": true
+    "spotlight": false
   },
   {
     "asin": "B0GXWNJP76",
@@ -11460,7 +11460,7 @@ const PRODUCTS = [
     },
     "affiliate_url": "https://www.amazon.com.br/GODREAM-Tabua-Petisqueira-Aperitivos-Completa/dp/B0GXWNJP76?ref=dlx_deals_dg_dcl_B0GXWNJP76_dt_sl14_88_pi&pf_rd_r=TSP02GC42CGH35V54Z0Z&pf_rd_p=a43a02c5-fe2d-4a34-af71-7d62fff70488&tag=mixdm22-20",
     "last_checked_at": "2026-07-16T20:00:31.651Z",
-    "spotlight": true
+    "spotlight": false
   },
   {
     "asin": "B07F45MVNP",
@@ -11485,7 +11485,7 @@ const PRODUCTS = [
     },
     "affiliate_url": "https://www.amazon.com.br/ORGANIZADOR-PARA-ARMARIO-PEQUENO-BRANCO/dp/B07F45MVNP?ref=dlx_deals_dg_dcl_B07F45MVNP_dt_sl14_88_pi&pf_rd_r=TSP02GC42CGH35V54Z0Z&pf_rd_p=a43a02c5-fe2d-4a34-af71-7d62fff70488&tag=mixdm22-20",
     "last_checked_at": "2026-07-16T20:00:31.650Z",
-    "spotlight": true
+    "spotlight": false
   },
   {
     "asin": "B0GQFJCZQN",
@@ -11509,7 +11509,7 @@ const PRODUCTS = [
     },
     "affiliate_url": "https://www.amazon.com.br/Garrafa-T%C3%A9rmica-Isolada-Bebidas-Quentes/dp/B0GQFJCZQN?ref=dlx_deals_dg_dcl_B0GQFJCZQN_dt_sl14_88_pi&pf_rd_r=TSP02GC42CGH35V54Z0Z&pf_rd_p=a43a02c5-fe2d-4a34-af71-7d62fff70488&tag=mixdm22-20",
     "last_checked_at": "2026-07-16T20:00:31.650Z",
-    "spotlight": true
+    "spotlight": false
   },
   {
     "asin": "B0C829HN1T",
@@ -11528,7 +11528,7 @@ const PRODUCTS = [
     "informacoes_produto": {},
     "affiliate_url": "https://www.amazon.com.br/Oikos-potes-herm%C3%A9tico-110ml-organizador/dp/B0C829HN1T?ref=dlx_deals_dg_dcl_B0C829HN1T_dt_sl14_88_pi&pf_rd_r=TSP02GC42CGH35V54Z0Z&pf_rd_p=a43a02c5-fe2d-4a34-af71-7d62fff70488&tag=mixdm22-20",
     "last_checked_at": "2026-07-16T20:00:31.650Z",
-    "spotlight": true
+    "spotlight": false
   },
   {
     "asin": "B08HVPXFDH",
@@ -11553,7 +11553,7 @@ const PRODUCTS = [
     },
     "affiliate_url": "https://www.amazon.com.br/Organizador-Arm%C3%A1rio-Cozinha-Prateleira-Aramado/dp/B08HVPXFDH?ref=dlx_deals_dg_dcl_B08HVPXFDH_dt_sl14_88_pi&pf_rd_r=TSP02GC42CGH35V54Z0Z&pf_rd_p=a43a02c5-fe2d-4a34-af71-7d62fff70488&tag=mixdm22-20",
     "last_checked_at": "2026-07-16T20:00:31.650Z",
-    "spotlight": true
+    "spotlight": false
   },
   {
     "asin": "B0D9PNCY3D",
@@ -11578,7 +11578,7 @@ const PRODUCTS = [
     },
     "affiliate_url": "https://www.amazon.com.br/Cafeteira-Philco-cafezinhos-Jarra-PCF40D/dp/B0D9PNCY3D?ref=dlx_deals_dg_dcl_B0D9PNCY3D_dt_sl14_88_pi&pf_rd_r=TSP02GC42CGH35V54Z0Z&pf_rd_p=a43a02c5-fe2d-4a34-af71-7d62fff70488&tag=mixdm22-20",
     "last_checked_at": "2026-07-16T20:00:31.650Z",
-    "spotlight": true
+    "spotlight": false
   },
   {
     "asin": "B0GK1Z61WD",
@@ -11603,7 +11603,7 @@ const PRODUCTS = [
     },
     "affiliate_url": "https://www.amazon.com.br/Filtro-para-V60-02-Gotejamento/dp/B0GK1Z61WD?ref=dlx_deals_dg_dcl_B0GK1Z61WD_dt_sl14_88_pi&pf_rd_r=TSP02GC42CGH35V54Z0Z&pf_rd_p=a43a02c5-fe2d-4a34-af71-7d62fff70488&sbo=RZvfv%2F%2FHxDF%2BO5021pAnSA%3D%3D&tag=mixdm22-20",
     "last_checked_at": "2026-07-16T20:00:31.650Z",
-    "spotlight": true
+    "spotlight": false
   },
   {
     "asin": "B084D26MWQ",
@@ -11628,7 +11628,7 @@ const PRODUCTS = [
     },
     "affiliate_url": "https://www.amazon.com.br/Oikos-Vidro-Tampa-Herm%C3%A9tico-Redondo/dp/B084D26MWQ?ref=dlx_deals_dg_dcl_B084D26MWQ_dt_sl14_88_pi&pf_rd_r=TSP02GC42CGH35V54Z0Z&pf_rd_p=a43a02c5-fe2d-4a34-af71-7d62fff70488&sbo=9ZOMT9Jm0JH%2Ft%2BWi68iDSA%3D%3D&tag=mixdm22-20",
     "last_checked_at": "2026-07-16T20:00:31.650Z",
-    "spotlight": true
+    "spotlight": false
   },
   {
     "asin": "B0GXLQF48S",
@@ -11653,7 +11653,7 @@ const PRODUCTS = [
     },
     "affiliate_url": "https://www.amazon.com.br/LUMAI-Passar-Port%C3%A1til-Dobr%C3%A1vel-Suporte/dp/B0GXLQF48S?ref=dlx_deals_dg_dcl_B0GXLQF48S_dt_sl14_88_pi&pf_rd_r=WFD9QZ6QXG84H1MPCN4R&pf_rd_p=a43a02c5-fe2d-4a34-af71-7d62fff70488&tag=mixdm22-20",
     "last_checked_at": "2026-07-16T20:00:31.650Z",
-    "spotlight": true
+    "spotlight": false
   },
   {
     "asin": "B0FQCPJTTK",
@@ -11678,7 +11678,7 @@ const PRODUCTS = [
     },
     "affiliate_url": "https://www.amazon.com.br/Toalhas-Buddemeyer-Penteado-Banho-Pe%C3%A7as/dp/B0FQCPJTTK?ref=dlx_deals_dg_dcl_B0FQCPJTTK_dt_sl14_88_pi&pf_rd_r=WFD9QZ6QXG84H1MPCN4R&pf_rd_p=a43a02c5-fe2d-4a34-af71-7d62fff70488&tag=mixdm22-20",
     "last_checked_at": "2026-07-16T20:00:31.650Z",
-    "spotlight": true
+    "spotlight": false
   },
   {
     "asin": "B0GTNNHZ15",
@@ -11703,7 +11703,7 @@ const PRODUCTS = [
     },
     "affiliate_url": "https://www.amazon.com.br/Lumin%C3%A1ria-Ch%C3%A3o-Moderna-Escrit%C3%B3rio-Dormit%C3%B3rio/dp/B0GTNNHZ15?ref=dlx_deals_dg_dcl_B0GTNNHZ15_dt_sl14_88_pi&pf_rd_r=WFD9QZ6QXG84H1MPCN4R&pf_rd_p=a43a02c5-fe2d-4a34-af71-7d62fff70488&tag=mixdm22-20",
     "last_checked_at": "2026-07-16T20:00:31.650Z",
-    "spotlight": true
+    "spotlight": false
   },
   {
     "asin": "B07HYDY71L",
@@ -11733,7 +11733,7 @@ const PRODUCTS = [
     },
     "affiliate_url": "https://www.amazon.com.br/Ortop%C3%A9dica-Certificada-BF-Colch%C3%B5es-138x188x17cm/dp/B07HYDY71L?ref=dlx_deals_dg_dcl_B07HYDY71L_dt_sl14_88_pi&pf_rd_r=WFD9QZ6QXG84H1MPCN4R&pf_rd_p=a43a02c5-fe2d-4a34-af71-7d62fff70488&tag=mixdm22-20",
     "last_checked_at": "2026-07-16T20:00:31.650Z",
-    "spotlight": true
+    "spotlight": false
   },
   {
     "asin": "B0GXGJDLJN",
@@ -11758,7 +11758,7 @@ const PRODUCTS = [
     },
     "affiliate_url": "https://www.amazon.com.br/Banqueta-Fiorella-Cozinha-Madeira-Sextavada/dp/B0GXGJDLJN?ref=dlx_deals_dg_dcl_B0GXGJDLJN_dt_sl14_88_pi&pf_rd_r=WFD9QZ6QXG84H1MPCN4R&pf_rd_p=a43a02c5-fe2d-4a34-af71-7d62fff70488&sbo=RZvfv%2F%2FHxDF%2BO5021pAnSA%3D%3D&tag=mixdm22-20",
     "last_checked_at": "2026-07-16T20:00:31.650Z",
-    "spotlight": true
+    "spotlight": false
   },
   {
     "asin": "B07FK9YDTY",
@@ -11777,7 +11777,7 @@ const PRODUCTS = [
     "informacoes_produto": {},
     "affiliate_url": "https://www.amazon.com.br/Carrinho-Mercotruck-Bombeiro-Merco-Toys/dp/B07FK9YDTY?ref=dlx_deals_dg_dcl_B07FK9YDTY_dt_sl14_88_pi&pf_rd_r=FYD6MG1105TZKF6GCYXZ&pf_rd_p=a43a02c5-fe2d-4a34-af71-7d62fff70488&tag=mixdm22-20",
     "last_checked_at": "2026-07-16T20:00:31.650Z",
-    "spotlight": true
+    "spotlight": false
   },
   {
     "asin": "B0FQMLKS8D",
@@ -11802,7 +11802,7 @@ const PRODUCTS = [
     },
     "affiliate_url": "https://www.amazon.com.br/Eletr%C3%B4nica-Tapo-DL100-Aplicativo-Compat%C3%ADvel/dp/B0FQMLKS8D?ref=dlx_deals_dg_dcl_B0FQMLKS8D_dt_sl14_88_pi&pf_rd_r=FYD6MG1105TZKF6GCYXZ&pf_rd_p=a43a02c5-fe2d-4a34-af71-7d62fff70488&tag=mixdm22-20",
     "last_checked_at": "2026-07-16T20:00:31.650Z",
-    "spotlight": true
+    "spotlight": false
   },
   {
     "asin": "B0DDLYGPMT",
@@ -11827,7 +11827,7 @@ const PRODUCTS = [
     },
     "affiliate_url": "https://www.amazon.com.br/PaperGames-PPG-J094-Schotten-Totten/dp/B0DDLYGPMT?ref=dlx_deals_dg_dcl_B0DDLYGPMT_dt_sl14_88_pi&pf_rd_r=FYD6MG1105TZKF6GCYXZ&pf_rd_p=a43a02c5-fe2d-4a34-af71-7d62fff70488&tag=mixdm22-20",
     "last_checked_at": "2026-07-16T20:00:31.650Z",
-    "spotlight": true
+    "spotlight": false
   },
   {
     "asin": "B07FLC4DGV",
@@ -11846,7 +11846,7 @@ const PRODUCTS = [
     "informacoes_produto": {},
     "affiliate_url": "https://www.amazon.com.br/Bate-Martelo-Bolinhas-Buba-Multicor/dp/B07FLC4DGV?ref=dlx_deals_dg_dcl_B07FLC4DGV_dt_sl14_88_pi&pf_rd_r=FYD6MG1105TZKF6GCYXZ&pf_rd_p=a43a02c5-fe2d-4a34-af71-7d62fff70488&tag=mixdm22-20",
     "last_checked_at": "2026-07-16T20:00:31.650Z",
-    "spotlight": true
+    "spotlight": false
   },
   {
     "asin": "B01MYQELF4",
@@ -11871,7 +11871,7 @@ const PRODUCTS = [
     },
     "affiliate_url": "https://www.amazon.com.br/linhas-metros-pontos-Bosch-Maleta/dp/B01MYQELF4?ref=dlx_deals_dg_dcl_B01MYQELF4_dt_sl14_88_pi&pf_rd_r=FYD6MG1105TZKF6GCYXZ&pf_rd_p=a43a02c5-fe2d-4a34-af71-7d62fff70488&tag=mixdm22-20",
     "last_checked_at": "2026-07-16T20:00:31.650Z",
-    "spotlight": true
+    "spotlight": false
   },
   {
     "asin": "B07PGFR4ZD",
@@ -11896,7 +11896,7 @@ const PRODUCTS = [
     },
     "affiliate_url": "https://www.amazon.com.br/Sleeves-MeepleBR-CHIMERA-57-5x89mm/dp/B07PGFR4ZD?ref=dlx_deals_dg_dcl_B07PGFR4ZD_dt_sl14_88_pi&pf_rd_r=FYD6MG1105TZKF6GCYXZ&pf_rd_p=a43a02c5-fe2d-4a34-af71-7d62fff70488&tag=mixdm22-20",
     "last_checked_at": "2026-07-16T20:00:31.650Z",
-    "spotlight": true
+    "spotlight": false
   },
   {
     "asin": "B09K92HL3H",
@@ -11915,7 +11915,7 @@ const PRODUCTS = [
     "informacoes_produto": {},
     "affiliate_url": "https://www.amazon.com.br/Triciclo-Velobaby-Passeio-Pedal-Bandeirante/dp/B09K92HL3H?ref=dlx_deals_dg_dcl_B09K92HL3H_dt_sl14_88_pi&pf_rd_r=FYD6MG1105TZKF6GCYXZ&pf_rd_p=a43a02c5-fe2d-4a34-af71-7d62fff70488&tag=mixdm22-20",
     "last_checked_at": "2026-07-16T20:00:31.650Z",
-    "spotlight": true
+    "spotlight": false
   },
   {
     "asin": "B0FB5VVVN7",
@@ -11934,7 +11934,7 @@ const PRODUCTS = [
     "informacoes_produto": {},
     "affiliate_url": "https://www.amazon.com.br/Principia-Anti-Acne-Limpeza-Se%CC%81rum-Protetor/dp/B0FB5VVVN7?ref=dlx_deals_dg_dcl_B0FB5VVVN7_dt_sl14_88_pi&pf_rd_r=FYD6MG1105TZKF6GCYXZ&pf_rd_p=a43a02c5-fe2d-4a34-af71-7d62fff70488&tag=mixdm22-20",
     "last_checked_at": "2026-07-16T20:00:31.650Z",
-    "spotlight": true
+    "spotlight": false
   },
   {
     "asin": "B0839MDLJG",
@@ -11959,7 +11959,7 @@ const PRODUCTS = [
     },
     "affiliate_url": "https://www.amazon.com.br/Teclado-Mec%C3%A2nico-Redragon-Avenger-K568-2/dp/B0839MDLJG?ref=dlx_deals_dg_dcl_B0839MDLJG_dt_sl14_88_pi&pf_rd_r=K55SE13BZERW1F09AK2S&pf_rd_p=a43a02c5-fe2d-4a34-af71-7d62fff70488&sbo=RZvfv%2F%2FHxDF%2BO5021pAnSA%3D%3D&tag=mixdm22-20",
     "last_checked_at": "2026-07-16T20:00:31.650Z",
-    "spotlight": true
+    "spotlight": false
   },
   {
     "asin": "B0GKV6V3J8",
@@ -11984,7 +11984,7 @@ const PRODUCTS = [
     },
     "affiliate_url": "https://www.amazon.com.br/PEJE-Smartwatch-smartwatch-Bluetooth-Compat%C3%ADvel/dp/B0GKV6V3J8?ref=dlx_deals_dg_dcl_B0GKV6V3J8_dt_sl14_88_pi&pf_rd_r=TDQXHYFGK7Z9C4R6FEEJ&pf_rd_p=a43a02c5-fe2d-4a34-af71-7d62fff70488&tag=mixdm22-20",
     "last_checked_at": "2026-07-16T20:00:31.650Z",
-    "spotlight": true
+    "spotlight": false
   },
   {
     "asin": "B0H27B5QCF",
@@ -12009,7 +12009,7 @@ const PRODUCTS = [
     },
     "affiliate_url": "https://www.amazon.com.br/Filtro-Linha-Tomadas-USB-USB-C/dp/B0H27B5QCF?ref=dlx_deals_dg_dcl_B0H27B5QCF_dt_sl14_88_pi&pf_rd_r=TDQXHYFGK7Z9C4R6FEEJ&pf_rd_p=a43a02c5-fe2d-4a34-af71-7d62fff70488&tag=mixdm22-20",
     "last_checked_at": "2026-07-16T20:00:31.650Z",
-    "spotlight": true
+    "spotlight": false
   },
   {
     "asin": "B0FPXFBDPM",
@@ -12034,7 +12034,7 @@ const PRODUCTS = [
     },
     "affiliate_url": "https://www.amazon.com.br/Basike-Bluetooth-Port%C3%A1til-Est%C3%A9reo-Resistente/dp/B0FPXFBDPM?ref=dlx_deals_dg_dcl_B0FPXFBDPM_dt_sl14_88_pi&pf_rd_r=TDQXHYFGK7Z9C4R6FEEJ&pf_rd_p=a43a02c5-fe2d-4a34-af71-7d62fff70488&tag=mixdm22-20",
     "last_checked_at": "2026-07-16T20:00:31.650Z",
-    "spotlight": true
+    "spotlight": false
   },
   {
     "asin": "B0GTXQVB62",
@@ -12059,7 +12059,7 @@ const PRODUCTS = [
     },
     "affiliate_url": "https://www.amazon.com.br/Kindle-Gera%C3%A7%C3%A3o-Polegadas-Sistema-Hiberna%C3%A7%C3%A3o/dp/B0GTXQVB62?ref=dlx_deals_dg_dcl_B0GTXQVB62_dt_sl14_88_pi&pf_rd_r=TDQXHYFGK7Z9C4R6FEEJ&pf_rd_p=a43a02c5-fe2d-4a34-af71-7d62fff70488&tag=mixdm22-20",
     "last_checked_at": "2026-07-16T20:00:31.650Z",
-    "spotlight": true
+    "spotlight": false
   },
   {
     "asin": "B000XSG300",
@@ -12084,7 +12084,7 @@ const PRODUCTS = [
     },
     "affiliate_url": "https://www.amazon.com.br/Pilha-Duracell-Recarreg%C3%A1vel-Aaa-unidades/dp/B000XSG300?ref=dlx_deals_dg_dcl_B000XSG300_dt_sl14_88_pi&pf_rd_r=TDQXHYFGK7Z9C4R6FEEJ&pf_rd_p=a43a02c5-fe2d-4a34-af71-7d62fff70488&sbo=RZvfv%2F%2FHxDF%2BO5021pAnSA%3D%3D&tag=mixdm22-20",
     "last_checked_at": "2026-07-16T20:00:31.650Z",
-    "spotlight": true
+    "spotlight": false
   },
   {
     "asin": "B07WMTTTMB",
@@ -12109,7 +12109,7 @@ const PRODUCTS = [
     },
     "affiliate_url": "https://www.amazon.com.br/LYOR-Conjunto-Guardanapo-Circle-Dourado/dp/B07WMTTTMB?ref=dlx_deals_dg_dcl_B07WMTTTMB_dt_sl14_88_pi&pf_rd_r=4XGHTP890PMJC1B1H75Q&pf_rd_p=a43a02c5-fe2d-4a34-af71-7d62fff70488&tag=mixdm22-20",
     "last_checked_at": "2026-07-16T20:00:31.650Z",
-    "spotlight": true
+    "spotlight": false
   },
   {
     "asin": "B0GR1QH743",
@@ -12134,7 +12134,7 @@ const PRODUCTS = [
     },
     "affiliate_url": "https://www.amazon.com.br/Suporte-Papel-Toalha-Premium-Acabamento/dp/B0GR1QH743?ref=dlx_deals_dg_dcl_B0GR1QH743_dt_sl14_88_pi&pf_rd_r=4XGHTP890PMJC1B1H75Q&pf_rd_p=a43a02c5-fe2d-4a34-af71-7d62fff70488&tag=mixdm22-20",
     "last_checked_at": "2026-07-16T20:00:31.650Z",
-    "spotlight": true
+    "spotlight": false
   },
   {
     "asin": "B0F7Z927GL",
@@ -12159,7 +12159,7 @@ const PRODUCTS = [
     },
     "affiliate_url": "https://www.amazon.com.br/Pratos-Sobremesa-Duralex-Temperado-Buritis/dp/B0F7Z927GL?ref=dlx_deals_dg_dcl_B0F7Z927GL_dt_sl14_88_pi&pf_rd_r=4XGHTP890PMJC1B1H75Q&pf_rd_p=a43a02c5-fe2d-4a34-af71-7d62fff70488&tag=mixdm22-20",
     "last_checked_at": "2026-07-16T20:00:31.649Z",
-    "spotlight": true
+    "spotlight": false
   },
   {
     "asin": "B0GGCCYP57",
@@ -12183,7 +12183,7 @@ const PRODUCTS = [
     },
     "affiliate_url": "https://www.amazon.com.br/T%C3%A9rmico-Cerveja-473ml-Parede-Abridor/dp/B0GGCCYP57?ref=dlx_deals_dg_dcl_B0GGCCYP57_dt_sl14_88_pi&pf_rd_r=4XGHTP890PMJC1B1H75Q&pf_rd_p=a43a02c5-fe2d-4a34-af71-7d62fff70488&tag=mixdm22-20",
     "last_checked_at": "2026-07-16T20:00:31.649Z",
-    "spotlight": true
+    "spotlight": false
   },
   {
     "asin": "B0FYR9FJP2",
@@ -12208,7 +12208,7 @@ const PRODUCTS = [
     },
     "affiliate_url": "https://www.amazon.com.br/Grade-Resfriamento-Carbono-Preta-40x25cm/dp/B0FYR9FJP2?ref=dlx_deals_dg_dcl_B0FYR9FJP2_dt_sl14_88_pi&pf_rd_r=4XGHTP890PMJC1B1H75Q&pf_rd_p=a43a02c5-fe2d-4a34-af71-7d62fff70488&tag=mixdm22-20",
     "last_checked_at": "2026-07-16T20:00:31.649Z",
-    "spotlight": true
+    "spotlight": false
   },
   {
     "asin": "B0H2JXM12J",
@@ -12227,7 +12227,7 @@ const PRODUCTS = [
     "informacoes_produto": {},
     "affiliate_url": "https://www.amazon.com.br/Balan%C3%A7a-Digital-Cozinha-Precis%C3%A3o-Display/dp/B0H2JXM12J?ref=dlx_deals_dg_dcl_B0H2JXM12J_dt_sl14_88_pi&pf_rd_r=4XGHTP890PMJC1B1H75Q&pf_rd_p=a43a02c5-fe2d-4a34-af71-7d62fff70488&tag=mixdm22-20",
     "last_checked_at": "2026-07-16T20:00:31.649Z",
-    "spotlight": true
+    "spotlight": false
   },
   {
     "asin": "B0GY7KTKHP",
@@ -12251,7 +12251,7 @@ const PRODUCTS = [
     },
     "affiliate_url": "https://www.amazon.com.br/Garrafa-T%C3%A9rmica-Estampa-Relieve-Tropical/dp/B0GY7KTKHP?ref=dlx_deals_dg_dcl_B0GY7KTKHP_dt_sl14_88_pi&pf_rd_r=4XGHTP890PMJC1B1H75Q&pf_rd_p=a43a02c5-fe2d-4a34-af71-7d62fff70488&tag=mixdm22-20",
     "last_checked_at": "2026-07-16T20:00:31.649Z",
-    "spotlight": true
+    "spotlight": false
   },
   {
     "asin": "B0H2BZSKTX",
@@ -12276,7 +12276,7 @@ const PRODUCTS = [
     },
     "affiliate_url": "https://www.amazon.com.br/Porta-Tempero-Girat%C3%B3rio-Inox-Pe%C3%A7as/dp/B0H2BZSKTX?ref=dlx_deals_dg_dcl_B0H2BZSKTX_dt_sl14_88_pi&pf_rd_r=4XGHTP890PMJC1B1H75Q&pf_rd_p=a43a02c5-fe2d-4a34-af71-7d62fff70488&tag=mixdm22-20",
     "last_checked_at": "2026-07-16T20:00:31.649Z",
-    "spotlight": true
+    "spotlight": false
   },
   {
     "asin": "B0G38JLPMF",
@@ -12301,7 +12301,7 @@ const PRODUCTS = [
     },
     "affiliate_url": "https://www.amazon.com.br/Inoxid%C3%A1vel-Antibacteriana-Adequada-Prote%C3%A7%C3%A3o-Respingos/dp/B0G38JLPMF?ref=dlx_deals_dg_dcl_B0G38JLPMF_dt_sl14_88_pi&pf_rd_r=4XGHTP890PMJC1B1H75Q&pf_rd_p=a43a02c5-fe2d-4a34-af71-7d62fff70488&tag=mixdm22-20",
     "last_checked_at": "2026-07-16T20:00:31.649Z",
-    "spotlight": true
+    "spotlight": false
   },
   {
     "asin": "B077J7N2M7",
@@ -12326,7 +12326,7 @@ const PRODUCTS = [
     },
     "affiliate_url": "https://www.amazon.com.br/Bebedouro-Compact-Garraf%C3%A3o-IBBL-12182-16-1/dp/B077J7N2M7?ref=dlx_deals_dg_dcl_B077J7N2M7_dt_sl14_88_pi&pf_rd_r=4XGHTP890PMJC1B1H75Q&pf_rd_p=a43a02c5-fe2d-4a34-af71-7d62fff70488&tag=mixdm22-20",
     "last_checked_at": "2026-07-16T20:00:31.649Z",
-    "spotlight": true
+    "spotlight": false
   },
   {
     "asin": "B0GX6WPN49",
@@ -12351,7 +12351,7 @@ const PRODUCTS = [
     },
     "affiliate_url": "https://www.amazon.com.br/Conjunto-Panelas-Ca%C3%A7arola-Pequena-Antiaderente/dp/B0GX6WPN49?ref=dlx_deals_dg_dcl_B0GX6WPN49_dt_sl14_88_pi&pf_rd_r=4XGHTP890PMJC1B1H75Q&pf_rd_p=a43a02c5-fe2d-4a34-af71-7d62fff70488&tag=mixdm22-20",
     "last_checked_at": "2026-07-16T20:00:31.649Z",
-    "spotlight": true
+    "spotlight": false
   },
   {
     "asin": "B0GTLK4GXG",
@@ -12376,7 +12376,7 @@ const PRODUCTS = [
     },
     "affiliate_url": "https://www.amazon.com.br/Garrafa-T%C3%A9rmica-750ml-Isolamento-Emborrachada/dp/B0GTLK4GXG?ref=dlx_deals_dg_dcl_B0GTLK4GXG_dt_sl14_88_pi&pf_rd_r=4XGHTP890PMJC1B1H75Q&pf_rd_p=a43a02c5-fe2d-4a34-af71-7d62fff70488&tag=mixdm22-20",
     "last_checked_at": "2026-07-16T20:00:31.649Z",
-    "spotlight": true
+    "spotlight": false
   },
   {
     "asin": "B0GSC2Z961",
@@ -12401,7 +12401,7 @@ const PRODUCTS = [
     },
     "affiliate_url": "https://www.amazon.com.br/Organizadora-Transparente-Cobertores-Brinquedos-Poli%C3%A9ster/dp/B0GSC2Z961?ref=dlx_deals_dg_dcl_B0GSC2Z961_dt_sl14_88_pi&pf_rd_r=8QKX6QNCY8C5A6N55SXV&pf_rd_p=a43a02c5-fe2d-4a34-af71-7d62fff70488&tag=mixdm22-20",
     "last_checked_at": "2026-07-16T20:00:31.649Z",
-    "spotlight": true
+    "spotlight": false
   },
   {
     "asin": "B0BVNZZ27H",
@@ -12426,7 +12426,7 @@ const PRODUCTS = [
     },
     "affiliate_url": "https://www.amazon.com.br/LUMAI-Suporte-Parede-Cozinha-Ganchos/dp/B0BVNZZ27H?ref=dlx_deals_dg_dcl_B0BVNZZ27H_dt_sl14_88_pi&pf_rd_r=8QKX6QNCY8C5A6N55SXV&pf_rd_p=a43a02c5-fe2d-4a34-af71-7d62fff70488&tag=mixdm22-20",
     "last_checked_at": "2026-07-16T20:00:31.649Z",
-    "spotlight": true
+    "spotlight": false
   },
   {
     "asin": "B07QQ3DWPZ",
@@ -12451,7 +12451,7 @@ const PRODUCTS = [
     },
     "affiliate_url": "https://www.amazon.com.br/WOLFF-26763-CASTI%C3%87AL-VIDRO-8x16cm/dp/B07QQ3DWPZ?ref=dlx_deals_dg_dcl_B07QQ3DWPZ_dt_sl14_88_pi&pf_rd_r=8QKX6QNCY8C5A6N55SXV&pf_rd_p=a43a02c5-fe2d-4a34-af71-7d62fff70488&tag=mixdm22-20",
     "last_checked_at": "2026-07-16T20:00:31.649Z",
-    "spotlight": true
+    "spotlight": false
   },
   {
     "asin": "B0H12RZX9C",
@@ -12476,7 +12476,7 @@ const PRODUCTS = [
     },
     "affiliate_url": "https://www.amazon.com.br/Multiuso-Absorvente-Automotiva-Dom%C3%A9stico-Reutiliz%C3%A1vel/dp/B0H12RZX9C?ref=dlx_deals_dg_dcl_B0H12RZX9C_dt_sl14_88_pi&pf_rd_r=8QKX6QNCY8C5A6N55SXV&pf_rd_p=a43a02c5-fe2d-4a34-af71-7d62fff70488&tag=mixdm22-20",
     "last_checked_at": "2026-07-16T20:00:31.649Z",
-    "spotlight": true
+    "spotlight": false
   },
   {
     "asin": "B081DK89PF",
@@ -12501,7 +12501,7 @@ const PRODUCTS = [
     },
     "affiliate_url": "https://www.amazon.com.br/Ar-Condicionado-Inverter-Gree-G-Prime-Monof%C3%A1sico/dp/B081DK89PF?ref=dlx_deals_dg_dcl_B081DK89PF_dt_sl14_88_pi&pf_rd_r=8QKX6QNCY8C5A6N55SXV&pf_rd_p=a43a02c5-fe2d-4a34-af71-7d62fff70488&tag=mixdm22-20",
     "last_checked_at": "2026-07-16T20:00:31.649Z",
-    "spotlight": true
+    "spotlight": false
   },
   {
     "asin": "B0CK2PPS6J",
@@ -12526,7 +12526,7 @@ const PRODUCTS = [
     },
     "affiliate_url": "https://www.amazon.com.br/Conjunto-Jantar-Paris-Cadeiras-Carraro/dp/B0CK2PPS6J?ref=dlx_deals_dg_dcl_B0CK2PPS6J_dt_sl14_88_pi&pf_rd_r=8QKX6QNCY8C5A6N55SXV&pf_rd_p=a43a02c5-fe2d-4a34-af71-7d62fff70488&tag=mixdm22-20",
     "last_checked_at": "2026-07-16T20:00:31.649Z",
-    "spotlight": true
+    "spotlight": false
   },
   {
     "asin": "B0C3TSL4Y9",
@@ -12551,7 +12551,7 @@ const PRODUCTS = [
     },
     "affiliate_url": "https://www.amazon.com.br/SONGMICS-resistente-extens%C3%ADvel-capacidade-UHSR13SV1/dp/B0C3TSL4Y9?ref=dlx_deals_dg_dcl_B0C3TSL4Y9_dt_sl14_88_pi&pf_rd_r=8QKX6QNCY8C5A6N55SXV&pf_rd_p=a43a02c5-fe2d-4a34-af71-7d62fff70488&tag=mixdm22-20",
     "last_checked_at": "2026-07-16T20:00:31.649Z",
-    "spotlight": true
+    "spotlight": false
   },
   {
     "asin": "B0GWMMR6YF",
@@ -12576,7 +12576,7 @@ const PRODUCTS = [
     },
     "affiliate_url": "https://www.amazon.com.br/Girat%C3%B3rio-Centr%C3%ADfuga-Esfreg%C3%A3o-Microfibra-Porcelanato/dp/B0GWMMR6YF?ref=dlx_deals_dg_dcl_B0GWMMR6YF_dt_sl14_88_pi&pf_rd_r=8QKX6QNCY8C5A6N55SXV&pf_rd_p=a43a02c5-fe2d-4a34-af71-7d62fff70488&tag=mixdm22-20",
     "last_checked_at": "2026-07-16T20:00:31.649Z",
-    "spotlight": true
+    "spotlight": false
   },
   {
     "asin": "B0DQ6FK5HJ",
@@ -12601,7 +12601,7 @@ const PRODUCTS = [
     },
     "affiliate_url": "https://www.amazon.com.br/LYOR-Porta-Retrato-Austin-10cm-15cm/dp/B0DQ6FK5HJ?ref=dlx_deals_dg_dcl_B0DQ6FK5HJ_dt_sl14_88_pi&pf_rd_r=8QKX6QNCY8C5A6N55SXV&pf_rd_p=a43a02c5-fe2d-4a34-af71-7d62fff70488&tag=mixdm22-20",
     "last_checked_at": "2026-07-16T20:00:31.649Z",
-    "spotlight": true
+    "spotlight": false
   },
   {
     "asin": "B0CVZ661SW",
@@ -12626,7 +12626,7 @@ const PRODUCTS = [
     },
     "affiliate_url": "https://www.amazon.com.br/Condicionado-Inverter-Elgin-Monof%C3%A1sico-45PDFI60C2DA/dp/B0CVZ661SW?ref=dlx_deals_dg_dcl_B0CVZ661SW_dt_sl14_88_pi&pf_rd_r=8QKX6QNCY8C5A6N55SXV&pf_rd_p=a43a02c5-fe2d-4a34-af71-7d62fff70488&tag=mixdm22-20",
     "last_checked_at": "2026-07-16T20:00:31.649Z",
-    "spotlight": true
+    "spotlight": false
   },
   {
     "asin": "B096T42F6P",
@@ -12655,7 +12655,7 @@ const PRODUCTS = [
     },
     "affiliate_url": "https://www.amazon.com.br/Ninho-Redutor-Ber%C3%A7o-para-Beb%C3%AA/dp/B096T42F6P?ref=dlx_deals_dg_dcl_B096T42F6P_dt_sl14_88_pi&pf_rd_r=8QKX6QNCY8C5A6N55SXV&pf_rd_p=a43a02c5-fe2d-4a34-af71-7d62fff70488&tag=mixdm22-20",
     "last_checked_at": "2026-07-16T20:00:31.649Z",
-    "spotlight": true
+    "spotlight": false
   },
   {
     "asin": "B0C1CDGDQZ",
@@ -12680,7 +12680,7 @@ const PRODUCTS = [
     },
     "affiliate_url": "https://www.amazon.com.br/Produto-Limpeza-Interna-Externa-Pl%C3%A1sticos/dp/B0C1CDGDQZ?ref=dlx_deals_dg_dcl_B0C1CDGDQZ_dt_sl14_88_pi&pf_rd_r=8QKX6QNCY8C5A6N55SXV&pf_rd_p=a43a02c5-fe2d-4a34-af71-7d62fff70488&tag=mixdm22-20",
     "last_checked_at": "2026-07-16T20:00:31.649Z",
-    "spotlight": true
+    "spotlight": false
   },
   {
     "asin": "B0FC6Z158Q",
@@ -12705,7 +12705,7 @@ const PRODUCTS = [
     },
     "affiliate_url": "https://www.amazon.com.br/WOLFF-Porta-Sabonete-L%C3%ADquido-Mosaic/dp/B0FC6Z158Q?ref=dlx_deals_dg_dcl_B0FC6Z158Q_dt_sl14_88_pi&pf_rd_r=8QKX6QNCY8C5A6N55SXV&pf_rd_p=a43a02c5-fe2d-4a34-af71-7d62fff70488&tag=mixdm22-20",
     "last_checked_at": "2026-07-16T20:00:31.649Z",
-    "spotlight": true
+    "spotlight": false
   },
   {
     "asin": "B09GHR7SHL",
@@ -12730,7 +12730,7 @@ const PRODUCTS = [
     },
     "affiliate_url": "https://www.amazon.com.br/C%C3%B4moda-Dit%C3%A1lia-Gavetas-Dm-229-Branco/dp/B09GHR7SHL?ref=dlx_deals_dg_dcl_B09GHR7SHL_dt_sl14_88_pi&pf_rd_r=8QKX6QNCY8C5A6N55SXV&pf_rd_p=a43a02c5-fe2d-4a34-af71-7d62fff70488&tag=mixdm22-20",
     "last_checked_at": "2026-07-16T20:00:31.649Z",
-    "spotlight": true
+    "spotlight": false
   },
   {
     "asin": "B0DQVS9FGH",
@@ -12755,7 +12755,7 @@ const PRODUCTS = [
     },
     "affiliate_url": "https://www.amazon.com.br/unidades-Antideslizante-Refor%C3%A7ado-Camisetas-CSCABIDES/dp/B0DQVS9FGH?ref=dlx_deals_dg_dcl_B0DQVS9FGH_dt_sl14_88_pi&pf_rd_r=8QKX6QNCY8C5A6N55SXV&pf_rd_p=a43a02c5-fe2d-4a34-af71-7d62fff70488&tag=mixdm22-20",
     "last_checked_at": "2026-07-16T20:00:31.649Z",
-    "spotlight": true
+    "spotlight": false
   },
   {
     "asin": "B0CKRNW4HD",
@@ -12780,7 +12780,7 @@ const PRODUCTS = [
     },
     "affiliate_url": "https://www.amazon.com.br/Ganchos-Adesivo-Refor%C3%A7ado-Multiuso-Banheiro/dp/B0CKRNW4HD?ref=dlx_deals_dg_dcl_B0CKRNW4HD_dt_sl14_88_pi&pf_rd_r=8QKX6QNCY8C5A6N55SXV&pf_rd_p=a43a02c5-fe2d-4a34-af71-7d62fff70488&tag=mixdm22-20",
     "last_checked_at": "2026-07-16T20:00:31.649Z",
-    "spotlight": true
+    "spotlight": false
   },
   {
     "asin": "B0DZPBQJR1",
@@ -12805,7 +12805,7 @@ const PRODUCTS = [
     },
     "affiliate_url": "https://www.amazon.com.br/LYOR-Porta-Retrato-20cm-Branco/dp/B0DZPBQJR1?ref=dlx_deals_dg_dcl_B0DZPBQJR1_dt_sl14_88_pi&pf_rd_r=8QKX6QNCY8C5A6N55SXV&pf_rd_p=a43a02c5-fe2d-4a34-af71-7d62fff70488&tag=mixdm22-20",
     "last_checked_at": "2026-07-16T20:00:31.648Z",
-    "spotlight": true
+    "spotlight": false
   },
   {
     "asin": "B0GLKCKVW9",
@@ -12830,7 +12830,7 @@ const PRODUCTS = [
     },
     "affiliate_url": "https://www.amazon.com.br/Percarbonato-Manchas-Brancas-Coloridas-Azulejos/dp/B0GLKCKVW9?ref=dlx_deals_dg_dcl_B0GLKCKVW9_dt_sl14_88_pi&pf_rd_r=8QKX6QNCY8C5A6N55SXV&pf_rd_p=a43a02c5-fe2d-4a34-af71-7d62fff70488&tag=mixdm22-20",
     "last_checked_at": "2026-07-16T20:00:31.648Z",
-    "spotlight": true
+    "spotlight": false
   },
   {
     "asin": "B0DLQ8TRGP",
@@ -12853,7 +12853,7 @@ const PRODUCTS = [
     },
     "affiliate_url": "https://www.amazon.com.br/Desinfetante-Frutas-Verduras-Legumes-Utilis/dp/B0DLQ8TRGP?ref=dlx_deals_dg_dcl_B0DLQ8TRGP_dt_sl14_88_pi&pf_rd_r=8QKX6QNCY8C5A6N55SXV&pf_rd_p=a43a02c5-fe2d-4a34-af71-7d62fff70488&tag=mixdm22-20",
     "last_checked_at": "2026-07-16T20:00:31.648Z",
-    "spotlight": true
+    "spotlight": false
   },
   {
     "asin": "B0BVBYRJXS",
@@ -12878,7 +12878,7 @@ const PRODUCTS = [
     },
     "affiliate_url": "https://www.amazon.com.br/Porta-Chave-Dupla-Instala%C3%A7%C3%A3o-LUMAI/dp/B0BVBYRJXS?ref=dlx_deals_dg_dcl_B0BVBYRJXS_dt_sl14_88_pi&pf_rd_r=8QKX6QNCY8C5A6N55SXV&pf_rd_p=a43a02c5-fe2d-4a34-af71-7d62fff70488&tag=mixdm22-20",
     "last_checked_at": "2026-07-16T20:00:31.648Z",
-    "spotlight": true
+    "spotlight": false
   },
   {
     "asin": "B0D9PWCH94",
@@ -12903,7 +12903,7 @@ const PRODUCTS = [
     },
     "affiliate_url": "https://www.amazon.com.br/Conjunto-Acess%C3%B3rios-Banheiro-Inoxid%C3%A1vel-Prata/dp/B0D9PWCH94?ref=dlx_deals_dg_dcl_B0D9PWCH94_dt_sl14_88_pi&pf_rd_r=8QKX6QNCY8C5A6N55SXV&pf_rd_p=a43a02c5-fe2d-4a34-af71-7d62fff70488&tag=mixdm22-20",
     "last_checked_at": "2026-07-16T20:00:31.648Z",
-    "spotlight": true
+    "spotlight": false
   },
   {
     "asin": "B097B2TDF1",
@@ -12928,7 +12928,7 @@ const PRODUCTS = [
     },
     "affiliate_url": "https://www.amazon.com.br/Lyor-Cora%C3%A7%C3%A3o-Colher-Cristal-Transparente/dp/B097B2TDF1?ref=dlx_deals_dg_dcl_B097B2TDF1_dt_sl14_88_pi&pf_rd_r=8QKX6QNCY8C5A6N55SXV&pf_rd_p=a43a02c5-fe2d-4a34-af71-7d62fff70488&tag=mixdm22-20",
     "last_checked_at": "2026-07-16T20:00:31.648Z",
-    "spotlight": true
+    "spotlight": false
   },
   {
     "asin": "B0DZR7W1GC",
@@ -12953,7 +12953,7 @@ const PRODUCTS = [
     },
     "affiliate_url": "https://www.amazon.com.br/Percarbonato-S%C3%B3dio-Limpeza-Profunda-Balde/dp/B0DZR7W1GC?ref=dlx_deals_dg_dcl_B0DZR7W1GC_dt_sl14_88_pi&pf_rd_r=8QKX6QNCY8C5A6N55SXV&pf_rd_p=a43a02c5-fe2d-4a34-af71-7d62fff70488&tag=mixdm22-20",
     "last_checked_at": "2026-07-16T20:00:31.648Z",
-    "spotlight": true
+    "spotlight": false
   },
   {
     "asin": "B0D47KX74N",
@@ -12972,7 +12972,7 @@ const PRODUCTS = [
     "informacoes_produto": {},
     "affiliate_url": "https://www.amazon.com.br/Produto-Limpar-Seguran%C3%A7a-Sintra-Vonixx/dp/B0D47KX74N?ref=dlx_deals_dg_dcl_B0D47KX74N_dt_sl14_88_pi&pf_rd_r=8QKX6QNCY8C5A6N55SXV&pf_rd_p=a43a02c5-fe2d-4a34-af71-7d62fff70488&tag=mixdm22-20",
     "last_checked_at": "2026-07-16T20:00:31.648Z",
-    "spotlight": true
+    "spotlight": false
   },
   {
     "asin": "B005QBGPSE",
@@ -12991,7 +12991,7 @@ const PRODUCTS = [
     "informacoes_produto": {},
     "affiliate_url": "https://www.amazon.com.br/Pulverizador-Passe-Bem-500-ml/dp/B005QBGPSE?ref=dlx_deals_dg_dcl_B005QBGPSE_dt_sl14_88_pi&pf_rd_r=8QKX6QNCY8C5A6N55SXV&pf_rd_p=a43a02c5-fe2d-4a34-af71-7d62fff70488&tag=mixdm22-20",
     "last_checked_at": "2026-07-16T20:00:31.648Z",
-    "spotlight": true
+    "spotlight": false
   },
   {
     "asin": "B0GJ7LNWMF",
@@ -13016,7 +13016,7 @@ const PRODUCTS = [
     },
     "affiliate_url": "https://www.amazon.com.br/Atoalhado-Cozinha-Felpudo-Premium-Gourmet/dp/B0GJ7LNWMF?ref=dlx_deals_dg_dcl_B0GJ7LNWMF_dt_sl14_88_pi&pf_rd_r=8QKX6QNCY8C5A6N55SXV&pf_rd_p=a43a02c5-fe2d-4a34-af71-7d62fff70488&tag=mixdm22-20",
     "last_checked_at": "2026-07-16T20:00:31.648Z",
-    "spotlight": true
+    "spotlight": false
   },
   {
     "asin": "B0DR3BMP57",
@@ -13041,7 +13041,7 @@ const PRODUCTS = [
     },
     "affiliate_url": "https://www.amazon.com.br/Infantil-Antideslizante-Refor%C3%A7ado-Camisetas-CSCABIDES/dp/B0DR3BMP57?ref=dlx_deals_dg_dcl_B0DR3BMP57_dt_sl14_88_pi&pf_rd_r=8QKX6QNCY8C5A6N55SXV&pf_rd_p=a43a02c5-fe2d-4a34-af71-7d62fff70488&tag=mixdm22-20",
     "last_checked_at": "2026-07-16T20:00:31.648Z",
-    "spotlight": true
+    "spotlight": false
   },
   {
     "asin": "B0GVFZHKLZ",
@@ -13066,7 +13066,7 @@ const PRODUCTS = [
     },
     "affiliate_url": "https://www.amazon.com.br/Bisbel-Painel-Autocolante-Adesivo-Tijolinho/dp/B0GVFZHKLZ?ref=dlx_deals_dg_dcl_B0GVFZHKLZ_dt_sl14_88_pi&pf_rd_r=8QKX6QNCY8C5A6N55SXV&pf_rd_p=a43a02c5-fe2d-4a34-af71-7d62fff70488&tag=mixdm22-20",
     "last_checked_at": "2026-07-16T20:00:31.648Z",
-    "spotlight": true
+    "spotlight": false
   },
   {
     "asin": "B0779NJH7F",
@@ -13091,7 +13091,7 @@ const PRODUCTS = [
     },
     "affiliate_url": "https://www.amazon.com.br/Microfibra-Vidros-Flash-Limp-Cinza/dp/B0779NJH7F?ref=dlx_deals_dg_dcl_B0779NJH7F_dt_sl14_88_pi&pf_rd_r=8QKX6QNCY8C5A6N55SXV&pf_rd_p=a43a02c5-fe2d-4a34-af71-7d62fff70488&tag=mixdm22-20",
     "last_checked_at": "2026-07-16T20:00:31.648Z",
-    "spotlight": true
+    "spotlight": false
   },
   {
     "asin": "B07Y38XDFT",
@@ -13116,7 +13116,7 @@ const PRODUCTS = [
     },
     "affiliate_url": "https://www.amazon.com.br/Air-Wick-Romance-Purificador-Freshmatic/dp/B07Y38XDFT?ref=dlx_deals_dg_dcl_B07Y38XDFT_dt_sl14_88_pi&pf_rd_r=8QKX6QNCY8C5A6N55SXV&pf_rd_p=a43a02c5-fe2d-4a34-af71-7d62fff70488&tag=mixdm22-20",
     "last_checked_at": "2026-07-16T20:00:31.648Z",
-    "spotlight": true
+    "spotlight": false
   },
   {
     "asin": "B0FDP1YJX8",
@@ -13141,7 +13141,7 @@ const PRODUCTS = [
     },
     "affiliate_url": "https://www.amazon.com.br/LUMAI-Inoxid%C3%A1vel-Cabideiro-Acess%C3%B3rios-Banheiro/dp/B0FDP1YJX8?ref=dlx_deals_dg_dcl_B0FDP1YJX8_dt_sl14_88_pi&pf_rd_r=8QKX6QNCY8C5A6N55SXV&pf_rd_p=a43a02c5-fe2d-4a34-af71-7d62fff70488&tag=mixdm22-20",
     "last_checked_at": "2026-07-16T20:00:31.648Z",
-    "spotlight": true
+    "spotlight": false
   },
   {
     "asin": "B09L56PG92",
@@ -13166,7 +13166,7 @@ const PRODUCTS = [
     },
     "affiliate_url": "https://www.amazon.com.br/Fibra-Siliconada-Antial%C3%A9rgica-Macia-Enchimento/dp/B09L56PG92?ref=dlx_deals_dg_dcl_B09L56PG92_dt_sl14_88_pi&pf_rd_r=8QKX6QNCY8C5A6N55SXV&pf_rd_p=a43a02c5-fe2d-4a34-af71-7d62fff70488&tag=mixdm22-20",
     "last_checked_at": "2026-07-16T20:00:31.648Z",
-    "spotlight": true
+    "spotlight": false
   },
   {
     "asin": "B0GXGKBBDY",
@@ -13191,7 +13191,7 @@ const PRODUCTS = [
     },
     "affiliate_url": "https://www.amazon.com.br/Banqueta-Fiorella-Cozinha-Sextavada-Cour%C3%ADssimo/dp/B0GXGKBBDY?ref=dlx_deals_dg_dcl_B0GXGKBBDY_dt_sl14_88_pi&pf_rd_r=8QKX6QNCY8C5A6N55SXV&pf_rd_p=a43a02c5-fe2d-4a34-af71-7d62fff70488&tag=mixdm22-20",
     "last_checked_at": "2026-07-16T20:00:31.648Z",
-    "spotlight": true
+    "spotlight": false
   },
   {
     "asin": "B0CQP6XJC7",
@@ -13210,7 +13210,7 @@ const PRODUCTS = [
     "informacoes_produto": {},
     "affiliate_url": "https://www.amazon.com.br/Sylvanian-Families-5741-Treliche/dp/B0CQP6XJC7?ref=dlx_deals_dg_dcl_B0CQP6XJC7_dt_sl14_88_pi&pf_rd_r=8QKX6QNCY8C5A6N55SXV&pf_rd_p=a43a02c5-fe2d-4a34-af71-7d62fff70488&tag=mixdm22-20",
     "last_checked_at": "2026-07-16T20:00:31.648Z",
-    "spotlight": true
+    "spotlight": false
   },
   {
     "asin": "B0FHK7YHVW",
@@ -13235,7 +13235,7 @@ const PRODUCTS = [
     },
     "affiliate_url": "https://www.amazon.com.br/Pano-Descart%C3%A1vel-Multiuso-Perfex-Unidades/dp/B0FHK7YHVW?ref=dlx_deals_dg_dcl_B0FHK7YHVW_dt_sl14_88_pi&pf_rd_r=8QKX6QNCY8C5A6N55SXV&pf_rd_p=a43a02c5-fe2d-4a34-af71-7d62fff70488&tag=mixdm22-20",
     "last_checked_at": "2026-07-16T20:00:31.647Z",
-    "spotlight": true
+    "spotlight": false
   },
   {
     "asin": "B0D3RY35H7",
@@ -13260,7 +13260,7 @@ const PRODUCTS = [
     },
     "affiliate_url": "https://www.amazon.com.br/Delet-Limpador-Pneus-Borrachas-Vonixx/dp/B0D3RY35H7?ref=dlx_deals_dg_dcl_B0D3RY35H7_dt_sl14_88_pi&pf_rd_r=8QKX6QNCY8C5A6N55SXV&pf_rd_p=a43a02c5-fe2d-4a34-af71-7d62fff70488&tag=mixdm22-20",
     "last_checked_at": "2026-07-16T20:00:31.647Z",
-    "spotlight": true
+    "spotlight": false
   },
   {
     "asin": "B07NQTJR3M",
@@ -13285,7 +13285,7 @@ const PRODUCTS = [
     },
     "affiliate_url": "https://www.amazon.com.br/Tritec-3827-CADEIRA-EDUCATIVA-CAIXA/dp/B07NQTJR3M?ref=dlx_deals_dg_dcl_B07NQTJR3M_dt_sl14_88_pi&pf_rd_r=8QKX6QNCY8C5A6N55SXV&pf_rd_p=a43a02c5-fe2d-4a34-af71-7d62fff70488&tag=mixdm22-20",
     "last_checked_at": "2026-07-16T20:00:31.647Z",
-    "spotlight": true
+    "spotlight": false
   },
   {
     "asin": "B0BTW63QWJ",
@@ -13309,7 +13309,7 @@ const PRODUCTS = [
     },
     "affiliate_url": "https://www.amazon.com.br/Suporte-Utensilios-Cozinha-Ganchos-Instala%C3%A7%C3%A3o/dp/B0BTW63QWJ?ref=dlx_deals_dg_dcl_B0BTW63QWJ_dt_sl14_88_pi&pf_rd_r=8QKX6QNCY8C5A6N55SXV&pf_rd_p=a43a02c5-fe2d-4a34-af71-7d62fff70488&tag=mixdm22-20",
     "last_checked_at": "2026-07-16T20:00:31.647Z",
-    "spotlight": true
+    "spotlight": false
   },
   {
     "asin": "B0779MYMCL",
@@ -13328,7 +13328,7 @@ const PRODUCTS = [
     "informacoes_produto": {},
     "affiliate_url": "https://www.amazon.com.br/Varal-Prendedores-Flash-Limp-Verde/dp/B0779MYMCL?ref=dlx_deals_dg_dcl_B0779MYMCL_dt_sl14_88_pi&pf_rd_r=8QKX6QNCY8C5A6N55SXV&pf_rd_p=a43a02c5-fe2d-4a34-af71-7d62fff70488&tag=mixdm22-20",
     "last_checked_at": "2026-07-16T20:00:31.647Z",
-    "spotlight": true
+    "spotlight": false
   },
   {
     "asin": "B0CP2Y9H77",
@@ -13353,7 +13353,7 @@ const PRODUCTS = [
     },
     "affiliate_url": "https://www.amazon.com.br/LYOR-Porta-Retrato-10cm-15cm/dp/B0CP2Y9H77?ref=dlx_deals_dg_dcl_B0CP2Y9H77_dt_sl14_88_pi&pf_rd_r=8QKX6QNCY8C5A6N55SXV&pf_rd_p=a43a02c5-fe2d-4a34-af71-7d62fff70488&tag=mixdm22-20",
     "last_checked_at": "2026-07-16T20:00:31.647Z",
-    "spotlight": true
+    "spotlight": false
   },
   {
     "asin": "B07R17P1QJ",
@@ -13378,7 +13378,7 @@ const PRODUCTS = [
     },
     "affiliate_url": "https://www.amazon.com.br/Algod%C3%A3o-Purificador-Freshmatic-Air-Wick/dp/B07R17P1QJ?ref=dlx_deals_dg_dcl_B07R17P1QJ_dt_sl14_88_pi&pf_rd_r=8QKX6QNCY8C5A6N55SXV&pf_rd_p=a43a02c5-fe2d-4a34-af71-7d62fff70488&tag=mixdm22-20",
     "last_checked_at": "2026-07-16T20:00:31.647Z",
-    "spotlight": true
+    "spotlight": false
   },
   {
     "asin": "B0GKQ8W2XV",
@@ -13403,7 +13403,7 @@ const PRODUCTS = [
     },
     "affiliate_url": "https://www.amazon.com.br/Ultrafino-Antideslizante-360%C2%B0Graus-Refor%C3%A7ado-CSCABIDES/dp/B0GKQ8W2XV?ref=dlx_deals_dg_dcl_B0GKQ8W2XV_dt_sl14_88_pi&pf_rd_r=8QKX6QNCY8C5A6N55SXV&pf_rd_p=a43a02c5-fe2d-4a34-af71-7d62fff70488&tag=mixdm22-20",
     "last_checked_at": "2026-07-16T20:00:31.647Z",
-    "spotlight": true
+    "spotlight": false
   },
   {
     "asin": "B0F8PJVVFG",
@@ -13428,7 +13428,7 @@ const PRODUCTS = [
     },
     "affiliate_url": "https://www.amazon.com.br/Adulto-Preto-Antideslizante-Resistente-CSCABIDES/dp/B0F8PJVVFG?ref=dlx_deals_dg_dcl_B0F8PJVVFG_dt_sl14_88_pi&pf_rd_r=8QKX6QNCY8C5A6N55SXV&pf_rd_p=a43a02c5-fe2d-4a34-af71-7d62fff70488&tag=mixdm22-20",
     "last_checked_at": "2026-07-16T20:00:31.647Z",
-    "spotlight": true
+    "spotlight": false
   },
   {
     "asin": "B0DDRJF3JP",
@@ -13453,7 +13453,7 @@ const PRODUCTS = [
     },
     "affiliate_url": "https://www.amazon.com.br/LYOR-Porta-Retrato-Bege-13cm-18cm/dp/B0DDRJF3JP?ref=dlx_deals_dg_dcl_B0DDRJF3JP_dt_sl14_88_pi&pf_rd_r=8QKX6QNCY8C5A6N55SXV&pf_rd_p=a43a02c5-fe2d-4a34-af71-7d62fff70488&tag=mixdm22-20",
     "last_checked_at": "2026-07-16T20:00:31.647Z",
-    "spotlight": true
+    "spotlight": false
   },
   {
     "asin": "B0FLYK4TDF",
@@ -13478,7 +13478,7 @@ const PRODUCTS = [
     },
     "affiliate_url": "https://www.amazon.com.br/Toalhas-Buddemeyer-Extra-Banho-Verde/dp/B0FLYK4TDF?ref=dlx_deals_dg_dcl_B0FLYK4TDF_dt_sl14_88_pi&pf_rd_r=8QKX6QNCY8C5A6N55SXV&pf_rd_p=a43a02c5-fe2d-4a34-af71-7d62fff70488&tag=mixdm22-20",
     "last_checked_at": "2026-07-16T20:00:31.647Z",
-    "spotlight": true
+    "spotlight": false
   },
   {
     "asin": "B0GY8STGGL",
@@ -13503,7 +13503,7 @@ const PRODUCTS = [
     },
     "affiliate_url": "https://www.amazon.com.br/Ventilador-Revers%C3%ADvel-Velocidades-Dimeriz%C3%A1vel-Silencioso/dp/B0GY8STGGL?ref=dlx_deals_dg_dcl_B0GY8STGGL_dt_sl14_88_pi&pf_rd_r=8QKX6QNCY8C5A6N55SXV&pf_rd_p=a43a02c5-fe2d-4a34-af71-7d62fff70488&tag=mixdm22-20",
     "last_checked_at": "2026-07-16T20:00:31.647Z",
-    "spotlight": true
+    "spotlight": false
   },
   {
     "asin": "B0FVMNL83C",
@@ -13528,7 +13528,7 @@ const PRODUCTS = [
     },
     "affiliate_url": "https://www.amazon.com.br/Samsung-Ar-condicionado-Inverter-WindFree-AR60F18C1AWNAZ/dp/B0FVMNL83C?ref=dlx_deals_dg_dcl_B0FVMNL83C_dt_sl14_88_pi&pf_rd_r=8QKX6QNCY8C5A6N55SXV&pf_rd_p=a43a02c5-fe2d-4a34-af71-7d62fff70488&sbo=RZvfv%2F%2FHxDF%2BO5021pAnSA%3D%3D&tag=mixdm22-20",
     "last_checked_at": "2026-07-16T20:00:31.647Z",
-    "spotlight": true
+    "spotlight": false
   },
   {
     "asin": "B07CQDS5ZS",
@@ -13553,7 +13553,7 @@ const PRODUCTS = [
     },
     "affiliate_url": "https://www.amazon.com.br/Jogo-Mem%C3%B3ria-Madeira-Fazendinha-Filhos/dp/B07CQDS5ZS?ref=dlx_deals_dg_dcl_B07CQDS5ZS_dt_sl14_88_pi&pf_rd_r=C3BZDFFZK5356CTHE36A&pf_rd_p=a43a02c5-fe2d-4a34-af71-7d62fff70488&tag=mixdm22-20",
     "last_checked_at": "2026-07-16T20:00:31.647Z",
-    "spotlight": true
+    "spotlight": false
   },
   {
     "asin": "B083LS7N8P",
@@ -13578,7 +13578,7 @@ const PRODUCTS = [
     },
     "affiliate_url": "https://www.amazon.com.br/Clipe-Girat%C3%B3rio-Magn%C3%A9tico-GoPro-C%C3%A2meras/dp/B083LS7N8P?ref=dlx_deals_dg_dcl_B083LS7N8P_dt_sl14_88_pi&pf_rd_r=C3BZDFFZK5356CTHE36A&pf_rd_p=a43a02c5-fe2d-4a34-af71-7d62fff70488&tag=mixdm22-20",
     "last_checked_at": "2026-07-16T20:00:31.647Z",
-    "spotlight": true
+    "spotlight": false
   },
   {
     "asin": "B08C2BM57M",
@@ -13603,7 +13603,7 @@ const PRODUCTS = [
     },
     "affiliate_url": "https://www.amazon.com.br/Pais-Filhos-Mem%C3%B3ria-Bichos-Filhotes/dp/B08C2BM57M?ref=dlx_deals_dg_dcl_B08C2BM57M_dt_sl14_88_pi&pf_rd_r=C3BZDFFZK5356CTHE36A&pf_rd_p=a43a02c5-fe2d-4a34-af71-7d62fff70488&tag=mixdm22-20",
     "last_checked_at": "2026-07-16T20:00:31.647Z",
-    "spotlight": true
+    "spotlight": false
   },
   {
     "asin": "B07F4J9MFZ",
@@ -13628,7 +13628,7 @@ const PRODUCTS = [
     },
     "affiliate_url": "https://www.amazon.com.br/Expans%C3%A3o-Terraforming-Mars-Prelude-Meeple/dp/B07F4J9MFZ?ref=dlx_deals_dg_dcl_B07F4J9MFZ_dt_sl14_88_pi&pf_rd_r=C3BZDFFZK5356CTHE36A&pf_rd_p=a43a02c5-fe2d-4a34-af71-7d62fff70488&tag=mixdm22-20",
     "last_checked_at": "2026-07-16T20:00:31.647Z",
-    "spotlight": true
+    "spotlight": false
   },
   {
     "asin": "B07FM94Z5V",
@@ -13647,7 +13647,7 @@ const PRODUCTS = [
     "informacoes_produto": {},
     "affiliate_url": "https://www.amazon.com.br/Diverso-Multiplica%C3%A7%C3%A3o-Pais-Filhos-Multicor/dp/B07FM94Z5V?ref=dlx_deals_dg_dcl_B07FM94Z5V_dt_sl14_88_pi&pf_rd_r=C3BZDFFZK5356CTHE36A&pf_rd_p=a43a02c5-fe2d-4a34-af71-7d62fff70488&tag=mixdm22-20",
     "last_checked_at": "2026-07-16T20:00:31.647Z",
-    "spotlight": true
+    "spotlight": false
   },
   {
     "asin": "B0F8KFV2W2",
@@ -13672,7 +13672,7 @@ const PRODUCTS = [
     },
     "affiliate_url": "https://www.amazon.com.br/Granado-Sabonete-L%C3%ADquido-Vintage-Verbena/dp/B0F8KFV2W2?ref=dlx_deals_dg_dcl_B0F8KFV2W2_dt_sl14_88_pi&pf_rd_r=C3BZDFFZK5356CTHE36A&pf_rd_p=a43a02c5-fe2d-4a34-af71-7d62fff70488&tag=mixdm22-20",
     "last_checked_at": "2026-07-16T20:00:31.647Z",
-    "spotlight": true
+    "spotlight": false
   },
   {
     "asin": "B09XBX8WV4",
@@ -13691,7 +13691,7 @@ const PRODUCTS = [
     "informacoes_produto": {},
     "affiliate_url": "https://www.amazon.com.br/AGENER-11186-LACRI-COLIRIO-15/dp/B09XBX8WV4?ref=dlx_deals_dg_dcl_B09XBX8WV4_dt_sl14_88_pi&pf_rd_r=C3BZDFFZK5356CTHE36A&pf_rd_p=a43a02c5-fe2d-4a34-af71-7d62fff70488&tag=mixdm22-20",
     "last_checked_at": "2026-07-16T20:00:31.647Z",
-    "spotlight": true
+    "spotlight": false
   },
   {
     "asin": "6557521071",
@@ -13710,7 +13710,7 @@ const PRODUCTS = [
     "informacoes_produto": {},
     "affiliate_url": "https://www.amazon.com.br/Insta-English-Edit-students-Book-Workbook-3/dp/6557521071?ref=dlx_deals_dg_dcl_6557521071_dt_sl14_88_pi&pf_rd_r=C3BZDFFZK5356CTHE36A&pf_rd_p=a43a02c5-fe2d-4a34-af71-7d62fff70488&tag=mixdm22-20",
     "last_checked_at": "2026-07-16T20:00:31.647Z",
-    "spotlight": true
+    "spotlight": false
   },
   {
     "asin": "B0C5Z1ZT1C",
@@ -13735,7 +13735,7 @@ const PRODUCTS = [
     },
     "affiliate_url": "https://www.amazon.com.br/Taco-Gato-Cabra-Queijo-Pizza/dp/B0C5Z1ZT1C?ref=dlx_deals_dg_dcl_B0C5Z1ZT1C_dt_sl14_88_pi&pf_rd_r=C3BZDFFZK5356CTHE36A&pf_rd_p=a43a02c5-fe2d-4a34-af71-7d62fff70488&tag=mixdm22-20",
     "last_checked_at": "2026-07-16T20:00:31.647Z",
-    "spotlight": true
+    "spotlight": false
   },
   {
     "asin": "B0CKVRTBPS",
@@ -13759,7 +13759,7 @@ const PRODUCTS = [
     },
     "affiliate_url": "https://www.amazon.com.br/INSMEER-T%C3%A9rmico-Lancheiras-Salgadinhos-Termica/dp/B0CKVRTBPS?ref=dlx_deals_dg_dcl_B0CKVRTBPS_dt_sl14_88_pi&pf_rd_r=C3BZDFFZK5356CTHE36A&pf_rd_p=a43a02c5-fe2d-4a34-af71-7d62fff70488&tag=mixdm22-20",
     "last_checked_at": "2026-07-16T20:00:31.647Z",
-    "spotlight": true
+    "spotlight": false
   },
   {
     "asin": "B0BN31T7R1",
@@ -13784,7 +13784,7 @@ const PRODUCTS = [
     },
     "affiliate_url": "https://www.amazon.com.br/Bur%C3%B3-FDP-Tem%C3%A1tico-Expans%C3%A3o-engra%C3%A7adas/dp/B0BN31T7R1?ref=dlx_deals_dg_dcl_B0BN31T7R1_dt_sl14_88_pi&pf_rd_r=C3BZDFFZK5356CTHE36A&pf_rd_p=a43a02c5-fe2d-4a34-af71-7d62fff70488&tag=mixdm22-20",
     "last_checked_at": "2026-07-16T20:00:31.647Z",
-    "spotlight": true
+    "spotlight": false
   },
   {
     "asin": "B0829FQ4Z3",
@@ -13809,7 +13809,7 @@ const PRODUCTS = [
     },
     "affiliate_url": "https://www.amazon.com.br/500ml-Vidro-Tampa-Redondo-Mantimento/dp/B0829FQ4Z3?ref=dlx_deals_dg_dcl_B0829FQ4Z3_dt_sl14_88_pi&pf_rd_r=C3BZDFFZK5356CTHE36A&pf_rd_p=a43a02c5-fe2d-4a34-af71-7d62fff70488&tag=mixdm22-20",
     "last_checked_at": "2026-07-16T20:00:31.647Z",
-    "spotlight": true
+    "spotlight": false
   },
   {
     "asin": "B0FN6HPVRH",
@@ -13828,7 +13828,7 @@ const PRODUCTS = [
     "informacoes_produto": {},
     "affiliate_url": "https://www.amazon.com.br/007-First-Light-Legacy-PlayStation/dp/B0FN6HPVRH?ref=dlx_deals_dg_dcl_B0FN6HPVRH_dt_sl14_88_pi&pf_rd_r=C3BZDFFZK5356CTHE36A&pf_rd_p=a43a02c5-fe2d-4a34-af71-7d62fff70488&tag=mixdm22-20",
     "last_checked_at": "2026-07-16T20:00:31.647Z",
-    "spotlight": true
+    "spotlight": false
   },
   {
     "asin": "B0G2TB51WV",
@@ -13847,7 +13847,7 @@ const PRODUCTS = [
     "informacoes_produto": {},
     "affiliate_url": "https://www.amazon.com.br/Skybound-Games-163187-Invincible-PlayStation/dp/B0G2TB51WV?ref=dlx_deals_dg_dcl_B0G2TB51WV_dt_sl14_88_pi&pf_rd_r=RK80EEN22PEF2Z9WQQDB&pf_rd_p=a43a02c5-fe2d-4a34-af71-7d62fff70488&tag=mixdm22-20",
     "last_checked_at": "2026-07-16T20:00:31.647Z",
-    "spotlight": true
+    "spotlight": false
   },
   {
     "asin": "B0C9JJ2YJ6",
@@ -13876,7 +13876,7 @@ const PRODUCTS = [
     },
     "affiliate_url": "https://www.amazon.com.br/Base-Carregamento-Carregador-Controle-PS5-Padr%C3%A3o/dp/B0C9JJ2YJ6?ref=dlx_deals_dg_dcl_B0C9JJ2YJ6_dt_sl14_88_pi&pf_rd_r=RK80EEN22PEF2Z9WQQDB&pf_rd_p=a43a02c5-fe2d-4a34-af71-7d62fff70488&sbo=RZvfv%2F%2FHxDF%2BO5021pAnSA%3D%3D&tag=mixdm22-20",
     "last_checked_at": "2026-07-16T20:00:31.647Z",
-    "spotlight": true
+    "spotlight": false
   },
   {
     "asin": "B09XWJWMS1",
@@ -13901,7 +13901,7 @@ const PRODUCTS = [
     },
     "affiliate_url": "https://www.amazon.com.br/Redragon-HEADSET-GAMER-HERO-PRETO/dp/B09XWJWMS1?ref=dlx_deals_dg_dcl_B09XWJWMS1_dt_sl14_88_pi&pf_rd_r=RK80EEN22PEF2Z9WQQDB&pf_rd_p=a43a02c5-fe2d-4a34-af71-7d62fff70488&sbo=RZvfv%2F%2FHxDF%2BO5021pAnSA%3D%3D&tag=mixdm22-20",
     "last_checked_at": "2026-07-16T20:00:31.647Z",
-    "spotlight": true
+    "spotlight": false
   },
   {
     "asin": "B0GY1LKZ9J",
@@ -13926,7 +13926,7 @@ const PRODUCTS = [
     },
     "affiliate_url": "https://www.amazon.com.br/para-Starlink-Veicular-Completa-Ventosas/dp/B0GY1LKZ9J?ref=dlx_deals_dg_dcl_B0GY1LKZ9J_dt_sl14_88_pi&pf_rd_r=AX9HDEZWVQX4V6FEV3TT&pf_rd_p=a43a02c5-fe2d-4a34-af71-7d62fff70488&tag=mixdm22-20",
     "last_checked_at": "2026-07-16T20:00:31.647Z",
-    "spotlight": true
+    "spotlight": false
   },
   {
     "asin": "B0BPGSRYFH",
@@ -13955,7 +13955,7 @@ const PRODUCTS = [
     },
     "affiliate_url": "https://www.amazon.com.br/Adaptador-carregador-isqueiro-Anker-carregamento/dp/B0BPGSRYFH?ref=dlx_deals_dg_dcl_B0BPGSRYFH_dt_sl14_88_pi&pf_rd_r=AX9HDEZWVQX4V6FEV3TT&pf_rd_p=a43a02c5-fe2d-4a34-af71-7d62fff70488&tag=mixdm22-20",
     "last_checked_at": "2026-07-16T20:00:31.647Z",
-    "spotlight": true
+    "spotlight": false
   },
   {
     "asin": "B0BW8Z8JR4",
@@ -13980,7 +13980,7 @@ const PRODUCTS = [
     },
     "affiliate_url": "https://www.amazon.com.br/MIFA-Port%C3%A1teis-Bluetooth-Alto-falante-Emparelhamento/dp/B0BW8Z8JR4?ref=dlx_deals_dg_dcl_B0BW8Z8JR4_dt_sl14_88_pi&pf_rd_r=AX9HDEZWVQX4V6FEV3TT&pf_rd_p=a43a02c5-fe2d-4a34-af71-7d62fff70488&tag=mixdm22-20",
     "last_checked_at": "2026-07-16T20:00:31.647Z",
-    "spotlight": true
+    "spotlight": false
   },
   {
     "asin": "B0GTWWLPDZ",
@@ -14005,7 +14005,7 @@ const PRODUCTS = [
     },
     "affiliate_url": "https://www.amazon.com.br/Gera%C3%A7%C3%A3o-Polegadas-Acr%C3%ADlico-Sistema-Hiberna%C3%A7%C3%A3o/dp/B0GTWWLPDZ?ref=dlx_deals_dg_dcl_B0GTWWLPDZ_dt_sl14_88_pi&pf_rd_r=AX9HDEZWVQX4V6FEV3TT&pf_rd_p=a43a02c5-fe2d-4a34-af71-7d62fff70488&tag=mixdm22-20",
     "last_checked_at": "2026-07-16T20:00:31.646Z",
-    "spotlight": true
+    "spotlight": false
   },
   {
     "asin": "B0754CLVBZ",
@@ -14030,7 +14030,7 @@ const PRODUCTS = [
     },
     "affiliate_url": "https://www.amazon.com.br/CAIXA-SOM-AMB-2VIAS-C521B/dp/B0754CLVBZ?ref=dlx_deals_dg_dcl_B0754CLVBZ_dt_sl14_88_pi&pf_rd_r=AX9HDEZWVQX4V6FEV3TT&pf_rd_p=a43a02c5-fe2d-4a34-af71-7d62fff70488&tag=mixdm22-20",
     "last_checked_at": "2026-07-16T20:00:31.646Z",
-    "spotlight": true
+    "spotlight": false
   },
   {
     "asin": "B0H3W1FLMN",
@@ -14059,7 +14059,7 @@ const PRODUCTS = [
     },
     "affiliate_url": "https://www.amazon.com.br/Carregador-USB-C-Duplo-R%C3%A1pida-Portas/dp/B0H3W1FLMN?ref=dlx_deals_dg_dcl_B0H3W1FLMN_dt_sl14_88_pi&pf_rd_r=AX9HDEZWVQX4V6FEV3TT&pf_rd_p=a43a02c5-fe2d-4a34-af71-7d62fff70488&tag=mixdm22-20",
     "last_checked_at": "2026-07-16T20:00:31.646Z",
-    "spotlight": true
+    "spotlight": false
   },
   {
     "asin": "B07FTD6848",
@@ -14084,7 +14084,7 @@ const PRODUCTS = [
     },
     "affiliate_url": "https://www.amazon.com.br/EXTENSAO-SORT-2X0-10A-PRETO/dp/B07FTD6848?ref=dlx_deals_dg_dcl_B07FTD6848_dt_sl14_88_pi&pf_rd_r=AX9HDEZWVQX4V6FEV3TT&pf_rd_p=a43a02c5-fe2d-4a34-af71-7d62fff70488&tag=mixdm22-20",
     "last_checked_at": "2026-07-16T20:00:31.646Z",
-    "spotlight": true
+    "spotlight": false
   },
   {
     "asin": "B0GLNXMTD5",
@@ -14109,7 +14109,7 @@ const PRODUCTS = [
     },
     "affiliate_url": "https://www.amazon.com.br/Basike-Bluetooth-Port%C3%A1til-Est%C3%A9reo-Resistente/dp/B0GLNXMTD5?ref=dlx_deals_dg_dcl_B0GLNXMTD5_dt_sl14_88_pi&pf_rd_r=AX9HDEZWVQX4V6FEV3TT&pf_rd_p=a43a02c5-fe2d-4a34-af71-7d62fff70488&tag=mixdm22-20",
     "last_checked_at": "2026-07-16T20:00:31.646Z",
-    "spotlight": true
+    "spotlight": false
   },
   {
     "asin": "B0DHHWGY8T",
@@ -14133,7 +14133,7 @@ const PRODUCTS = [
     },
     "affiliate_url": "https://www.amazon.com.br/Hisense-C2-Ultra-Certificado-TriChroma/dp/B0DHHWGY8T?ref=dlx_deals_dg_dcl_B0DHHWGY8T_dt_sl14_88_pi&pf_rd_r=AX9HDEZWVQX4V6FEV3TT&pf_rd_p=a43a02c5-fe2d-4a34-af71-7d62fff70488&sbo=RZvfv%2F%2FHxDF%2BO5021pAnSA%3D%3D&tag=mixdm22-20",
     "last_checked_at": "2026-07-16T20:00:31.646Z",
-    "spotlight": true
+    "spotlight": false
   },
   {
     "asin": "B0GTGQ6JCT",
@@ -14158,7 +14158,7 @@ const PRODUCTS = [
     },
     "affiliate_url": "https://www.amazon.com.br/Armazenamento-Geladeira-Drenante-Pequeno-1750ml/dp/B0GTGQ6JCT?ref=dlx_deals_dg_dcl_B0GTGQ6JCT_dt_sl14_88_pi&pf_rd_r=JGWFH2FFCZ9HGRWCS4N7&pf_rd_p=a43a02c5-fe2d-4a34-af71-7d62fff70488&tag=mixdm22-20",
     "last_checked_at": "2026-07-16T20:00:31.646Z",
-    "spotlight": true
+    "spotlight": false
   },
   {
     "asin": "B0G3RS2KKQ",
@@ -14182,7 +14182,7 @@ const PRODUCTS = [
     },
     "affiliate_url": "https://www.amazon.com.br/Potes-Vidro-Herm%C3%A9tico-640ml-Travas/dp/B0G3RS2KKQ?ref=dlx_deals_dg_dcl_B0G3RS2KKQ_dt_sl14_88_pi&pf_rd_r=JGWFH2FFCZ9HGRWCS4N7&pf_rd_p=a43a02c5-fe2d-4a34-af71-7d62fff70488&tag=mixdm22-20",
     "last_checked_at": "2026-07-16T20:00:31.646Z",
-    "spotlight": true
+    "spotlight": false
   },
   {
     "asin": "B0H2W2274V",
@@ -14207,7 +14207,7 @@ const PRODUCTS = [
     },
     "affiliate_url": "https://www.amazon.com.br/Jarra-Vidro-Diamond-Transparente-Drinks/dp/B0H2W2274V?ref=dlx_deals_dg_dcl_B0H2W2274V_dt_sl14_88_pi&pf_rd_r=JGWFH2FFCZ9HGRWCS4N7&pf_rd_p=a43a02c5-fe2d-4a34-af71-7d62fff70488&tag=mixdm22-20",
     "last_checked_at": "2026-07-16T20:00:31.646Z",
-    "spotlight": true
+    "spotlight": false
   },
   {
     "asin": "B0FT4NZJGF",
@@ -14232,7 +14232,7 @@ const PRODUCTS = [
     },
     "affiliate_url": "https://www.amazon.com.br/Zonacriativa-Tumbler-inoxid%C3%A1vel-carregar-hidrata%C3%A7%C3%A3o/dp/B0FT4NZJGF?ref=dlx_deals_dg_dcl_B0FT4NZJGF_dt_sl14_88_pi&pf_rd_r=JGWFH2FFCZ9HGRWCS4N7&pf_rd_p=a43a02c5-fe2d-4a34-af71-7d62fff70488&tag=mixdm22-20",
     "last_checked_at": "2026-07-16T20:00:31.646Z",
-    "spotlight": true
+    "spotlight": false
   },
   {
     "asin": "B084KGWCZB",
@@ -14257,7 +14257,7 @@ const PRODUCTS = [
     },
     "affiliate_url": "https://www.amazon.com.br/Conjunto-Colheres-Bailarina-Inox-Oxford/dp/B084KGWCZB?ref=dlx_deals_dg_dcl_B084KGWCZB_dt_sl14_88_pi&pf_rd_r=JGWFH2FFCZ9HGRWCS4N7&pf_rd_p=a43a02c5-fe2d-4a34-af71-7d62fff70488&tag=mixdm22-20",
     "last_checked_at": "2026-07-16T20:00:31.646Z",
-    "spotlight": true
+    "spotlight": false
   },
   {
     "asin": "B07V2BSNLG",
@@ -14281,7 +14281,7 @@ const PRODUCTS = [
     },
     "affiliate_url": "https://www.amazon.com.br/SOUSPLAT-CRISTAL-RENAISSANCE-31-5cm/dp/B07V2BSNLG?ref=dlx_deals_dg_dcl_B07V2BSNLG_dt_sl14_88_pi&pf_rd_r=JGWFH2FFCZ9HGRWCS4N7&pf_rd_p=a43a02c5-fe2d-4a34-af71-7d62fff70488&tag=mixdm22-20",
     "last_checked_at": "2026-07-16T20:00:31.646Z",
-    "spotlight": true
+    "spotlight": false
   },
   {
     "asin": "B0GYQFWBPG",
@@ -14306,7 +14306,7 @@ const PRODUCTS = [
     },
     "affiliate_url": "https://www.amazon.com.br/Laruno-Escorredor-Suspenso-Organizador-Utens%C3%ADlios/dp/B0GYQFWBPG?ref=dlx_deals_dg_dcl_B0GYQFWBPG_dt_sl14_88_pi&pf_rd_r=JGWFH2FFCZ9HGRWCS4N7&pf_rd_p=a43a02c5-fe2d-4a34-af71-7d62fff70488&tag=mixdm22-20",
     "last_checked_at": "2026-07-16T20:00:31.646Z",
-    "spotlight": true
+    "spotlight": false
   },
   {
     "asin": "B0GZX1V8YN",
@@ -14331,7 +14331,7 @@ const PRODUCTS = [
     },
     "affiliate_url": "https://www.amazon.com.br/Escorredor-Centr%C3%ADfuga-Verduras-Vegetais-Compacto/dp/B0GZX1V8YN?ref=dlx_deals_dg_dcl_B0GZX1V8YN_dt_sl14_88_pi&pf_rd_r=JGWFH2FFCZ9HGRWCS4N7&pf_rd_p=a43a02c5-fe2d-4a34-af71-7d62fff70488&tag=mixdm22-20",
     "last_checked_at": "2026-07-16T20:00:31.646Z",
-    "spotlight": true
+    "spotlight": false
   },
   {
     "asin": "B0FF9X7RYZ",
@@ -14355,7 +14355,7 @@ const PRODUCTS = [
     },
     "affiliate_url": "https://www.amazon.com.br/Coquetel-Profissional-Coqueteleira-acr%C3%ADlico-Bartender/dp/B0FF9X7RYZ?ref=dlx_deals_dg_dcl_B0FF9X7RYZ_dt_sl14_88_pi&pf_rd_r=JGWFH2FFCZ9HGRWCS4N7&pf_rd_p=a43a02c5-fe2d-4a34-af71-7d62fff70488&tag=mixdm22-20",
     "last_checked_at": "2026-07-16T20:00:31.646Z",
-    "spotlight": true
+    "spotlight": false
   },
   {
     "asin": "B0B622WPLF",
@@ -14380,7 +14380,7 @@ const PRODUCTS = [
     },
     "affiliate_url": "https://www.amazon.com.br/Conjunto-Petisqueiras-Cer%C3%A2mica-Bandeja-Bambu/dp/B0B622WPLF?ref=dlx_deals_dg_dcl_B0B622WPLF_dt_sl14_88_pi&pf_rd_r=JGWFH2FFCZ9HGRWCS4N7&pf_rd_p=a43a02c5-fe2d-4a34-af71-7d62fff70488&tag=mixdm22-20",
     "last_checked_at": "2026-07-16T20:00:31.646Z",
-    "spotlight": true
+    "spotlight": false
   },
   {
     "asin": "B0GQ36ZJSD",
@@ -14405,7 +14405,7 @@ const PRODUCTS = [
     },
     "affiliate_url": "https://www.amazon.com.br/Completo-Pedra-Amolar-Incluir-Afia%C3%A7%C3%A3o/dp/B0GQ36ZJSD?ref=dlx_deals_dg_dcl_B0GQ36ZJSD_dt_sl14_88_pi&pf_rd_r=JGWFH2FFCZ9HGRWCS4N7&pf_rd_p=a43a02c5-fe2d-4a34-af71-7d62fff70488&tag=mixdm22-20",
     "last_checked_at": "2026-07-16T20:00:31.646Z",
-    "spotlight": true
+    "spotlight": false
   },
   {
     "asin": "B0CLDX1JSX",
@@ -14430,7 +14430,7 @@ const PRODUCTS = [
     },
     "affiliate_url": "https://www.amazon.com.br/Herm%C3%A9tica-Organizador-Alimentos-Retangular-Vazamento/dp/B0CLDX1JSX?ref=dlx_deals_dg_dcl_B0CLDX1JSX_dt_sl14_88_pi&pf_rd_r=JGWFH2FFCZ9HGRWCS4N7&pf_rd_p=a43a02c5-fe2d-4a34-af71-7d62fff70488&tag=mixdm22-20",
     "last_checked_at": "2026-07-16T20:00:31.646Z",
-    "spotlight": true
+    "spotlight": false
   },
   {
     "asin": "B07J67J825",
@@ -14455,7 +14455,7 @@ const PRODUCTS = [
     },
     "affiliate_url": "https://www.amazon.com.br/Conjunto-Potes-Multiuso-Euro-Vermelho/dp/B07J67J825?ref=dlx_deals_dg_dcl_B07J67J825_dt_sl14_88_pi&pf_rd_r=JGWFH2FFCZ9HGRWCS4N7&pf_rd_p=a43a02c5-fe2d-4a34-af71-7d62fff70488&tag=mixdm22-20",
     "last_checked_at": "2026-07-16T20:00:31.646Z",
-    "spotlight": true
+    "spotlight": false
   },
   {
     "asin": "B0FWRYP8TY",
@@ -14480,7 +14480,7 @@ const PRODUCTS = [
     },
     "affiliate_url": "https://www.amazon.com.br/Stanley-Garrafa-T%C3%A9rmica-Straw-Prickly/dp/B0FWRYP8TY?ref=dlx_deals_dg_dcl_B0FWRYP8TY_dt_sl14_88_pi&pf_rd_r=JGWFH2FFCZ9HGRWCS4N7&pf_rd_p=a43a02c5-fe2d-4a34-af71-7d62fff70488&tag=mixdm22-20",
     "last_checked_at": "2026-07-16T20:00:31.646Z",
-    "spotlight": true
+    "spotlight": false
   },
   {
     "asin": "B0FHXWK2HF",
@@ -14505,7 +14505,7 @@ const PRODUCTS = [
     },
     "affiliate_url": "https://www.amazon.com.br/Conjunto-Recipientes-Coloridas-Acess%C3%B3rios-Dom%C3%A9sticas/dp/B0FHXWK2HF?ref=dlx_deals_dg_dcl_B0FHXWK2HF_dt_sl14_88_pi&pf_rd_r=JGWFH2FFCZ9HGRWCS4N7&pf_rd_p=a43a02c5-fe2d-4a34-af71-7d62fff70488&tag=mixdm22-20",
     "last_checked_at": "2026-07-16T20:00:31.646Z",
-    "spotlight": true
+    "spotlight": false
   },
   {
     "asin": "B0GXFCKPXN",
@@ -14530,7 +14530,7 @@ const PRODUCTS = [
     },
     "affiliate_url": "https://www.amazon.com.br/MODUS-Garrafa-T%C3%A9rmica-950ml-Antivazamento/dp/B0GXFCKPXN?ref=dlx_deals_dg_dcl_B0GXFCKPXN_dt_sl14_88_pi&pf_rd_r=JGWFH2FFCZ9HGRWCS4N7&pf_rd_p=a43a02c5-fe2d-4a34-af71-7d62fff70488&tag=mixdm22-20",
     "last_checked_at": "2026-07-16T20:00:31.646Z",
-    "spotlight": true
+    "spotlight": false
   },
   {
     "asin": "B0D367F6J2",
@@ -14555,7 +14555,7 @@ const PRODUCTS = [
     },
     "affiliate_url": "https://www.amazon.com.br/Herm%C3%A9ticos-Mantimentos-Organizador-Alimentos-Transparente/dp/B0D367F6J2?ref=dlx_deals_dg_dcl_B0D367F6J2_dt_sl14_88_pi&pf_rd_r=JGWFH2FFCZ9HGRWCS4N7&pf_rd_p=a43a02c5-fe2d-4a34-af71-7d62fff70488&tag=mixdm22-20",
     "last_checked_at": "2026-07-16T20:00:31.646Z",
-    "spotlight": true
+    "spotlight": false
   },
   {
     "asin": "B0CK29XWWB",
@@ -14580,7 +14580,7 @@ const PRODUCTS = [
     },
     "affiliate_url": "https://www.amazon.com.br/Liquidificador-Individual-Personal-Hamilton-Beach/dp/B0CK29XWWB?ref=dlx_deals_dg_dcl_B0CK29XWWB_dt_sl14_88_pi&pf_rd_r=JGWFH2FFCZ9HGRWCS4N7&pf_rd_p=a43a02c5-fe2d-4a34-af71-7d62fff70488&tag=mixdm22-20",
     "last_checked_at": "2026-07-16T20:00:31.646Z",
-    "spotlight": true
+    "spotlight": false
   },
   {
     "asin": "B0F9WKDM13",
@@ -14605,7 +14605,7 @@ const PRODUCTS = [
     },
     "affiliate_url": "https://www.amazon.com.br/INSMEER-Bolsa-Termica-Lancheira-Marmita/dp/B0F9WKDM13?ref=dlx_deals_dg_dcl_B0F9WKDM13_dt_sl14_88_pi&pf_rd_r=JGWFH2FFCZ9HGRWCS4N7&pf_rd_p=a43a02c5-fe2d-4a34-af71-7d62fff70488&tag=mixdm22-20",
     "last_checked_at": "2026-07-16T20:00:31.646Z",
-    "spotlight": true
+    "spotlight": false
   },
   {
     "asin": "B07WSXP2ZW",
@@ -14630,7 +14630,7 @@ const PRODUCTS = [
     },
     "affiliate_url": "https://www.amazon.com.br/Travessa-Cristal-Diamante-25cm-13cm/dp/B07WSXP2ZW?ref=dlx_deals_dg_dcl_B07WSXP2ZW_dt_sl14_88_pi&pf_rd_r=JGWFH2FFCZ9HGRWCS4N7&pf_rd_p=a43a02c5-fe2d-4a34-af71-7d62fff70488&tag=mixdm22-20",
     "last_checked_at": "2026-07-16T20:00:31.646Z",
-    "spotlight": true
+    "spotlight": false
   },
   {
     "asin": "B0GTLW3HXJ",
@@ -14655,7 +14655,7 @@ const PRODUCTS = [
     },
     "affiliate_url": "https://www.amazon.com.br/Garrafa-T%C3%A9rmica-750ml-Emborrachada-Fluorescente/dp/B0GTLW3HXJ?ref=dlx_deals_dg_dcl_B0GTLW3HXJ_dt_sl14_88_pi&pf_rd_r=JGWFH2FFCZ9HGRWCS4N7&pf_rd_p=a43a02c5-fe2d-4a34-af71-7d62fff70488&sbo=RZvfv%2F%2FHxDF%2BO5021pAnSA%3D%3D&tag=mixdm22-20",
     "last_checked_at": "2026-07-16T20:00:31.645Z",
-    "spotlight": true
+    "spotlight": false
   },
   {
     "asin": "B0GQ9FV1LY",
@@ -14679,7 +14679,7 @@ const PRODUCTS = [
     },
     "affiliate_url": "https://www.amazon.com.br/Esportiva-Inoxid%C3%A1vel-Isolamento-Gradiente-Rosa-Vermelho/dp/B0GQ9FV1LY?ref=dlx_deals_dg_dcl_B0GQ9FV1LY_dt_sl14_88_pi&pf_rd_r=JGWFH2FFCZ9HGRWCS4N7&pf_rd_p=a43a02c5-fe2d-4a34-af71-7d62fff70488&sbo=RZvfv%2F%2FHxDF%2BO5021pAnSA%3D%3D&tag=mixdm22-20",
     "last_checked_at": "2026-07-16T20:00:31.645Z",
-    "spotlight": true
+    "spotlight": false
   },
   {
     "asin": "B0GQFBSQH1",
@@ -14703,7 +14703,7 @@ const PRODUCTS = [
     },
     "affiliate_url": "https://www.amazon.com.br/Garrafa-T%C3%A9rmica-Grande-Capacidade-Quente/dp/B0GQFBSQH1?ref=dlx_deals_dg_dcl_B0GQFBSQH1_dt_sl14_88_pi&pf_rd_r=JGWFH2FFCZ9HGRWCS4N7&pf_rd_p=a43a02c5-fe2d-4a34-af71-7d62fff70488&sbo=RZvfv%2F%2FHxDF%2BO5021pAnSA%3D%3D&tag=mixdm22-20",
     "last_checked_at": "2026-07-16T20:00:31.645Z",
-    "spotlight": true
+    "spotlight": false
   },
   {
     "asin": "B07B84G8WX",
@@ -14728,7 +14728,7 @@ const PRODUCTS = [
     },
     "affiliate_url": "https://www.amazon.com.br/Ajust%C3%A1vel-Hamilton-Beach-80393-BZ127-Pequeno/dp/B07B84G8WX?ref=dlx_deals_dg_dcl_B07B84G8WX_dt_sl14_88_pi&pf_rd_r=JGWFH2FFCZ9HGRWCS4N7&pf_rd_p=a43a02c5-fe2d-4a34-af71-7d62fff70488&sbo=9ZOMT9Jm0JH%2Ft%2BWi68iDSA%3D%3D&tag=mixdm22-20",
     "last_checked_at": "2026-07-16T20:00:31.645Z",
-    "spotlight": true
+    "spotlight": false
   },
   {
     "asin": "B0D932XDV6",
@@ -14753,7 +14753,7 @@ const PRODUCTS = [
     },
     "affiliate_url": "https://www.amazon.com.br/Cabides-Veludo-Antideslizantes-Ultrafino-Premiun/dp/B0D932XDV6?ref=dlx_deals_dg_dcl_B0D932XDV6_dt_sl14_88_pi&pf_rd_r=2PVWRMSKGBTFHHNN25Q1&pf_rd_p=a43a02c5-fe2d-4a34-af71-7d62fff70488&tag=mixdm22-20",
     "last_checked_at": "2026-07-16T20:00:31.645Z",
-    "spotlight": true
+    "spotlight": false
   },
   {
     "asin": "B078TH4RQL",
@@ -14772,7 +14772,7 @@ const PRODUCTS = [
     "informacoes_produto": {},
     "affiliate_url": "https://www.amazon.com.br/Refil-Girat%C3%B3rio-Flash-Limp-Verde/dp/B078TH4RQL?ref=dlx_deals_dg_dcl_B078TH4RQL_dt_sl14_88_pi&pf_rd_r=2PVWRMSKGBTFHHNN25Q1&pf_rd_p=a43a02c5-fe2d-4a34-af71-7d62fff70488&tag=mixdm22-20",
     "last_checked_at": "2026-07-16T20:00:31.645Z",
-    "spotlight": true
+    "spotlight": false
   },
   {
     "asin": "B0CLM9SM5Q",
@@ -14797,7 +14797,7 @@ const PRODUCTS = [
     },
     "affiliate_url": "https://www.amazon.com.br/Penteadeira-Dit%C3%A1lia-7-Gavetas-Pe-90/dp/B0CLM9SM5Q?ref=dlx_deals_dg_dcl_B0CLM9SM5Q_dt_sl14_88_pi&pf_rd_r=2PVWRMSKGBTFHHNN25Q1&pf_rd_p=a43a02c5-fe2d-4a34-af71-7d62fff70488&tag=mixdm22-20",
     "last_checked_at": "2026-07-16T20:00:31.645Z",
-    "spotlight": true
+    "spotlight": false
   },
   {
     "asin": "B0G5PYYLXZ",
@@ -14822,7 +14822,7 @@ const PRODUCTS = [
     },
     "affiliate_url": "https://www.amazon.com.br/WAP-Extratora-Port%C3%A1til-CLEANER-Autonomia/dp/B0G5PYYLXZ?ref=dlx_deals_dg_dcl_B0G5PYYLXZ_dt_sl14_88_pi&pf_rd_r=2PVWRMSKGBTFHHNN25Q1&pf_rd_p=a43a02c5-fe2d-4a34-af71-7d62fff70488&tag=mixdm22-20",
     "last_checked_at": "2026-07-16T20:00:31.645Z",
-    "spotlight": true
+    "spotlight": false
   },
   {
     "asin": "B07QQ3D7TS",
@@ -14847,7 +14847,7 @@ const PRODUCTS = [
     },
     "affiliate_url": "https://www.amazon.com.br/Potiche-Decorativo-Transparente-Wolff-Voltagev/dp/B07QQ3D7TS?ref=dlx_deals_dg_dcl_B07QQ3D7TS_dt_sl14_88_pi&pf_rd_r=2PVWRMSKGBTFHHNN25Q1&pf_rd_p=a43a02c5-fe2d-4a34-af71-7d62fff70488&tag=mixdm22-20",
     "last_checked_at": "2026-07-16T20:00:31.645Z",
-    "spotlight": true
+    "spotlight": false
   },
   {
     "asin": "B0D9PL8638",
@@ -14872,7 +14872,7 @@ const PRODUCTS = [
     },
     "affiliate_url": "https://www.amazon.com.br/Aspirador-Vertical-Brit%C3%A2nia-Ciclone-BAS30/dp/B0D9PL8638?ref=dlx_deals_dg_dcl_B0D9PL8638_dt_sl14_88_pi&pf_rd_r=2PVWRMSKGBTFHHNN25Q1&pf_rd_p=a43a02c5-fe2d-4a34-af71-7d62fff70488&sbo=RZvfv%2F%2FHxDF%2BO5021pAnSA%3D%3D&tag=mixdm22-20",
     "last_checked_at": "2026-07-16T20:00:31.645Z",
-    "spotlight": true
+    "spotlight": false
   },
   {
     "asin": "B0CN9MW6CJ",
@@ -14897,7 +14897,7 @@ const PRODUCTS = [
     },
     "affiliate_url": "https://www.amazon.com.br/Condicionado-Inverter-Hitachi-AirHome-Quente/dp/B0CN9MW6CJ?ref=dlx_deals_dg_dcl_B0CN9MW6CJ_dt_sl14_88_pi&pf_rd_r=2PVWRMSKGBTFHHNN25Q1&pf_rd_p=a43a02c5-fe2d-4a34-af71-7d62fff70488&sbo=RZvfv%2F%2FHxDF%2BO5021pAnSA%3D%3D&tag=mixdm22-20",
     "last_checked_at": "2026-07-16T20:00:31.645Z",
-    "spotlight": true
+    "spotlight": false
   },
   {
     "asin": "B0BX4HVJ8S",
@@ -14922,7 +14922,7 @@ const PRODUCTS = [
     },
     "affiliate_url": "https://www.amazon.com.br/Condicionado-Triple-Inverter-Consul-CBK12DBXNA/dp/B0BX4HVJ8S?ref=dlx_deals_dg_dcl_B0BX4HVJ8S_dt_sl14_88_pi&pf_rd_r=2PVWRMSKGBTFHHNN25Q1&pf_rd_p=a43a02c5-fe2d-4a34-af71-7d62fff70488&sbo=RZvfv%2F%2FHxDF%2BO5021pAnSA%3D%3D&tag=mixdm22-20",
     "last_checked_at": "2026-07-16T20:00:31.645Z",
-    "spotlight": true
+    "spotlight": false
   },
   {
     "asin": "index-49",
