@@ -426,34 +426,94 @@ function discountBadge(pct, size) {
   return `<div class="discount-badge ${size||''}"><span class="pct">-${pct}%</span><span class="off">OFF</span></div>`;
 }
 
+function pick(arr) { return arr[Math.floor(Math.random() * arr.length)]; }
+
+function extractKeyword(title) {
+  const words = title.split(/[\s,]+/).filter(w => w.length > 4);
+  return words.length > 2 ? words.slice(0, 2).join(" ") : null;
+}
+
 function generateSummary(p) {
   const cat = p.category || "diversos";
   const desconto = discountPercent(p);
   const nota = p.avaliacao || 0;
   const reviews = p.qtd_avaliacoes || 0;
+  const keyword = extractKeyword(p.title);
 
-  const catLabel = cat === "Ofertas do dia" ? "" : ` da categoria ${cat}`;
+  const sdesconto = [
+    `com ${desconto}% de desconto`,
+    `em oferta com ${desconto}% off`,
+    `pela metade do preço original`,
+    `saindo por apenas R$ ${fmtPrice(p.price_current)}`,
+    `com super desconto de ${desconto}%`
+  ];
 
-  let txt = "";
-  if (desconto && desconto >= 30) {
-    txt = `Oferta imperdível${catLabel}! Produto com ${desconto}% de desconto`;
-  } else if (desconto) {
-    txt = `Ótima oportunidade${catLabel} com ${desconto}% de desconto`;
+  const srating1 = [
+    `bem avaliado (${nota}/5) por ${reviews} clientes`,
+    `nota ${nota}/5 em ${reviews} avaliações`,
+    `aprovado por ${reviews} compradores com nota ${nota}/5`
+  ];
+
+  const srating2 = [
+    `com nota ${nota}/5 dos compradores`,
+    `bem avaliado por quem comprou`,
+    `com ótima reputação entre os clientes`
+  ];
+
+  const sreviews = [
+    `já são mais de ${(reviews/1000).toFixed(0)} mil avaliações positivas`,
+    `mais de ${(reviews/1000).toFixed(0)} mil clientes aprovaram`,
+    `${(reviews/1000).toFixed(0)} mil compradores já adquiriram`
+  ];
+
+  const sreviews2 = [
+    `avaliado por ${reviews} clientes`,
+    `${reviews} compradores já experimentaram`,
+    `já são ${reviews} avaliações`
+  ];
+
+  const send = [
+    `Imperdível, corre que o estoque voa!`,
+    `Aproveita antes que o preço suba.`,
+    `Melhor hora pra comprar, não perca!`,
+    `Garanta já na Amazon.`,
+    `Estoque limitado, garanta o seu!`,
+    `Não fique de fora, compre agora.`
+  ];
+
+  const sdescontoNull = [
+    `Preço competitivo que cabe no bolso`,
+    `Custo-benefício imperdível`,
+    `Vale cada centavo pelo que entrega`
+  ];
+
+  const aberturas = [
+    `Se você busca ${keyword ? `um ${keyword}` : "qualidade"}, esta é a hora certa`,
+    `Pra quem quer economizar, esse produto`,
+    `Dica do dia para a categoria ${cat}`,
+    `${keyword ? keyword.charAt(0).toUpperCase() + keyword.slice(1) : "Este produto"} é a pedida certa para quem não abre mão de qualidade`
+  ];
+
+  let txt;
+
+  if (desconto) {
+    const abertura = desconto >= 30
+      ? pick([`Oferta relâmpago`, `Imperdível`, `O melhor desconto do dia`, `Queima de estoque`])
+      : pick([`Oportunidade única`, `Vale a pena`, `Economia garantida`]);
+    txt = `${abertura} na categoria ${cat}! ${pick(sdesconto)}`;
+    if (nota >= 4.5 && reviews >= 1000) txt += ` e ${pick(srating1)}.`;
+    else if (nota >= 4.5) txt += ` e ${pick(srating2)}.`;
+    else if (reviews >= 1000) txt += `. ${pick(sreviews)}.`;
+    else txt += `. ${pick(sreviews2)}.`;
   } else {
-    txt = `Produto${catLabel} com preço competitivo`;
+    txt = `${pick(aberturas)}. `;
+    if (nota >= 4.5 && reviews >= 1000) txt += `${pick(sdescontoNull)} e ainda ${pick(srating1)}.`;
+    else if (nota >= 4.5) txt += `${pick(sdescontoNull)} e ${pick(srating2)}.`;
+    else if (reviews >= 1000) txt += `Já ${pick(sreviews)}.`;
+    else txt += `${pick(sdescontoNull)}.`;
   }
 
-  if (nota >= 4.5 && reviews >= 1000) {
-    txt += ` e avaliação ${nota}/5 de mais de ${(reviews/1000).toFixed(0)} mil clientes.`;
-  } else if (nota >= 4.5) {
-    txt += ` e nota ${nota}/5 dos compradores.`;
-  } else if (reviews >= 1000) {
-    txt += ` com mais de ${(reviews/1000).toFixed(0)} mil avaliações.`;
-  } else {
-    txt += ` avaliado por ${reviews} clientes.`;
-  }
-
-  txt += ` Garanta o seu na Amazon antes que o estoque acabe!`;
+  txt += ` ${pick(send)}`;
   return txt;
 }
 
