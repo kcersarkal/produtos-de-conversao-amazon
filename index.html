@@ -332,26 +332,10 @@ a { text-decoration:none; color:inherit; }
   <section data-view="contato">
     <div class="static-page">
       <h1>Contato</h1>
-      <p>Dúvida e sugestoes de produtos, preencha o formulario abaixo e enviaremos direto pro nosso e-mail.</p>
-      <form class="contact-form" onsubmit="return sendContactEmail(event)">
-        <div class="form-field">
-          <label for="contact-name">Nome</label>
-          <input type="text" id="contact-name" required placeholder="Seu nome">
-        </div>
-        <div class="form-field">
-          <label for="contact-email">Seu e-mail</label>
-          <input type="email" id="contact-email" required placeholder="voce@email.com">
-        </div>
-        <div class="form-field">
-          <label for="contact-message">Mensagem</label>
-          <textarea id="contact-message" required rows="5" placeholder="Escreva sua mensagem..."></textarea>
-        </div>
-        <button type="submit" class="btn btn-primary">Enviar mensagem</button>
-        <div id="contact-form-fallback" style="display:none; background:#FFF4EA; border:1px solid #FFE0C2; border-radius:12px; padding:14px; font-size:13px; color:#7A4B1E; line-height:1.6;">
-          Se o seu programa de email n\u00e3o abrir, nos escreva diretamente em:
-          <strong>mix.dumixof@gmail.com</strong>
-        </div>
-      </form>
+      <p>Tem dúvidas ou sugestões de produtos? Mande um e-mail direto pra gente:</p>
+      <p style="font-size:20px;font-weight:700;color:var(--orange-dark);margin-top:20px;">
+        <a href="mailto:mix.dumixof@gmail.com" style="color:inherit;">mix.dumixof@gmail.com</a>
+      </p>
     </div>
   </section>
 
@@ -366,6 +350,7 @@ a { text-decoration:none; color:inherit; }
           <span>MIX DU MIX OFERTAS</span>
         </div>
         <p>Ofertas da Amazon selecionadas e verificadas, atualizadas ao longo do dia.</p>
+        <p style="font-size:13px;color:#C9C6C2;margin-top:10px;">📧 mix.dumixof@gmail.com</p>
         <p style="font-size:12px;color:#8A8783;margin-top:8px;">última atualização: <span id="last-update">—</span></p>
       </div>
       <div class="footer-col">
@@ -835,24 +820,6 @@ function copyProductLink(asin) {
   } else {
     window.prompt("Copie o link:", productUrl);
   }
-}
-
-const CONTACT_EMAIL = "mix.dumixof@gmail.com";
-
-function sendContactEmail(event) {
-  event.preventDefault();
-  const name = document.getElementById("contact-name").value.trim();
-  const email = document.getElementById("contact-email").value.trim();
-  const message = document.getElementById("contact-message").value.trim();
-
-  const subject = `Contato pelo site — ${name}`;
-  const body = `Nome: ${name}\nE-mail para resposta: ${email}\n\nMensagem:\n${message}`;
-
-  window.location.href = `mailto:${CONTACT_EMAIL}?subject=${encodeURIComponent(subject)}&body=${encodeURIComponent(body)}`;
-  setTimeout(() => {
-    document.getElementById("contact-form-fallback").style.display = "block";
-  }, 3000);
-  return false;
 }
 
 function toggleDesc(btn) {
