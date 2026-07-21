@@ -43,5 +43,14 @@ window.PEDIDOS = [
     "preco": 227.9,
     "link": "https://kcersarkal.github.io/MixDuMix.of/?pedido=B0GYQF5DPD",
     "descricao": "Praticidade e Versatilidade no Seu Dia a Dia Tenha uma mesa ampla e funcional em qualquer lugar com montagem rápida e sem ferramentas. Estrutura dobrável tipo maleta facilita o transporte e armazenamento. Ideal para quem busca praticidade em eventos, viagens ou uso doméstico. Estrutura Resistente e Durável Fabricada com tampo reforçado e pés em material resistente, suporta uso frequente sem perder estabilidade. Design robusto com travas de segurança. Perfeita para quem precisa de durabilidade em ambientes internos e externos. Design Inteligente e Portátil Sistema dobrável compacto com alça integrada permite levar facilmente para qualquer lugar. Ocupa pouco espaço quando fechada. Ideal para camping, praia, churrascos e festas. Segurança e Estabilidade Garantidas Conta com sistema de travamento seguro que evita fechamentos acidentais durante o uso. Base firme e nivelada proporciona maior confiança. Perfeito para quem prioriza segurança e conforto. Conforto e Experiência Completa Superfície ampla de 1,80m acomoda várias pessoas com conforto. Ideal para refeições, reuniões, eventos e uso profissional. Excelente escolha para quem busca praticidade com estilo e funcionalidade."
+  },
+  {
+    "id": "B07GWXBGYS",
+    "asin": "B07GWXBGYS",
+    "titulo": "FISCHER COOKTOP GÁS 5 BOCAS TC INFINITY MESA INOX BIVOLT 23678-54121",
+    "imagem": "https://m.media-amazon.com/images/I/71OM7XG9BbL._AC_SL1500_.jpg",
+    "preco": 979.9,
+    "link": "https://kcersarkal.github.io/MixDuMix.of/?pedido=B07GWXBGYS",
+    "descricao": "Mesa em aço inox escovado. 1 tripla Chama (3700W), 2 rápido (2900W) e 2 semi-rápido (1750W). Queimadores italianos. Acendimento super automático. Trempes dupla e individual em ferro fundido com acabamento fosco."
   }
 ];
