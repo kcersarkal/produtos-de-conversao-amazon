@@ -257,6 +257,7 @@ a { text-decoration:none; color:inherit; }
     </button>
     <nav class="header-nav">
       <a data-nav-view="home" onclick="navigate('home')" tabindex="0" role="link" onkeydown="if(event.key==='Enter'){navigate('home')}">Ofertas</a>
+      <a data-nav-view="pedidos" onclick="navigate('pedidos')" tabindex="0" role="link" onkeydown="if(event.key==='Enter'){navigate('pedidos')}">Pedidos</a>
       <a data-nav-view="sobre" onclick="navigate('sobre')" tabindex="0" role="link" onkeydown="if(event.key==='Enter'){navigate('sobre')}">Sobre</a>
       <a data-nav-view="contato" onclick="navigate('contato')" tabindex="0" role="link" onkeydown="if(event.key==='Enter'){navigate('contato')}">Contato</a>
     </nav>
@@ -267,6 +268,7 @@ a { text-decoration:none; color:inherit; }
   </div>
   <div class="mobile-menu" id="mobile-menu">
     <a data-nav-view="home" onclick="navigate('home');toggleMenu()">Ofertas</a>
+    <a data-nav-view="pedidos" onclick="navigate('pedidos');toggleMenu()">Pedidos</a>
     <a data-nav-view="sobre" onclick="navigate('sobre');toggleMenu()">Sobre</a>
     <a data-nav-view="contato" onclick="navigate('contato');toggleMenu()">Contato</a>
   </div>
@@ -296,6 +298,27 @@ a { text-decoration:none; color:inherit; }
   <!-- PRODUTO -->
   <section data-view="produto">
     <div id="product-container"></div>
+  </section>
+
+  <!-- PEDIDOS -->
+  <section data-view="pedidos">
+    <div class="container" style="padding-top:40px;padding-bottom:60px;">
+      <div class="section-heading">
+        <h2>Pedidos</h2>
+        <span class="count" id="pedidos-count"></span>
+      </div>
+      <p style="color:var(--gray-text);font-size:14px;margin-bottom:24px;">Produtos enviados pelos nossos visitantes. Clique para ver detalhes.</p>
+      <div id="pedidos-grid" class="grid"></div>
+      <div id="pedidos-empty" class="empty-state" style="display:none;">
+        <h2>Nenhum pedido ainda</h2>
+        <p>Envie o link de um produto da Amazon para pedir uma oferta personalizada.</p>
+      </div>
+    </div>
+  </section>
+
+  <!-- PEDIDO DETALHE -->
+  <section data-view="pedido">
+    <div id="pedido-container"></div>
   </section>
 
   <!-- SOBRE -->
@@ -373,6 +396,7 @@ a { text-decoration:none; color:inherit; }
 </footer>
 
 <script src="produtos.js"></script>
+<script src="pedidos.js"></script>
 <script>
 /* ===========================================================
    LÃ“GICA DO SITE
@@ -811,6 +835,71 @@ function copyProductLink(asin) {
   }
 }
 
+function pedidoCard(p) {
+  return `<article class="card" onclick="navigate('pedido','${p.id||p.asin}')" role="link" tabindex="0" aria-label="${p.titulo}" onkeydown="if(event.key==='Enter'||event.key===' '){event.preventDefault();navigate('pedido','${p.id||p.asin}');}">
+    <div class="card-link">
+      <div class="card-img">
+        <img src="${p.imagem||'https://via.placeholder.com/200'}" alt="${p.titulo}" loading="lazy" onerror="this.src='https://via.placeholder.com/200'">
+      </div>
+      <div class="card-body">
+        <h3 class="card-title">${p.titulo}</h3>
+        <div class="card-footer">
+          ${p.preco ? `<div class="price-row"><span class="price-current">R$ ${fmtPrice(p.preco)}</span></div>` : ""}
+          <div class="card-cta">Ver pedido <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M5 12h14M12 5l7 7-7 7"/></svg></div>
+        </div>
+      </div>
+    </div>
+  </article>`;
+}
+
+function renderPedidos() {
+  const grid = document.getElementById("pedidos-grid");
+  const empty = document.getElementById("pedidos-empty");
+  const countEl = document.getElementById("pedidos-count");
+  const pedidos = window.PEDIDOS || [];
+  if (pedidos.length === 0) {
+    grid.innerHTML = "";
+    empty.style.display = "block";
+    if (countEl) countEl.textContent = "0 pedidos";
+    return;
+  }
+  empty.style.display = "none";
+  if (countEl) countEl.textContent = `${pedidos.length} pedido${pedidos.length>1?"s":""}`;
+  grid.innerHTML = pedidos.map(pedidoCard).join("");
+}
+
+function renderPedido(id) {
+  const container = document.getElementById("pedido-container");
+  const pedidos = window.PEDIDOS || [];
+  const p = pedidos.find(item => (item.id||item.asin) === id);
+  if (!p) {
+    container.innerHTML = `<div class="container" style="padding-top:40px;"><div class="empty-state"><h2>Pedido n\u00e3o encontrado</h2><button class="btn btn-primary" onclick="navigate('pedidos')">Voltar</button></div></div>`;
+    return;
+  }
+  container.innerHTML = `
+    <div class="container" style="padding-top:24px;padding-bottom:60px;">
+      <button class="back-button" onclick="navigate('pedidos')">
+        <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M19 12H5M12 19l-7-7 7-7"/></svg>
+        Voltar
+      </button>
+      <div class="product-detail">
+        <div class="product-img">
+          <img src="${p.imagem||'https://via.placeholder.com/400'}" alt="${p.titulo}" loading="lazy" onerror="this.src='https://via.placeholder.com/400'">
+        </div>
+        <div class="product-info">
+          <h1 class="product-title">${p.titulo}</h1>
+          ${p.preco ? `<div class="product-price-block"><div class="price-row"><span class="price-current">R$ ${fmtPrice(p.preco)}</span></div></div>` : ""}
+          ${p.descricao ? `<p class="product-desc" style="font-size:14px;line-height:1.6;color:var(--gray-text);margin-bottom:20px;">${p.descricao}</p>` : ""}
+          <div class="product-actions">
+            <a class="btn btn-primary btn-block" href="${p.link}" target="_blank" rel="nofollow sponsored noopener">Ver na loja</a>
+          </div>
+          <div class="freshness-note" style="margin-top:14px;"><span class="dot"></span>Pedido personalizado - pre\u00e7o sujeito a altera\u00e7\u00e3o</div>
+          <div class="disclosure" style="margin-top:12px;margin-bottom:0;font-size:12px;"><strong>Links de afiliado:</strong> como Associado Amazon, ganhamos com compras qualificadas. Isso n\u00e3o altera o pre\u00e7o que voc\u00ea paga.</div>
+        </div>
+      </div>
+    </div>`;
+}
+
 function toggleMenu() { document.getElementById('mobile-menu').classList.toggle('open'); }
 
 function copyCoupon(event, code) {
@@ -831,28 +920,38 @@ function goBack() {
   navigate(previousMainView);
 }
       
-      function navigate(view, asin) {
-  if (view !== "produto") {
+      function navigate(view, id) {
+  if (view !== "produto" && view !== "pedido") {
     previousMainView = view;
   }
-  if (view === "produto" && asin) {
-    history.pushState({ view: "produto", asin: asin }, "", "?produto=" + asin);
+  if (view === "produto" && id) {
+    history.pushState({ view: "produto", asin: id }, "", "?produto=" + id);
+  } else if (view === "pedido" && id) {
+    history.pushState({ view: "pedido", id: id }, "", "?pedido=" + id);
   } else {
     history.pushState({ view: view }, "", window.location.pathname);
   }
-  showView(view, asin);
+  showView(view, id);
 }
 
-function showView(view, asin) {
+function showView(view, id) {
   document.querySelectorAll("[data-view]").forEach(el => el.classList.remove("active"));
   document.querySelector(`[data-view="${view}"]`).classList.add("active");
   document.querySelectorAll(".header-nav a").forEach(a => a.classList.remove("current"));
-  const navMatch = view === "produto" ? "home" : view;
+  let navMatch = view;
+  if (view === "produto") navMatch = "home";
+  else if (view === "pedido") navMatch = "pedidos";
   const navEl = document.querySelector(`.header-nav a[data-nav-view="${navMatch}"]`);
   if (navEl) navEl.classList.add("current");
   if (view === "produto") {
-    renderProduct(asin);
+    renderProduct(id);
     document.title = "Oferta - Mix Du Mix Ofertas";
+  } else if (view === "pedido") {
+    renderPedido(id);
+    document.title = "Pedido - Mix Du Mix Ofertas";
+  } else if (view === "pedidos") {
+    renderPedidos();
+    document.title = "Pedidos - Mix Du Mix Ofertas";
   } else {
     document.title = view === "home" ? "Mis Du Mix ofertas | As melhores ofertas todos os dias" : `${view[0].toUpperCase()+view.slice(1)} - Mis Du Mix ofertas`;
   }
@@ -864,6 +963,8 @@ function routeFromInitialUrl() {
   const params = new URLSearchParams(window.location.search);
   const produtoAsin = params.get("produto");
   if (produtoAsin) { navigate("produto", produtoAsin); return; }
+  const pedidoId = params.get("pedido");
+  if (pedidoId) { navigate("pedido", pedidoId); return; }
   navigate("home");
 }
 document.addEventListener("DOMContentLoaded", () => {
