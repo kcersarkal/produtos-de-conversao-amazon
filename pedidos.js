@@ -34,5 +34,14 @@ window.PEDIDOS = [
     "preco": 27.94,
     "link": "https://www.amazon.com.br/dp/B0H4JJ3W4P?tag=mixstore04b3-20&ref_=mixdumix_pedido",
     "descricao": ""
+  },
+  {
+    "id": "B083LGFDGJ",
+    "asin": "B083LGFDGJ",
+    "titulo": "Notebook Acer Aspire 5 A515-45-R043 AMD Ryzen 5 Tela 15.6” 16 GB RAM 512 GB SSD Full HD LED IPS Windows 11 Home",
+    "imagem": "https://m.media-amazon.com/images/I/61lLvuwZaKL._AC_SL1000_.jpg",
+    "preco": 4199,
+    "link": "https://www.amazon.com.br/dp/B083LGFDGJ?tag=mixstore04b3-20&ref_=mixdumix_pedido",
+    "descricao": "Processador AMD Ryzen 5 5500U com 6 núcleos. Tela 15.6”com resolução Full HD. Memória RAM DDR4. 512 GB de armazenamento em SSD NVMe. Top cover em alumínio"
   }
 ];
